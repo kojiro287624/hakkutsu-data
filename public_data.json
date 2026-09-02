@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-09-02T01:06:57.666602",
+  "generated_at": "2026-09-02T05:24:15.500812",
   "count": 3788,
   "presets": {
     "standard": {
@@ -790,10 +790,10 @@
         "data_complete": false,
         "breakdown": {
           "profitability": null,
-          "growth": 0.0,
-          "soundness": 19.0,
-          "cash_power": 0.0,
-          "dividend_safety": 0.0
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -2573,14 +2573,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 92.4,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 17.9,
-          "growth": 20.0,
-          "soundness": 14.5,
-          "cash_power": 20.0,
-          "dividend_safety": 20.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -4764,14 +4764,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 57.1,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 4.7,
-          "growth": 0.0,
-          "soundness": 12.4,
-          "cash_power": 20.0,
-          "dividend_safety": 20.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -5178,14 +5178,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 48.6,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 3.2,
-          "growth": 0.0,
-          "soundness": 8.4,
-          "cash_power": 20.0,
-          "dividend_safety": 17.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -5522,14 +5522,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 85.5,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 12.7,
-          "growth": 20.0,
-          "soundness": 12.8,
-          "cash_power": 20.0,
-          "dividend_safety": 20.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -6199,14 +6199,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 18.8,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 4.3,
-          "growth": 0.0,
-          "soundness": 0.5,
-          "cash_power": 0.0,
-          "dividend_safety": 14.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -6475,14 +6475,14 @@
       "split_warning_message": "過去の有価証券報告書から、株式分割の影響が確認されています。表示されている年間配当は、現在の1株配当と異なる可能性があります。",
       "preset_tier": null,
       "quality_score": {
-        "total": 40.6,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 8.4,
-          "growth": 0.0,
-          "soundness": 5.2,
-          "cash_power": 20.0,
-          "dividend_safety": 7.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -7020,14 +7020,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 74.5,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 8.0,
-          "growth": 20.0,
-          "soundness": 6.5,
-          "cash_power": 20.0,
-          "dividend_safety": 20.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -8038,14 +8038,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 82.4,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 16.2,
-          "growth": 20.0,
-          "soundness": 16.2,
-          "cash_power": 20.0,
-          "dividend_safety": 10.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -9199,14 +9199,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 81.0,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 13.6,
-          "growth": 20.0,
-          "soundness": 10.4,
-          "cash_power": 20.0,
-          "dividend_safety": 17.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -9811,14 +9811,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 61.4,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 6.8,
-          "growth": 20.0,
-          "soundness": 0.6,
-          "cash_power": 20.0,
-          "dividend_safety": 14.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -10831,14 +10831,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 78.0,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 12.0,
-          "growth": 20.0,
-          "soundness": 16.0,
-          "cash_power": 20.0,
-          "dividend_safety": 10.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -11374,14 +11374,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 61.3,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 14.1,
-          "growth": 20.0,
-          "soundness": 7.2,
-          "cash_power": 0.0,
-          "dividend_safety": 20.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -11926,14 +11926,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 44.0,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 5.9,
-          "growth": 0.0,
-          "soundness": 8.1,
-          "cash_power": 20.0,
-          "dividend_safety": 10.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -12346,10 +12346,10 @@
         "data_complete": false,
         "breakdown": {
           "profitability": null,
-          "growth": 20.0,
-          "soundness": 2.8,
-          "cash_power": 0.0,
-          "dividend_safety": 10.0
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -13506,10 +13506,10 @@
         "data_complete": false,
         "breakdown": {
           "profitability": null,
-          "growth": 0.0,
-          "soundness": 2.8,
-          "cash_power": 20.0,
-          "dividend_safety": 10.0
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -13573,14 +13573,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 33.1,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 6.5,
-          "growth": 0.0,
-          "soundness": 6.6,
-          "cash_power": 0.0,
-          "dividend_safety": 20.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -13711,14 +13711,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 86.7,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 11.2,
-          "growth": 20.0,
-          "soundness": 15.5,
-          "cash_power": 20.0,
-          "dividend_safety": 20.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -13782,14 +13782,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 78.4,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 13.5,
-          "growth": 20.0,
-          "soundness": 7.9,
-          "cash_power": 20.0,
-          "dividend_safety": 17.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -14601,14 +14601,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 17.8,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 16.2,
-          "growth": 0.0,
-          "soundness": 1.6,
-          "cash_power": 0.0,
-          "dividend_safety": 0.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -18079,14 +18079,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 71.6,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 7.9,
-          "growth": 20.0,
-          "soundness": 3.7,
-          "cash_power": 20.0,
-          "dividend_safety": 20.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -18631,14 +18631,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 61.4,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 19.9,
-          "growth": 20.0,
-          "soundness": 1.5,
-          "cash_power": 20.0,
-          "dividend_safety": 0.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -18771,14 +18771,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 85.0,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 16.8,
-          "growth": 20.0,
-          "soundness": 14.2,
-          "cash_power": 20.0,
-          "dividend_safety": 14.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -19466,14 +19466,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 63.8,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 10.3,
-          "growth": 0.0,
-          "soundness": 13.5,
-          "cash_power": 20.0,
-          "dividend_safety": 20.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -19953,14 +19953,14 @@
       "split_warning_message": "過去の有価証券報告書から、株式分割の影響が確認されています。表示されている年間配当は、現在の1株配当と異なる可能性があります。",
       "preset_tier": null,
       "quality_score": {
-        "total": 53.1,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 14.7,
-          "growth": 0.0,
-          "soundness": 18.4,
-          "cash_power": 20.0,
-          "dividend_safety": 0.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -20158,14 +20158,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 52.7,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 12.1,
-          "growth": 0.0,
-          "soundness": 6.6,
-          "cash_power": 20.0,
-          "dividend_safety": 14.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -20296,14 +20296,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 37.0,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 6.5,
-          "growth": 20.0,
-          "soundness": 0.5,
-          "cash_power": 0.0,
-          "dividend_safety": 10.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -20367,14 +20367,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 57.4,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 2.8,
-          "growth": 0.0,
-          "soundness": 14.6,
-          "cash_power": 20.0,
-          "dividend_safety": 20.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -20993,14 +20993,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 46.3,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 8.9,
-          "growth": 20.0,
-          "soundness": 0.4,
-          "cash_power": 0.0,
-          "dividend_safety": 17.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -21064,14 +21064,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 48.4,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 10.7,
-          "growth": 20.0,
-          "soundness": 0.7,
-          "cash_power": 0.0,
-          "dividend_safety": 17.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -21274,14 +21274,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 46.0,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 8.4,
-          "growth": 20.0,
-          "soundness": 0.6,
-          "cash_power": 0.0,
-          "dividend_safety": 17.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -21345,14 +21345,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 39.0,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 2.4,
-          "growth": 0.0,
-          "soundness": 6.6,
-          "cash_power": 20.0,
-          "dividend_safety": 10.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -21483,14 +21483,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 65.5,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 6.2,
-          "growth": 20.0,
-          "soundness": 2.3,
-          "cash_power": 20.0,
-          "dividend_safety": 17.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -21626,14 +21626,14 @@
       "split_warning_message": "過去の有価証券報告書から、株式分割の影響が確認されています。表示されている年間配当は、現在の1株配当と異なる可能性があります。",
       "preset_tier": null,
       "quality_score": {
-        "total": 5.7,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 5.5,
-          "growth": 0.0,
-          "soundness": 0.2,
-          "cash_power": 0.0,
-          "dividend_safety": 0.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -21697,14 +21697,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 79.8,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 15.6,
-          "growth": 20.0,
-          "soundness": 10.2,
-          "cash_power": 20.0,
-          "dividend_safety": 14.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -21907,14 +21907,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 49.1,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 11.6,
-          "growth": 20.0,
-          "soundness": 0.5,
-          "cash_power": 0.0,
-          "dividend_safety": 17.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -22326,14 +22326,14 @@
       "split_warning_message": "過去の有価証券報告書から、株式分割の影響が確認されています。表示されている年間配当は、現在の1株配当と異なる可能性があります。",
       "preset_tier": null,
       "quality_score": {
-        "total": 9.5,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 9.1,
-          "growth": 0.0,
-          "soundness": 0.4,
-          "cash_power": 0.0,
-          "dividend_safety": 0.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -22466,14 +22466,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 44.7,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 4.0,
-          "growth": 20.0,
-          "soundness": 0.7,
-          "cash_power": 0.0,
-          "dividend_safety": 20.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -22677,14 +22677,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 49.8,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 9.4,
-          "growth": 20.0,
-          "soundness": 0.4,
-          "cash_power": 0.0,
-          "dividend_safety": 20.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -22748,14 +22748,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 39.0,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 8.7,
-          "growth": 20.0,
-          "soundness": 0.3,
-          "cash_power": 0.0,
-          "dividend_safety": 10.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -22960,14 +22960,14 @@
       "split_warning_message": "過去の有価証券報告書から、株式分割の影響が確認されています。表示されている年間配当は、現在の1株配当と異なる可能性があります。",
       "preset_tier": null,
       "quality_score": {
-        "total": 42.5,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 14.6,
-          "growth": 0.0,
-          "soundness": 7.9,
-          "cash_power": 20.0,
-          "dividend_safety": 0.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -23100,14 +23100,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 45.3,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 4.9,
-          "growth": 20.0,
-          "soundness": 0.4,
-          "cash_power": 0.0,
-          "dividend_safety": 20.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -23848,14 +23848,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 45.0,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 7.8,
-          "growth": 20.0,
-          "soundness": 0.2,
-          "cash_power": 0.0,
-          "dividend_safety": 17.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -24192,14 +24192,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 44.3,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 7.2,
-          "growth": 20.0,
-          "soundness": 0.1,
-          "cash_power": 0.0,
-          "dividend_safety": 17.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -24263,14 +24263,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 71.7,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 8.7,
-          "growth": 20.0,
-          "soundness": 3.0,
-          "cash_power": 20.0,
-          "dividend_safety": 20.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -24468,14 +24468,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 46.3,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 6.2,
-          "growth": 20.0,
-          "soundness": 0.1,
-          "cash_power": 0.0,
-          "dividend_safety": 20.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -24606,14 +24606,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 41.7,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 4.3,
-          "growth": 20.0,
-          "soundness": 0.4,
-          "cash_power": 0.0,
-          "dividend_safety": 17.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -24747,14 +24747,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 40.4,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 9.8,
-          "growth": 20.0,
-          "soundness": 0.6,
-          "cash_power": 0.0,
-          "dividend_safety": 10.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -24818,14 +24818,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 44.8,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 7.4,
-          "growth": 20.0,
-          "soundness": 0.4,
-          "cash_power": 0.0,
-          "dividend_safety": 17.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -25023,14 +25023,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 41.7,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 4.4,
-          "growth": 20.0,
-          "soundness": 0.3,
-          "cash_power": 0.0,
-          "dividend_safety": 17.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -25295,14 +25295,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 35.9,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 5.3,
-          "growth": 20.0,
-          "soundness": 0.6,
-          "cash_power": 0.0,
-          "dividend_safety": 10.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -25505,14 +25505,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 81.1,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 15.6,
-          "growth": 20.0,
-          "soundness": 5.5,
-          "cash_power": 20.0,
-          "dividend_safety": 20.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -25844,14 +25844,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 49.8,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 12.3,
-          "growth": 20.0,
-          "soundness": 0.5,
-          "cash_power": 0.0,
-          "dividend_safety": 17.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -26323,14 +26323,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 44.1,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 6.4,
-          "growth": 20.0,
-          "soundness": 0.7,
-          "cash_power": 0.0,
-          "dividend_safety": 17.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -26394,14 +26394,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 50.9,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 10.2,
-          "growth": 20.0,
-          "soundness": 0.7,
-          "cash_power": 0.0,
-          "dividend_safety": 20.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -26533,14 +26533,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 32.6,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 11.8,
-          "growth": 0.0,
-          "soundness": 10.8,
-          "cash_power": 0.0,
-          "dividend_safety": 10.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -26810,14 +26810,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 48.0,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 7.9,
-          "growth": 20.0,
-          "soundness": 0.1,
-          "cash_power": 0.0,
-          "dividend_safety": 20.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -27223,14 +27223,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 22.8,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 2.6,
-          "growth": 0.0,
-          "soundness": 0.2,
-          "cash_power": 0.0,
-          "dividend_safety": 20.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -27495,14 +27495,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 36.8,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 13.2,
-          "growth": 0.0,
-          "soundness": 6.6,
-          "cash_power": 0.0,
-          "dividend_safety": 17.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -27700,14 +27700,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 78.7,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 8.5,
-          "growth": 20.0,
-          "soundness": 16.2,
-          "cash_power": 20.0,
-          "dividend_safety": 14.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -27842,14 +27842,14 @@
       "split_warning_message": "過去の有価証券報告書から、株式分割の影響が確認されています。表示されている年間配当は、現在の1株配当と異なる可能性があります。",
       "preset_tier": null,
       "quality_score": {
-        "total": 25.2,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 12.4,
-          "growth": 0.0,
-          "soundness": 2.8,
-          "cash_power": 0.0,
-          "dividend_safety": 10.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -28318,14 +28318,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 59.1,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 18.3,
-          "growth": 20.0,
-          "soundness": 0.8,
-          "cash_power": 0.0,
-          "dividend_safety": 20.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -28667,14 +28667,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 50.2,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 10.0,
-          "growth": 20.0,
-          "soundness": 0.2,
-          "cash_power": 0.0,
-          "dividend_safety": 20.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -30534,14 +30534,14 @@
       "split_warning_message": "過去の有価証券報告書から、株式分割の影響が確認されています。表示されている年間配当は、現在の1株配当と異なる可能性があります。",
       "preset_tier": null,
       "quality_score": {
-        "total": 53.3,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 13.0,
-          "growth": 0.0,
-          "soundness": 10.3,
-          "cash_power": 20.0,
-          "dividend_safety": 10.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -30746,14 +30746,14 @@
       "split_warning_message": "過去の有価証券報告書から、株式分割の影響が確認されています。表示されている年間配当は、現在の1株配当と異なる可能性があります。",
       "preset_tier": null,
       "quality_score": {
-        "total": 13.2,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 12.7,
-          "growth": 0.0,
-          "soundness": 0.5,
-          "cash_power": 0.0,
-          "dividend_safety": 0.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -31018,14 +31018,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 34.9,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 4.3,
-          "growth": 20.0,
-          "soundness": 0.6,
-          "cash_power": 0.0,
-          "dividend_safety": 10.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -31229,14 +31229,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 63.4,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 11.0,
-          "growth": 0.0,
-          "soundness": 12.4,
-          "cash_power": 20.0,
-          "dividend_safety": 20.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -31300,14 +31300,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 22.9,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 5.5,
-          "growth": 0.0,
-          "soundness": 0.4,
-          "cash_power": 0.0,
-          "dividend_safety": 17.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -31650,14 +31650,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 52.5,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 10.8,
-          "growth": 0.0,
-          "soundness": 1.7,
-          "cash_power": 20.0,
-          "dividend_safety": 20.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -31792,14 +31792,14 @@
       "split_warning_message": "過去の有価証券報告書から、株式分割の影響が確認されています。表示されている年間配当は、現在の1株配当と異なる可能性があります。",
       "preset_tier": null,
       "quality_score": {
-        "total": 18.4,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 11.2,
-          "growth": 0.0,
-          "soundness": 0.2,
-          "cash_power": 0.0,
-          "dividend_safety": 7.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -31863,14 +31863,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 71.0,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 8.0,
-          "growth": 20.0,
-          "soundness": 3.0,
-          "cash_power": 20.0,
-          "dividend_safety": 20.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -32701,14 +32701,14 @@
       "split_warning_message": "過去の有価証券報告書から、株式分割の影響が確認されています。表示されている年間配当は、現在の1株配当と異なる可能性があります。",
       "preset_tier": null,
       "quality_score": {
-        "total": 46.8,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 2.2,
-          "growth": 0.0,
-          "soundness": 17.6,
-          "cash_power": 20.0,
-          "dividend_safety": 7.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -32772,14 +32772,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 51.1,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 3.9,
-          "growth": 0.0,
-          "soundness": 10.2,
-          "cash_power": 20.0,
-          "dividend_safety": 17.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -32846,11 +32846,11 @@
         "total": null,
         "data_complete": false,
         "breakdown": {
-          "profitability": 10.6,
+          "profitability": null,
           "growth": null,
-          "soundness": 7.3,
-          "cash_power": 10.9,
-          "dividend_safety": 0.0
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": "5000億〜1兆円",
@@ -32914,14 +32914,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 46.1,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 11.9,
-          "growth": 20.0,
-          "soundness": 0.2,
-          "cash_power": 0.0,
-          "dividend_safety": 14.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -33328,14 +33328,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 49.6,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 9.3,
-          "growth": 20.0,
-          "soundness": 0.3,
-          "cash_power": 0.0,
-          "dividend_safety": 20.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -33399,14 +33399,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 45.2,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 4.9,
-          "growth": 20.0,
-          "soundness": 0.3,
-          "cash_power": 0.0,
-          "dividend_safety": 20.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -33673,14 +33673,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 15.9,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 4.7,
-          "growth": 0.0,
-          "soundness": 1.2,
-          "cash_power": 0.0,
-          "dividend_safety": 10.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -34488,14 +34488,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 75.3,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 11.0,
-          "growth": 20.0,
-          "soundness": 4.3,
-          "cash_power": 20.0,
-          "dividend_safety": 20.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -34833,14 +34833,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 59.2,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 17.8,
-          "growth": 20.0,
-          "soundness": 1.4,
-          "cash_power": 0.0,
-          "dividend_safety": 20.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -35243,14 +35243,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 53.6,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 12.9,
-          "growth": 20.0,
-          "soundness": 0.7,
-          "cash_power": 0.0,
-          "dividend_safety": 20.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -35593,14 +35593,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 66.9,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 9.8,
-          "growth": 20.0,
-          "soundness": 0.1,
-          "cash_power": 20.0,
-          "dividend_safety": 17.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -35664,14 +35664,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 58.8,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 11.7,
-          "growth": 20.0,
-          "soundness": 10.1,
-          "cash_power": 0.0,
-          "dividend_safety": 17.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -36216,14 +36216,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 46.2,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 5.7,
-          "growth": 20.0,
-          "soundness": 0.5,
-          "cash_power": 0.0,
-          "dividend_safety": 20.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -36287,14 +36287,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 40.0,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 5.3,
-          "growth": 20.0,
-          "soundness": 0.7,
-          "cash_power": 0.0,
-          "dividend_safety": 14.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -37108,14 +37108,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 47.1,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 6.8,
-          "growth": 20.0,
-          "soundness": 0.3,
-          "cash_power": 0.0,
-          "dividend_safety": 20.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -37523,14 +37523,14 @@
       "split_warning_message": "過去の有価証券報告書から、株式分割の影響が確認されています。表示されている年間配当は、現在の1株配当と異なる可能性があります。",
       "preset_tier": null,
       "quality_score": {
-        "total": 42.1,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 9.6,
-          "growth": 0.0,
-          "soundness": 2.5,
-          "cash_power": 20.0,
-          "dividend_safety": 10.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -37594,14 +37594,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 57.8,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 9.6,
-          "growth": 20.0,
-          "soundness": 8.2,
-          "cash_power": 0.0,
-          "dividend_safety": 20.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -37933,14 +37933,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 30.4,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 0.3,
-          "growth": 20.0,
-          "soundness": 0.1,
-          "cash_power": 0.0,
-          "dividend_safety": 10.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -38475,14 +38475,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 34.8,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 4.5,
-          "growth": 20.0,
-          "soundness": 0.3,
-          "cash_power": 0.0,
-          "dividend_safety": 10.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -38747,14 +38747,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 74.9,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 7.3,
-          "growth": 20.0,
-          "soundness": 7.6,
-          "cash_power": 20.0,
-          "dividend_safety": 20.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -38891,14 +38891,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 36.0,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 5.7,
-          "growth": 20.0,
-          "soundness": 0.3,
-          "cash_power": 0.0,
-          "dividend_safety": 10.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -39366,14 +39366,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 23.0,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 2.9,
-          "growth": 0.0,
-          "soundness": 0.1,
-          "cash_power": 0.0,
-          "dividend_safety": 20.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -39775,14 +39775,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 76.5,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 12.0,
-          "growth": 20.0,
-          "soundness": 4.5,
-          "cash_power": 20.0,
-          "dividend_safety": 20.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -39846,14 +39846,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 49.3,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 8.3,
-          "growth": 20.0,
-          "soundness": 11.0,
-          "cash_power": 0.0,
-          "dividend_safety": 10.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -39984,14 +39984,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 49.0,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 11.6,
-          "growth": 20.0,
-          "soundness": 0.4,
-          "cash_power": 0.0,
-          "dividend_safety": 17.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -40127,14 +40127,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 34.9,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 4.5,
-          "growth": 20.0,
-          "soundness": 0.4,
-          "cash_power": 0.0,
-          "dividend_safety": 10.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -40745,14 +40745,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 14.5,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 13.4,
-          "growth": 0.0,
-          "soundness": 1.1,
-          "cash_power": 0.0,
-          "dividend_safety": 0.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -40955,14 +40955,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 41.5,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 4.3,
-          "growth": 20.0,
-          "soundness": 0.2,
-          "cash_power": 0.0,
-          "dividend_safety": 17.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -41568,14 +41568,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 41.4,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 7.3,
-          "growth": 20.0,
-          "soundness": 0.1,
-          "cash_power": 0.0,
-          "dividend_safety": 14.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -41643,14 +41643,14 @@
       "split_warning_message": "過去の有価証券報告書から、株式分割の影響が確認されています。表示されている年間配当は、現在の1株配当と異なる可能性があります。",
       "preset_tier": null,
       "quality_score": {
-        "total": 35.1,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 16.1,
-          "growth": 0.0,
-          "soundness": 12.0,
-          "cash_power": 0.0,
-          "dividend_safety": 7.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -42731,14 +42731,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 36.0,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 5.7,
-          "growth": 20.0,
-          "soundness": 0.3,
-          "cash_power": 0.0,
-          "dividend_safety": 10.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -43412,14 +43412,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 22.5,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 2.4,
-          "growth": 0.0,
-          "soundness": 0.1,
-          "cash_power": 0.0,
-          "dividend_safety": 20.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -43751,14 +43751,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 23.9,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 3.8,
-          "growth": 0.0,
-          "soundness": 0.1,
-          "cash_power": 0.0,
-          "dividend_safety": 20.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -43894,14 +43894,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 40.1,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 5.9,
-          "growth": 20.0,
-          "soundness": 0.2,
-          "cash_power": 0.0,
-          "dividend_safety": 14.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -43965,14 +43965,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 42.3,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 4.9,
-          "growth": 20.0,
-          "soundness": 0.4,
-          "cash_power": 0.0,
-          "dividend_safety": 17.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -44108,14 +44108,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 15.0,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 4.4,
-          "growth": 0.0,
-          "soundness": 0.6,
-          "cash_power": 0.0,
-          "dividend_safety": 10.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -44928,14 +44928,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 7.0,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 2.9,
-          "growth": 0.0,
-          "soundness": 0.1,
-          "cash_power": 0.0,
-          "dividend_safety": 4.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -45558,14 +45558,14 @@
       "split_warning_message": "過去の有価証券報告書から、株式分割の影響が確認されています。表示されている年間配当は、現在の1株配当と異なる可能性があります。",
       "preset_tier": null,
       "quality_score": {
-        "total": 7.7,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 7.4,
-          "growth": 0.0,
-          "soundness": 0.3,
-          "cash_power": 0.0,
-          "dividend_safety": 0.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -46521,14 +46521,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 74.3,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 13.5,
-          "growth": 20.0,
-          "soundness": 3.8,
-          "cash_power": 20.0,
-          "dividend_safety": 17.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -46659,14 +46659,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 53.9,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 10.7,
-          "growth": 20.0,
-          "soundness": 13.2,
-          "cash_power": 0.0,
-          "dividend_safety": 10.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -46797,14 +46797,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 39.1,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 4.6,
-          "growth": 20.0,
-          "soundness": 0.5,
-          "cash_power": 0.0,
-          "dividend_safety": 14.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -47002,14 +47002,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 49.3,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 8.8,
-          "growth": 20.0,
-          "soundness": 0.5,
-          "cash_power": 0.0,
-          "dividend_safety": 20.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -47274,14 +47274,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 49.4,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 11.3,
-          "growth": 20.0,
-          "soundness": 1.1,
-          "cash_power": 0.0,
-          "dividend_safety": 17.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -47551,14 +47551,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 43.7,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 3.4,
-          "growth": 20.0,
-          "soundness": 0.3,
-          "cash_power": 0.0,
-          "dividend_safety": 20.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -47689,14 +47689,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 36.3,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 6.1,
-          "growth": 20.0,
-          "soundness": 0.2,
-          "cash_power": 0.0,
-          "dividend_safety": 10.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -47760,14 +47760,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 45.2,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 4.7,
-          "growth": 20.0,
-          "soundness": 0.5,
-          "cash_power": 0.0,
-          "dividend_safety": 20.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -47971,14 +47971,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 24.9,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 4.8,
-          "growth": 0.0,
-          "soundness": 0.1,
-          "cash_power": 0.0,
-          "dividend_safety": 20.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -48384,14 +48384,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 65.2,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 6.8,
-          "growth": 20.0,
-          "soundness": 1.4,
-          "cash_power": 20.0,
-          "dividend_safety": 17.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -48723,14 +48723,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 50.9,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 10.7,
-          "growth": 20.0,
-          "soundness": 0.2,
-          "cash_power": 0.0,
-          "dividend_safety": 20.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -48928,14 +48928,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 46.3,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 5.7,
-          "growth": 20.0,
-          "soundness": 0.6,
-          "cash_power": 0.0,
-          "dividend_safety": 20.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -49684,10 +49684,10 @@
         "data_complete": false,
         "breakdown": {
           "profitability": null,
-          "growth": 20.0,
-          "soundness": 20.0,
-          "cash_power": 0.0,
-          "dividend_safety": 0.0
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -49751,14 +49751,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 50.6,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 9.8,
-          "growth": 20.0,
-          "soundness": 0.8,
-          "cash_power": 0.0,
-          "dividend_safety": 20.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -50503,14 +50503,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 25.5,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 5.2,
-          "growth": 0.0,
-          "soundness": 0.3,
-          "cash_power": 0.0,
-          "dividend_safety": 20.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -50775,14 +50775,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 70.7,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 7.4,
-          "growth": 20.0,
-          "soundness": 3.3,
-          "cash_power": 20.0,
-          "dividend_safety": 20.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -51052,14 +51052,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 57.4,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 10.0,
-          "growth": 20.0,
-          "soundness": 13.4,
-          "cash_power": 0.0,
-          "dividend_safety": 14.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -51401,14 +51401,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 61.1,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 4.1,
-          "growth": 0.0,
-          "soundness": 17.0,
-          "cash_power": 20.0,
-          "dividend_safety": 20.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -51606,14 +51606,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 52.3,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 12.0,
-          "growth": 20.0,
-          "soundness": 0.3,
-          "cash_power": 0.0,
-          "dividend_safety": 20.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -51677,14 +51677,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 36.1,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 5.6,
-          "growth": 20.0,
-          "soundness": 0.5,
-          "cash_power": 0.0,
-          "dividend_safety": 10.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -52083,14 +52083,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 39.9,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 2.6,
-          "growth": 20.0,
-          "soundness": 0.3,
-          "cash_power": 0.0,
-          "dividend_safety": 17.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -52366,14 +52366,14 @@
       "split_warning_message": "過去の有価証券報告書から、株式分割の影響が確認されています。表示されている年間配当は、現在の1株配当と異なる可能性があります。",
       "preset_tier": null,
       "quality_score": {
-        "total": 34.5,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 10.4,
-          "growth": 0.0,
-          "soundness": 4.1,
-          "cash_power": 20.0,
-          "dividend_safety": 0.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -52504,14 +52504,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 46.2,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 5.8,
-          "growth": 20.0,
-          "soundness": 0.4,
-          "cash_power": 0.0,
-          "dividend_safety": 20.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -53121,14 +53121,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 25.4,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 5.1,
-          "growth": 0.0,
-          "soundness": 0.3,
-          "cash_power": 0.0,
-          "dividend_safety": 20.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -53467,14 +53467,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 53.3,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 13.1,
-          "growth": 20.0,
-          "soundness": 0.2,
-          "cash_power": 0.0,
-          "dividend_safety": 20.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -54570,14 +54570,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 44.8,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 10.1,
-          "growth": 20.0,
-          "soundness": 0.7,
-          "cash_power": 0.0,
-          "dividend_safety": 14.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -55327,14 +55327,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 48.3,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 7.9,
-          "growth": 20.0,
-          "soundness": 0.4,
-          "cash_power": 0.0,
-          "dividend_safety": 20.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -55532,14 +55532,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 74.4,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 7.2,
-          "growth": 20.0,
-          "soundness": 7.2,
-          "cash_power": 20.0,
-          "dividend_safety": 20.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -55603,14 +55603,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 25.0,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 4.9,
-          "growth": 0.0,
-          "soundness": 0.1,
-          "cash_power": 0.0,
-          "dividend_safety": 20.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -56085,14 +56085,14 @@
       "split_warning_message": "過去の有価証券報告書から、株式分割の影響が確認されています。表示されている年間配当は、現在の1株配当と異なる可能性があります。",
       "preset_tier": null,
       "quality_score": {
-        "total": 22.3,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 12.0,
-          "growth": 0.0,
-          "soundness": 0.3,
-          "cash_power": 0.0,
-          "dividend_safety": 10.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -57322,14 +57322,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 76.6,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 11.2,
-          "growth": 20.0,
-          "soundness": 5.4,
-          "cash_power": 20.0,
-          "dividend_safety": 20.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -57939,14 +57939,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 44.7,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 13.2,
-          "growth": 20.0,
-          "soundness": 1.5,
-          "cash_power": 0.0,
-          "dividend_safety": 10.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -58479,14 +58479,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 40.4,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 1.1,
-          "growth": 20.0,
-          "soundness": 9.3,
-          "cash_power": 0.0,
-          "dividend_safety": 10.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -59440,14 +59440,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 44.6,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 7.4,
-          "growth": 20.0,
-          "soundness": 0.2,
-          "cash_power": 0.0,
-          "dividend_safety": 17.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -60324,14 +60324,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 49.9,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 9.8,
-          "growth": 20.0,
-          "soundness": 0.1,
-          "cash_power": 0.0,
-          "dividend_safety": 20.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -60869,14 +60869,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 59.1,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 8.4,
-          "growth": 20.0,
-          "soundness": 10.7,
-          "cash_power": 0.0,
-          "dividend_safety": 20.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -63916,14 +63916,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 74.5,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 11.1,
-          "growth": 20.0,
-          "soundness": 3.4,
-          "cash_power": 20.0,
-          "dividend_safety": 20.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -64330,14 +64330,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 70.8,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 18.5,
-          "growth": 20.0,
-          "soundness": 12.3,
-          "cash_power": 0.0,
-          "dividend_safety": 20.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -64468,14 +64468,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 40.5,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 3.1,
-          "growth": 20.0,
-          "soundness": 0.4,
-          "cash_power": 0.0,
-          "dividend_safety": 17.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -65013,14 +65013,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 20.3,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 5.7,
-          "growth": 0.0,
-          "soundness": 0.6,
-          "cash_power": 0.0,
-          "dividend_safety": 14.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -65772,14 +65772,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 54.5,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 1.7,
-          "growth": 20.0,
-          "soundness": 15.8,
-          "cash_power": 0.0,
-          "dividend_safety": 17.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -66995,11 +66995,11 @@
         "total": null,
         "data_complete": false,
         "breakdown": {
-          "profitability": 5.7,
+          "profitability": null,
           "growth": null,
-          "soundness": 6.4,
-          "cash_power": 10.8,
-          "dividend_safety": 20.0
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": "300億〜1000億円",
@@ -67271,14 +67271,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 43.2,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 3.0,
-          "growth": 20.0,
-          "soundness": 0.2,
-          "cash_power": 0.0,
-          "dividend_safety": 20.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -68979,14 +68979,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 74.6,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 4.9,
-          "growth": 20.0,
-          "soundness": 9.7,
-          "cash_power": 20.0,
-          "dividend_safety": 20.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -69184,14 +69184,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 43.4,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 3.2,
-          "growth": 20.0,
-          "soundness": 0.2,
-          "cash_power": 0.0,
-          "dividend_safety": 20.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -69259,14 +69259,14 @@
       "split_warning_message": "過去の有価証券報告書から、株式分割の影響が確認されています。表示されている年間配当は、現在の1株配当と異なる可能性があります。",
       "preset_tier": null,
       "quality_score": {
-        "total": 26.7,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 3.4,
-          "growth": 0.0,
-          "soundness": 3.3,
-          "cash_power": 20.0,
-          "dividend_safety": 0.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -69330,14 +69330,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 73.2,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 8.5,
-          "growth": 20.0,
-          "soundness": 4.7,
-          "cash_power": 20.0,
-          "dividend_safety": 20.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -70145,14 +70145,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 77.0,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 6.2,
-          "growth": 20.0,
-          "soundness": 10.8,
-          "cash_power": 20.0,
-          "dividend_safety": 20.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -71096,14 +71096,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 42.6,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 2.8,
-          "growth": 0.0,
-          "soundness": 9.8,
-          "cash_power": 20.0,
-          "dividend_safety": 10.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -71995,14 +71995,14 @@
       "split_warning_message": "過去の有価証券報告書から、株式分割の影響が確認されています。表示されている年間配当は、現在の1株配当と異なる可能性があります。",
       "preset_tier": null,
       "quality_score": {
-        "total": 44.3,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 13.0,
-          "growth": 0.0,
-          "soundness": 7.3,
-          "cash_power": 20.0,
-          "dividend_safety": 4.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -73289,14 +73289,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 47.7,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 10.5,
-          "growth": 20.0,
-          "soundness": 0.2,
-          "cash_power": 0.0,
-          "dividend_safety": 17.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -74185,14 +74185,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 17.8,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 7.4,
-          "growth": 0.0,
-          "soundness": 0.4,
-          "cash_power": 0.0,
-          "dividend_safety": 10.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -74528,14 +74528,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 43.8,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 3.4,
-          "growth": 20.0,
-          "soundness": 0.4,
-          "cash_power": 0.0,
-          "dividend_safety": 20.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -75350,14 +75350,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 73.6,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 14.5,
-          "growth": 20.0,
-          "soundness": 2.1,
-          "cash_power": 20.0,
-          "dividend_safety": 17.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -75890,14 +75890,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 36.6,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 5.2,
-          "growth": 20.0,
-          "soundness": 1.4,
-          "cash_power": 0.0,
-          "dividend_safety": 10.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -77529,14 +77529,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 44.1,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 13.4,
-          "growth": 0.0,
-          "soundness": 16.7,
-          "cash_power": 0.0,
-          "dividend_safety": 14.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -78011,14 +78011,14 @@
       "split_warning_message": "過去の有価証券報告書から、株式分割の影響が確認されています。表示されている年間配当は、現在の1株配当と異なる可能性があります。",
       "preset_tier": null,
       "quality_score": {
-        "total": 36.8,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 9.8,
-          "growth": 0.0,
-          "soundness": 7.0,
-          "cash_power": 20.0,
-          "dividend_safety": 0.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -78082,14 +78082,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 58.0,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 18.0,
-          "growth": 20.0,
-          "soundness": 0.0,
-          "cash_power": 20.0,
-          "dividend_safety": 0.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -78153,14 +78153,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 74.2,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 14.8,
-          "growth": 20.0,
-          "soundness": 9.4,
-          "cash_power": 20.0,
-          "dividend_safety": 10.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -78973,14 +78973,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 48.0,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 17.5,
-          "growth": 20.0,
-          "soundness": 0.5,
-          "cash_power": 0.0,
-          "dividend_safety": 10.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -79871,14 +79871,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 46.3,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 6.2,
-          "growth": 20.0,
-          "soundness": 0.1,
-          "cash_power": 0.0,
-          "dividend_safety": 20.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -80481,14 +80481,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 44.4,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 7.0,
-          "growth": 20.0,
-          "soundness": 0.4,
-          "cash_power": 0.0,
-          "dividend_safety": 17.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -80753,14 +80753,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 53.3,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 15.5,
-          "growth": 20.0,
-          "soundness": 3.8,
-          "cash_power": 0.0,
-          "dividend_safety": 14.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -82041,14 +82041,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 48.0,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 7.8,
-          "growth": 20.0,
-          "soundness": 0.2,
-          "cash_power": 0.0,
-          "dividend_safety": 20.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -82246,14 +82246,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 66.0,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 11.6,
-          "growth": 20.0,
-          "soundness": 4.4,
-          "cash_power": 20.0,
-          "dividend_safety": 10.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -82790,14 +82790,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 63.8,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 10.0,
-          "growth": 0.0,
-          "soundness": 13.8,
-          "cash_power": 20.0,
-          "dividend_safety": 20.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -83539,14 +83539,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 84.6,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 13.9,
-          "growth": 20.0,
-          "soundness": 10.7,
-          "cash_power": 20.0,
-          "dividend_safety": 20.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -83749,14 +83749,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 45.6,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 5.5,
-          "growth": 20.0,
-          "soundness": 0.1,
-          "cash_power": 0.0,
-          "dividend_safety": 20.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -83887,14 +83887,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 83.1,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 5.6,
-          "growth": 20.0,
-          "soundness": 17.5,
-          "cash_power": 20.0,
-          "dividend_safety": 20.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -84502,14 +84502,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 70.3,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 9.2,
-          "growth": 20.0,
-          "soundness": 4.1,
-          "cash_power": 20.0,
-          "dividend_safety": 17.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -84913,14 +84913,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 36.8,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 2.7,
-          "growth": 20.0,
-          "soundness": 0.1,
-          "cash_power": 0.0,
-          "dividend_safety": 14.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -85876,14 +85876,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 28.8,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 10.7,
-          "growth": 0.0,
-          "soundness": 1.1,
-          "cash_power": 0.0,
-          "dividend_safety": 17.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -86219,14 +86219,14 @@
       "split_warning_message": "過去の有価証券報告書から、株式分割の影響が確認されています。表示されている年間配当は、現在の1株配当と異なる可能性があります。",
       "preset_tier": null,
       "quality_score": {
-        "total": 51.6,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 10.6,
-          "growth": 0.0,
-          "soundness": 11.0,
-          "cash_power": 20.0,
-          "dividend_safety": 10.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -92118,14 +92118,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 30.8,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 8.3,
-          "growth": 0.0,
-          "soundness": 5.5,
-          "cash_power": 0.0,
-          "dividend_safety": 17.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -92728,14 +92728,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 60.1,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 10.1,
-          "growth": 20.0,
-          "soundness": 13.0,
-          "cash_power": 0.0,
-          "dividend_safety": 17.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -93350,14 +93350,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 42.7,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 2.7,
-          "growth": 20.0,
-          "soundness": 0.0,
-          "cash_power": 0.0,
-          "dividend_safety": 20.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -93488,14 +93488,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 50.3,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 14.2,
-          "growth": 20.0,
-          "soundness": 6.1,
-          "cash_power": 0.0,
-          "dividend_safety": 10.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -95077,10 +95077,10 @@
         "data_complete": false,
         "breakdown": {
           "profitability": null,
-          "growth": 0.0,
-          "soundness": 1.1,
-          "cash_power": 0.0,
-          "dividend_safety": 0.0
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -95836,14 +95836,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 75.4,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 6.4,
-          "growth": 20.0,
-          "soundness": 12.0,
-          "cash_power": 20.0,
-          "dividend_safety": 17.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -95974,14 +95974,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 71.6,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 11.6,
-          "growth": 20.0,
-          "soundness": 3.0,
-          "cash_power": 20.0,
-          "dividend_safety": 17.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -96184,10 +96184,10 @@
         "data_complete": false,
         "breakdown": {
           "profitability": null,
-          "growth": 20.0,
-          "soundness": 19.9,
-          "cash_power": 0.0,
-          "dividend_safety": 0.0
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -96865,14 +96865,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 35.7,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 1.9,
-          "growth": 20.0,
-          "soundness": 3.8,
-          "cash_power": 0.0,
-          "dividend_safety": 10.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -97348,10 +97348,10 @@
         "data_complete": false,
         "breakdown": {
           "profitability": null,
-          "growth": 20.0,
-          "soundness": 19.4,
-          "cash_power": 0.0,
-          "dividend_safety": 0.0
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -98291,14 +98291,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 69.4,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 10.0,
-          "growth": 20.0,
-          "soundness": 2.4,
-          "cash_power": 20.0,
-          "dividend_safety": 17.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -98898,14 +98898,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 60.9,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 10.1,
-          "growth": 20.0,
-          "soundness": 0.8,
-          "cash_power": 20.0,
-          "dividend_safety": 10.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -102174,14 +102174,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 86.8,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 15.4,
-          "growth": 20.0,
-          "soundness": 11.4,
-          "cash_power": 20.0,
-          "dividend_safety": 20.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -103597,14 +103597,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 73.4,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 15.1,
-          "growth": 20.0,
-          "soundness": 1.3,
-          "cash_power": 20.0,
-          "dividend_safety": 17.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -105290,14 +105290,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 74.1,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 8.5,
-          "growth": 20.0,
-          "soundness": 5.6,
-          "cash_power": 20.0,
-          "dividend_safety": 20.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -106114,14 +106114,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 75.0,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 12.7,
-          "growth": 20.0,
-          "soundness": 2.3,
-          "cash_power": 20.0,
-          "dividend_safety": 20.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -106520,14 +106520,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 26.3,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 1.2,
-          "growth": 0.0,
-          "soundness": 15.1,
-          "cash_power": 0.0,
-          "dividend_safety": 10.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -108231,10 +108231,10 @@
         "total": null,
         "data_complete": false,
         "breakdown": {
-          "profitability": 1.6,
-          "growth": 20.0,
-          "soundness": 5.4,
-          "cash_power": 4.8,
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
           "dividend_safety": null
         }
       },
@@ -109124,14 +109124,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 67.5,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 4.6,
-          "growth": 20.0,
-          "soundness": 2.9,
-          "cash_power": 20.0,
-          "dividend_safety": 20.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -110487,14 +110487,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 72.7,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 9.7,
-          "growth": 20.0,
-          "soundness": 3.0,
-          "cash_power": 20.0,
-          "dividend_safety": 20.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -110562,14 +110562,14 @@
       "split_warning_message": "過去の有価証券報告書から、株式分割の影響が確認されています。表示されている年間配当は、現在の1株配当と異なる可能性があります。",
       "preset_tier": null,
       "quality_score": {
-        "total": 41.6,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 11.1,
-          "growth": 0.0,
-          "soundness": 10.5,
-          "cash_power": 20.0,
-          "dividend_safety": 0.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -111644,14 +111644,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 48.2,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 2.6,
-          "growth": 20.0,
-          "soundness": 5.6,
-          "cash_power": 0.0,
-          "dividend_safety": 20.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -112935,14 +112935,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 76.1,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 14.2,
-          "growth": 20.0,
-          "soundness": 1.9,
-          "cash_power": 20.0,
-          "dividend_safety": 20.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -113279,14 +113279,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 40.9,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 6.2,
-          "growth": 20.0,
-          "soundness": 4.7,
-          "cash_power": 0.0,
-          "dividend_safety": 10.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -117043,14 +117043,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 46.0,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 4.0,
-          "growth": 20.0,
-          "soundness": 12.0,
-          "cash_power": 0.0,
-          "dividend_safety": 10.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -117792,14 +117792,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 86.8,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 13.9,
-          "growth": 20.0,
-          "soundness": 18.9,
-          "cash_power": 20.0,
-          "dividend_safety": 14.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -118213,14 +118213,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 74.9,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 12.8,
-          "growth": 20.0,
-          "soundness": 2.1,
-          "cash_power": 20.0,
-          "dividend_safety": 20.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -118357,14 +118357,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 68.5,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 4.0,
-          "growth": 20.0,
-          "soundness": 4.5,
-          "cash_power": 20.0,
-          "dividend_safety": 20.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -119246,10 +119246,10 @@
         "data_complete": false,
         "breakdown": {
           "profitability": null,
-          "growth": 20.0,
-          "soundness": 0.8,
-          "cash_power": 0.0,
-          "dividend_safety": 0.0
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -120612,14 +120612,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 62.8,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 16.0,
-          "growth": 20.0,
-          "soundness": 16.8,
-          "cash_power": 0.0,
-          "dividend_safety": 10.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -121717,14 +121717,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 27.7,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 5.3,
-          "growth": 0.0,
-          "soundness": 2.4,
-          "cash_power": 0.0,
-          "dividend_safety": 20.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -121788,14 +121788,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 50.4,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 13.0,
-          "growth": 20.0,
-          "soundness": 0.4,
-          "cash_power": 0.0,
-          "dividend_safety": 17.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -122261,14 +122261,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 31.0,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 8.0,
-          "growth": 20.0,
-          "soundness": 3.0,
-          "cash_power": 0.0,
-          "dividend_safety": 0.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -122676,14 +122676,14 @@
       "split_warning_message": "過去の有価証券報告書から、株式分割の影響が確認されています。表示されている年間配当は、現在の1株配当と異なる可能性があります。",
       "preset_tier": null,
       "quality_score": {
-        "total": 29.2,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 1.7,
-          "growth": 0.0,
-          "soundness": 7.5,
-          "cash_power": 20.0,
-          "dividend_safety": 0.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -123918,14 +123918,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 56.1,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 5.9,
-          "growth": 0.0,
-          "soundness": 13.2,
-          "cash_power": 20.0,
-          "dividend_safety": 17.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -124807,10 +124807,10 @@
         "data_complete": false,
         "breakdown": {
           "profitability": null,
-          "growth": 20.0,
-          "soundness": 19.0,
-          "cash_power": 0.0,
-          "dividend_safety": 0.0
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -125830,14 +125830,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 42.8,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 8.8,
-          "growth": 20.0,
-          "soundness": 0.0,
-          "cash_power": 0.0,
-          "dividend_safety": 14.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -127056,14 +127056,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 48.6,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 2.8,
-          "growth": 20.0,
-          "soundness": 5.8,
-          "cash_power": 0.0,
-          "dividend_safety": 20.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -127395,14 +127395,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 15.9,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 1.7,
-          "growth": 0.0,
-          "soundness": 0.2,
-          "cash_power": 0.0,
-          "dividend_safety": 14.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -127538,14 +127538,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 69.6,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 3.8,
-          "growth": 20.0,
-          "soundness": 5.8,
-          "cash_power": 20.0,
-          "dividend_safety": 20.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -127676,14 +127676,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 34.0,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 7.4,
-          "growth": 0.0,
-          "soundness": 6.6,
-          "cash_power": 0.0,
-          "dividend_safety": 20.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -130378,14 +130378,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 29.5,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 11.5,
-          "growth": 0.0,
-          "soundness": 1.0,
-          "cash_power": 0.0,
-          "dividend_safety": 17.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -132617,9 +132617,9 @@
         "breakdown": {
           "profitability": null,
           "growth": null,
-          "soundness": 0.0,
+          "soundness": null,
           "cash_power": null,
-          "dividend_safety": 0.0
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -133293,14 +133293,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 85.6,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 10.9,
-          "growth": 20.0,
-          "soundness": 14.7,
-          "cash_power": 20.0,
-          "dividend_safety": 20.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -134171,14 +134171,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 35.2,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 13.4,
-          "growth": 0.0,
-          "soundness": 4.8,
-          "cash_power": 0.0,
-          "dividend_safety": 17.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -135613,14 +135613,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 46.6,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 8.4,
-          "growth": 0.0,
-          "soundness": 4.2,
-          "cash_power": 20.0,
-          "dividend_safety": 14.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -138202,14 +138202,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 43.5,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 3.3,
-          "growth": 20.0,
-          "soundness": 0.2,
-          "cash_power": 0.0,
-          "dividend_safety": 20.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -139289,14 +139289,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 62.9,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 2.7,
-          "growth": 20.0,
-          "soundness": 3.2,
-          "cash_power": 20.0,
-          "dividend_safety": 17.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -139494,14 +139494,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 20.6,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 0.7,
-          "growth": 0.0,
-          "soundness": 19.9,
-          "cash_power": 0.0,
-          "dividend_safety": 0.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -140380,14 +140380,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 42.2,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 4.0,
-          "growth": 0.0,
-          "soundness": 4.2,
-          "cash_power": 20.0,
-          "dividend_safety": 14.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -140652,14 +140652,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 73.8,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 15.2,
-          "growth": 0.0,
-          "soundness": 18.6,
-          "cash_power": 20.0,
-          "dividend_safety": 20.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -140723,14 +140723,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 78.9,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 8.9,
-          "growth": 20.0,
-          "soundness": 16.0,
-          "cash_power": 20.0,
-          "dividend_safety": 14.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -143742,14 +143742,14 @@
       "split_warning_message": "過去の有価証券報告書から、株式分割の影響が確認されています。表示されている年間配当は、現在の1株配当と異なる可能性があります。",
       "preset_tier": null,
       "quality_score": {
-        "total": 37.9,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 13.3,
-          "growth": 0.0,
-          "soundness": 4.6,
-          "cash_power": 20.0,
-          "dividend_safety": 0.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -144282,14 +144282,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 79.4,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 18.9,
-          "growth": 20.0,
-          "soundness": 0.5,
-          "cash_power": 20.0,
-          "dividend_safety": 20.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -144357,14 +144357,14 @@
       "split_warning_message": "過去の有価証券報告書から、株式分割の影響が確認されています。表示されている年間配当は、現在の1株配当と異なる可能性があります。",
       "preset_tier": null,
       "quality_score": {
-        "total": 46.9,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 6.2,
-          "growth": 0.0,
-          "soundness": 13.7,
-          "cash_power": 20.0,
-          "dividend_safety": 7.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -144763,14 +144763,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 75.3,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 12.4,
-          "growth": 20.0,
-          "soundness": 8.9,
-          "cash_power": 20.0,
-          "dividend_safety": 14.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -147222,14 +147222,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 74.9,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 10.7,
-          "growth": 20.0,
-          "soundness": 4.2,
-          "cash_power": 20.0,
-          "dividend_safety": 20.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -147829,14 +147829,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 68.6,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 7.9,
-          "growth": 20.0,
-          "soundness": 3.7,
-          "cash_power": 20.0,
-          "dividend_safety": 17.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -148439,14 +148439,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 57.3,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 19.3,
-          "growth": 20.0,
-          "soundness": 4.0,
-          "cash_power": 0.0,
-          "dividend_safety": 14.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -149936,14 +149936,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 60.5,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 11.0,
-          "growth": 0.0,
-          "soundness": 9.5,
-          "cash_power": 20.0,
-          "dividend_safety": 20.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -159847,14 +159847,14 @@
       "split_warning_message": "過去の有価証券報告書から、株式分割の影響が確認されています。表示されている年間配当は、現在の1株配当と異なる可能性があります。",
       "preset_tier": null,
       "quality_score": {
-        "total": 47.8,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 10.4,
-          "growth": 0.0,
-          "soundness": 7.4,
-          "cash_power": 20.0,
-          "dividend_safety": 10.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -165374,14 +165374,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 77.2,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 7.4,
-          "growth": 20.0,
-          "soundness": 9.8,
-          "cash_power": 20.0,
-          "dividend_safety": 20.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -165988,14 +165988,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 5.2,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 1.1,
-          "growth": 0.0,
-          "soundness": 4.1,
-          "cash_power": 0.0,
-          "dividend_safety": 0.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -167084,14 +167084,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 44.2,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 4.0,
-          "growth": 0.0,
-          "soundness": 3.2,
-          "cash_power": 20.0,
-          "dividend_safety": 17.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -169874,14 +169874,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 53.7,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 20.0,
-          "growth": 20.0,
-          "soundness": 13.7,
-          "cash_power": 0.0,
-          "dividend_safety": 0.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -177450,11 +177450,11 @@
         "total": null,
         "data_complete": false,
         "breakdown": {
-          "profitability": 14.9,
+          "profitability": null,
           "growth": null,
-          "soundness": 7.0,
-          "cash_power": 14.8,
-          "dividend_safety": 14.0
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": "100億〜300億円",
@@ -185232,10 +185232,10 @@
         "data_complete": false,
         "breakdown": {
           "profitability": null,
-          "growth": 20.0,
-          "soundness": 20.0,
-          "cash_power": 0.0,
-          "dividend_safety": 0.0
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -187954,10 +187954,10 @@
         "data_complete": false,
         "breakdown": {
           "profitability": null,
-          "growth": 20.0,
-          "soundness": 20.0,
-          "cash_power": 0.0,
-          "dividend_safety": 0.0
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -188775,10 +188775,10 @@
         "data_complete": false,
         "breakdown": {
           "profitability": null,
-          "growth": 20.0,
-          "soundness": 17.5,
-          "cash_power": 0.0,
-          "dividend_safety": 0.0
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -189725,14 +189725,14 @@
       "split_warning_message": "過去の有価証券報告書から、株式分割の影響が確認されています。表示されている年間配当は、現在の1株配当と異なる可能性があります。",
       "preset_tier": null,
       "quality_score": {
-        "total": 64.1,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 17.9,
-          "growth": 0.0,
-          "soundness": 19.2,
-          "cash_power": 20.0,
-          "dividend_safety": 7.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -193617,14 +193617,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 61.5,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 16.3,
-          "growth": 0.0,
-          "soundness": 11.2,
-          "cash_power": 20.0,
-          "dividend_safety": 14.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -193760,10 +193760,10 @@
         "data_complete": false,
         "breakdown": {
           "profitability": null,
-          "growth": 20.0,
-          "soundness": 19.8,
-          "cash_power": 0.0,
-          "dividend_safety": 0.0
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -194916,14 +194916,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 89.8,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 18.5,
-          "growth": 20.0,
-          "soundness": 14.3,
-          "cash_power": 20.0,
-          "dividend_safety": 17.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -200940,14 +200940,14 @@
       "split_warning_message": "過去の有価証券報告書から、株式分割の影響が確認されています。表示されている年間配当は、現在の1株配当と異なる可能性があります。",
       "preset_tier": null,
       "quality_score": {
-        "total": 43.3,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 5.1,
-          "growth": 0.0,
-          "soundness": 8.2,
-          "cash_power": 20.0,
-          "dividend_safety": 10.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -205915,14 +205915,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 73.4,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 9.2,
-          "growth": 20.0,
-          "soundness": 4.2,
-          "cash_power": 20.0,
-          "dividend_safety": 20.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -209728,14 +209728,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 47.2,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 6.7,
-          "growth": 20.0,
-          "soundness": 10.5,
-          "cash_power": 0.0,
-          "dividend_safety": 10.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -212067,14 +212067,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 20.9,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 20.0,
-          "growth": 0.0,
-          "soundness": 0.9,
-          "cash_power": 0.0,
-          "dividend_safety": 0.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -212141,11 +212141,11 @@
         "total": null,
         "data_complete": false,
         "breakdown": {
-          "profitability": 12.7,
+          "profitability": null,
           "growth": null,
-          "soundness": 4.5,
-          "cash_power": 2.9,
-          "dividend_safety": 20.0
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": "100億〜300億円",
@@ -212478,14 +212478,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 46.1,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 17.4,
-          "growth": 0.0,
-          "soundness": 8.7,
-          "cash_power": 20.0,
-          "dividend_safety": 0.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -212693,14 +212693,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 60.8,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 14.5,
-          "growth": 0.0,
-          "soundness": 9.3,
-          "cash_power": 20.0,
-          "dividend_safety": 17.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -213848,14 +213848,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 40.2,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 19.6,
-          "growth": 0.0,
-          "soundness": 0.6,
-          "cash_power": 20.0,
-          "dividend_safety": 0.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -216374,14 +216374,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 29.6,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 10.0,
-          "growth": 0.0,
-          "soundness": 19.6,
-          "cash_power": 0.0,
-          "dividend_safety": 0.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -218211,14 +218211,14 @@
       "split_warning_message": "過去の有価証券報告書から、株式分割の影響が確認されています。表示されている年間配当は、現在の1株配当と異なる可能性があります。",
       "preset_tier": null,
       "quality_score": {
-        "total": 39.6,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 6.2,
-          "growth": 0.0,
-          "soundness": 3.4,
-          "cash_power": 20.0,
-          "dividend_safety": 10.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -219367,14 +219367,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 28.3,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 5.4,
-          "growth": 0.0,
-          "soundness": 5.9,
-          "cash_power": 0.0,
-          "dividend_safety": 17.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -221211,14 +221211,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 71.1,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 20.0,
-          "growth": 20.0,
-          "soundness": 11.1,
-          "cash_power": 20.0,
-          "dividend_safety": 0.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -222034,14 +222034,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 55.0,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 5.6,
-          "growth": 20.0,
-          "soundness": 19.4,
-          "cash_power": 0.0,
-          "dividend_safety": 10.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -222987,14 +222987,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 73.4,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 14.3,
-          "growth": 20.0,
-          "soundness": 2.1,
-          "cash_power": 20.0,
-          "dividend_safety": 17.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -225831,11 +225831,11 @@
         "total": null,
         "data_complete": false,
         "breakdown": {
-          "profitability": 15.8,
+          "profitability": null,
           "growth": null,
-          "soundness": 14.8,
-          "cash_power": 17.9,
-          "dividend_safety": 14.0
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": "〜100億円",
@@ -226453,10 +226453,10 @@
         "data_complete": false,
         "breakdown": {
           "profitability": null,
-          "growth": 0.0,
-          "soundness": 19.9,
-          "cash_power": 0.0,
-          "dividend_safety": 0.0
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -227269,10 +227269,10 @@
         "data_complete": false,
         "breakdown": {
           "profitability": null,
-          "growth": 20.0,
-          "soundness": 20.0,
-          "cash_power": 0.0,
-          "dividend_safety": 0.0
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -227687,14 +227687,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 17.3,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 4.1,
-          "growth": 0.0,
-          "soundness": 13.2,
-          "cash_power": 0.0,
-          "dividend_safety": 0.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -228439,14 +228439,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 52.0,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 17.8,
-          "growth": 20.0,
-          "soundness": 0.2,
-          "cash_power": 0.0,
-          "dividend_safety": 14.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -228510,14 +228510,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 54.1,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 12.0,
-          "growth": 20.0,
-          "soundness": 2.1,
-          "cash_power": 0.0,
-          "dividend_safety": 20.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -229411,14 +229411,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 28.1,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 5.6,
-          "growth": 20.0,
-          "soundness": 2.5,
-          "cash_power": 0.0,
-          "dividend_safety": 0.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -229549,14 +229549,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 51.4,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 12.4,
-          "growth": 20.0,
-          "soundness": 5.0,
-          "cash_power": 0.0,
-          "dividend_safety": 14.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -230036,10 +230036,10 @@
         "data_complete": false,
         "breakdown": {
           "profitability": null,
-          "growth": 0.0,
-          "soundness": 6.2,
-          "cash_power": 0.0,
-          "dividend_safety": 0.0
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -232687,14 +232687,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 82.3,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 17.0,
-          "growth": 20.0,
-          "soundness": 5.3,
-          "cash_power": 20.0,
-          "dividend_safety": 20.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -233445,14 +233445,14 @@
       "split_warning_message": "過去の有価証券報告書から、株式分割の影響が確認されています。表示されている年間配当は、現在の1株配当と異なる可能性があります。",
       "preset_tier": null,
       "quality_score": {
-        "total": 52.2,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 13.9,
-          "growth": 0.0,
-          "soundness": 18.3,
-          "cash_power": 20.0,
-          "dividend_safety": 0.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -233928,10 +233928,10 @@
         "data_complete": false,
         "breakdown": {
           "profitability": null,
-          "growth": 0.0,
-          "soundness": 15.8,
-          "cash_power": 0.0,
-          "dividend_safety": 0.0
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -234748,10 +234748,10 @@
         "data_complete": false,
         "breakdown": {
           "profitability": null,
-          "growth": 20.0,
-          "soundness": 9.9,
-          "cash_power": 0.0,
-          "dividend_safety": 0.0
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -237339,10 +237339,10 @@
         "data_complete": false,
         "breakdown": {
           "profitability": null,
-          "growth": 0.0,
-          "soundness": 19.9,
-          "cash_power": 0.0,
-          "dividend_safety": 0.0
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -241495,11 +241495,11 @@
         "total": null,
         "data_complete": false,
         "breakdown": {
-          "profitability": 1.3,
+          "profitability": null,
           "growth": null,
-          "soundness": 3.1,
-          "cash_power": 20.0,
-          "dividend_safety": 0.0
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -249437,10 +249437,10 @@
         "data_complete": false,
         "breakdown": {
           "profitability": null,
-          "growth": 0.0,
-          "soundness": 15.6,
-          "cash_power": 0.0,
-          "dividend_safety": 0.0
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -249648,14 +249648,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 48.1,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 11.1,
-          "growth": 0.0,
-          "soundness": 17.0,
-          "cash_power": 0.0,
-          "dividend_safety": 20.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -255461,14 +255461,14 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 20.3,
-        "data_complete": true,
+        "total": null,
+        "data_complete": false,
         "breakdown": {
-          "profitability": 0.3,
-          "growth": 0.0,
-          "soundness": 20.0,
-          "cash_power": 0.0,
-          "dividend_safety": 0.0
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -258338,10 +258338,10 @@
         "data_complete": false,
         "breakdown": {
           "profitability": null,
-          "growth": 0.0,
-          "soundness": 3.4,
-          "cash_power": 0.0,
-          "dividend_safety": 10.0
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
@@ -258761,10 +258761,10 @@
         "data_complete": false,
         "breakdown": {
           "profitability": null,
-          "growth": 20.0,
+          "growth": null,
           "soundness": null,
-          "cash_power": 20.0,
-          "dividend_safety": 17.0
+          "cash_power": null,
+          "dividend_safety": null
         }
       },
       "size_bracket": null,
