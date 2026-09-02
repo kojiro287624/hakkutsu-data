@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-09-02T06:00:09.460006",
+  "generated_at": "2026-09-02T06:34:42.567295",
   "count": 3788,
   "presets": {
     "standard": {
@@ -287,7 +287,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "roe_reason": "no_data"
@@ -557,7 +557,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": false,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -763,7 +763,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": null,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "no_data",
@@ -1180,7 +1180,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -1381,7 +1381,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -1448,7 +1448,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -1582,7 +1582,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -1795,7 +1795,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -2205,7 +2205,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "roe_reason": "no_data"
@@ -2274,7 +2274,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -2890,7 +2890,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": false,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -3158,7 +3158,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -3225,7 +3225,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -3292,7 +3292,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": false,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -3985,7 +3985,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -4122,7 +4122,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -4256,7 +4256,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -4272,7 +4272,7 @@
       },
       "split_warnings": [],
       "split_warning_message": null,
-      "preset_tier": "elite",
+      "preset_tier": null,
       "quality_score": {
         "total": 76.8,
         "data_complete": true,
@@ -4390,7 +4390,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -4457,7 +4457,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -4602,7 +4602,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "roe_reason": "no_data"
@@ -4671,7 +4671,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -4885,7 +4885,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": false,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -5571,7 +5571,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -5839,7 +5839,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -6110,7 +6110,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -6792,7 +6792,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": false,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -8087,7 +8087,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -8154,7 +8154,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -8430,7 +8430,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -10128,7 +10128,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -10739,7 +10739,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -12798,7 +12798,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -13278,7 +13278,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -14509,7 +14509,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -14579,7 +14579,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": null,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "no_data",
@@ -14650,7 +14650,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "roe_reason": "no_data"
@@ -14791,7 +14791,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -15340,7 +15340,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -15407,7 +15407,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -15545,7 +15545,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -15679,7 +15679,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -15746,7 +15746,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "eps_uptrend_reason": "split_suspected"
@@ -15817,7 +15817,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -16157,7 +16157,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -16291,7 +16291,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -16425,7 +16425,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "roe_reason": "no_data"
@@ -16494,7 +16494,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "eps_uptrend_reason": "split_suspected",
@@ -16566,7 +16566,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -16633,7 +16633,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": false,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -17241,7 +17241,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -17518,7 +17518,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -17923,7 +17923,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -17990,7 +17990,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -18198,7 +18198,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "roe_reason": "no_data"
@@ -18404,7 +18404,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -18538,7 +18538,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "eps_uptrend_reason": "split_suspected"
@@ -18609,7 +18609,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": null,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "no_data",
@@ -18680,7 +18680,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "roe_reason": "no_data"
@@ -18890,7 +18890,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -19030,7 +19030,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -29887,7 +29887,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -30155,7 +30155,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -30650,7 +30650,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "operating_margin_reason": "no_data"
@@ -33515,7 +33515,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "roe_reason": "no_data"
@@ -34949,7 +34949,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -36127,7 +36127,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -37710,7 +37710,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -38049,7 +38049,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "roe_reason": "no_data"
@@ -39141,7 +39141,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "roe_reason": "no_data"
@@ -40723,7 +40723,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": null,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "no_data",
@@ -45323,7 +45323,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "roe_reason": "no_data"
@@ -46091,7 +46091,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -46432,7 +46432,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -46708,7 +46708,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -49657,7 +49657,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": null,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "no_data",
@@ -57163,7 +57163,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -59489,7 +59489,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "roe_reason": "no_data"
@@ -59692,7 +59692,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -60443,7 +60443,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "roe_reason": "no_data"
@@ -61052,7 +61052,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -61792,7 +61792,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": false,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -63624,7 +63624,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "roe_reason": "no_data"
@@ -64238,7 +64238,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -65336,7 +65336,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "eps_uptrend_reason": "split_suspected"
@@ -67041,7 +67041,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -67108,7 +67108,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "roe_reason": "no_data"
@@ -67655,7 +67655,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "roe_reason": "no_data"
@@ -69654,7 +69654,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -70739,7 +70739,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -71558,7 +71558,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -72111,7 +72111,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -72591,7 +72591,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -73477,7 +73477,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -74096,7 +74096,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -74234,7 +74234,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "eps_uptrend_reason": "split_suspected"
@@ -74778,7 +74778,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "eps_uptrend_reason": "split_suspected"
@@ -74849,7 +74849,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -75125,7 +75125,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "roe_reason": "no_data"
@@ -75194,7 +75194,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -75466,7 +75466,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -75734,7 +75734,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": false,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -75939,7 +75939,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -77437,7 +77437,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -77851,7 +77851,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -78060,7 +78060,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": null,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "no_data",
@@ -78342,7 +78342,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -81751,7 +81751,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -83174,7 +83174,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": false,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -86614,7 +86614,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": false,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -86815,7 +86815,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "eps_uptrend_reason": "split_suspected"
@@ -88515,7 +88515,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "roe_reason": "no_data"
@@ -90342,7 +90342,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -90817,7 +90817,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": false,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -92028,7 +92028,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -93261,7 +93261,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -93277,7 +93277,7 @@
       },
       "split_warnings": [],
       "split_warning_message": null,
-      "preset_tier": "elite",
+      "preset_tier": null,
       "quality_score": {
         "total": 77.2,
         "data_complete": true,
@@ -93399,7 +93399,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -93738,7 +93738,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -94143,7 +94143,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "roe_reason": "no_data"
@@ -94697,7 +94697,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -95050,7 +95050,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": null,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "no_data",
@@ -95675,7 +95675,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -95885,7 +95885,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -96090,7 +96090,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -96157,7 +96157,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": null,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "no_data",
@@ -96564,7 +96564,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -96636,7 +96636,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "eps_uptrend_reason": "split_suspected"
@@ -97321,7 +97321,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": null,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "no_data",
@@ -97460,7 +97460,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "eps_uptrend_reason": "split_suspected",
@@ -98202,7 +98202,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -99354,7 +99354,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "eps_uptrend_reason": "split_suspected"
@@ -99900,7 +99900,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": false,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -100442,7 +100442,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": false,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -100786,7 +100786,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -102900,7 +102900,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -103034,7 +103034,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -106163,7 +106163,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -107524,7 +107524,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "roe_reason": "no_data"
@@ -107938,7 +107938,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -108763,7 +108763,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -108964,7 +108964,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "roe_reason": "no_data"
@@ -111418,7 +111418,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -112368,7 +112368,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": false,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -112984,7 +112984,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": false,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "roe_reason": "no_data"
@@ -113328,7 +113328,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -114275,7 +114275,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "roe_reason": "no_data"
@@ -115915,7 +115915,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -115986,7 +115986,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": false,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "roe_reason": "no_data"
@@ -116122,7 +116122,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "roe_reason": "no_data"
@@ -116679,7 +116679,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -117360,7 +117360,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "roe_reason": "no_data"
@@ -118055,7 +118055,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "roe_reason": "no_data"
@@ -118124,7 +118124,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -118878,7 +118878,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -118945,7 +118945,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -119219,7 +119219,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": null,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "no_data",
@@ -119291,7 +119291,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -119358,7 +119358,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -119770,7 +119770,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -119786,7 +119786,7 @@
       },
       "split_warnings": [],
       "split_warning_message": null,
-      "preset_tier": "standard",
+      "preset_tier": null,
       "quality_score": {
         "total": 63.8,
         "data_complete": true,
@@ -119837,7 +119837,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -120038,7 +120038,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -120244,7 +120244,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -120378,7 +120378,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -120728,7 +120728,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": false,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -120795,7 +120795,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "eps_uptrend_reason": "split_suspected",
@@ -121346,7 +121346,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "eps_uptrend_reason": "split_suspected"
@@ -121837,7 +121837,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -122239,7 +122239,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": null,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "no_data",
@@ -122932,7 +122932,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -123967,7 +123967,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -124780,7 +124780,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": null,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "no_data",
@@ -125263,7 +125263,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -125607,7 +125607,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -125879,7 +125879,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -125895,7 +125895,7 @@
       },
       "split_warnings": [],
       "split_warning_message": null,
-      "preset_tier": "upper",
+      "preset_tier": null,
       "quality_score": {
         "total": 71.2,
         "data_complete": true,
@@ -126288,7 +126288,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -131303,7 +131303,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -132586,7 +132586,7 @@
         "cfo_all_positive": null,
         "cash_margin_pass": null,
         "dps_uptrend": null,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "no_data",
@@ -133202,7 +133202,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "roe_reason": "no_data"
@@ -133543,7 +133543,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -134906,7 +134906,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -135448,7 +135448,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -135729,7 +135729,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -135935,7 +135935,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "roe_reason": "no_data"
@@ -136004,7 +136004,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": false,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -136071,7 +136071,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -136412,7 +136412,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -136755,7 +136755,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "roe_reason": "no_data"
@@ -137842,7 +137842,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -138586,7 +138586,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": false,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -139472,7 +139472,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": null,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "no_data",
@@ -139950,7 +139950,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -140157,7 +140157,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -143925,7 +143925,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -144126,7 +144126,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -144540,7 +144540,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -144946,7 +144946,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": false,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -145154,7 +145154,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -145558,7 +145558,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -145628,7 +145628,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -146107,7 +146107,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "roe_reason": "no_data"
@@ -146377,7 +146377,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -146578,7 +146578,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -146648,7 +146648,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -146719,7 +146719,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "eps_uptrend_reason": "split_suspected"
@@ -146924,7 +146924,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -147405,7 +147405,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -147539,7 +147539,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -148962,7 +148962,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": false,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -150320,7 +150320,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "eps_uptrend_reason": "split_suspected",
@@ -150459,7 +150459,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -152155,7 +152155,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -152294,7 +152294,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "roe_reason": "no_data"
@@ -154269,7 +154269,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -155010,7 +155010,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -155077,7 +155077,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -155350,7 +155350,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -155551,7 +155551,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -155689,7 +155689,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -156298,7 +156298,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "roe_reason": "no_data"
@@ -156839,7 +156839,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -157241,7 +157241,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -157257,7 +157257,7 @@
       },
       "split_warnings": [],
       "split_warning_message": null,
-      "preset_tier": "upper",
+      "preset_tier": null,
       "quality_score": {
         "total": 67.8,
         "data_complete": true,
@@ -157308,7 +157308,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -157512,7 +157512,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": false,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -158057,7 +158057,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -159073,7 +159073,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -159346,7 +159346,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": false,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -160107,7 +160107,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -160859,7 +160859,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -161129,7 +161129,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": false,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -161196,7 +161196,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -161267,7 +161267,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "roe_reason": "no_data"
@@ -161677,7 +161677,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": false,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "roe_reason": "no_data"
@@ -161746,7 +161746,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "roe_reason": "no_data"
@@ -161888,7 +161888,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": false,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -161955,7 +161955,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -162022,7 +162022,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": false,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "roe_reason": "no_data"
@@ -162158,7 +162158,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -162292,7 +162292,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -162496,7 +162496,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "roe_reason": "no_data"
@@ -162632,7 +162632,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -162833,7 +162833,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": false,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -162967,7 +162967,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -163576,7 +163576,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -163646,7 +163646,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "eps_uptrend_reason": "split_suspected",
@@ -163718,7 +163718,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "roe_reason": "no_data"
@@ -163926,7 +163926,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "roe_reason": "no_data"
@@ -164534,7 +164534,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": false,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -164668,7 +164668,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -164735,7 +164735,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -165003,7 +165003,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -165490,7 +165490,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -165693,7 +165693,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -165760,7 +165760,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -165899,7 +165899,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -165966,7 +165966,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": null,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "no_data",
@@ -166037,7 +166037,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -166104,7 +166104,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -166171,7 +166171,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -166308,7 +166308,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": false,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -166995,7 +166995,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -167133,7 +167133,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -167200,7 +167200,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -167271,7 +167271,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -167338,7 +167338,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -167405,7 +167405,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -167472,7 +167472,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -167488,7 +167488,7 @@
       },
       "split_warnings": [],
       "split_warning_message": null,
-      "preset_tier": "standard",
+      "preset_tier": null,
       "quality_score": {
         "total": 67.8,
         "data_complete": true,
@@ -167539,7 +167539,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": false,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -167606,7 +167606,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -167740,7 +167740,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -167874,7 +167874,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -168085,7 +168085,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -168219,7 +168219,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -168286,7 +168286,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "roe_reason": "no_data"
@@ -168422,7 +168422,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "roe_reason": "no_data"
@@ -168491,7 +168491,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": false,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -169309,7 +169309,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -169443,7 +169443,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "eps_uptrend_reason": "split_suspected"
@@ -169715,7 +169715,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -169852,7 +169852,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": null,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "no_data",
@@ -170596,7 +170596,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -170797,7 +170797,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "roe_reason": "no_data"
@@ -170866,7 +170866,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "eps_uptrend_reason": "split_suspected",
@@ -171421,7 +171421,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -171437,7 +171437,7 @@
       },
       "split_warnings": [],
       "split_warning_message": null,
-      "preset_tier": "elite",
+      "preset_tier": null,
       "quality_score": {
         "total": 72.5,
         "data_complete": true,
@@ -171700,7 +171700,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": false,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -172107,7 +172107,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -172584,7 +172584,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -172600,7 +172600,7 @@
       },
       "split_warnings": [],
       "split_warning_message": null,
-      "preset_tier": "upper",
+      "preset_tier": null,
       "quality_score": {
         "total": 74.4,
         "data_complete": true,
@@ -172718,7 +172718,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "roe_reason": "no_data"
@@ -173527,7 +173527,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -174130,7 +174130,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": false,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -174341,7 +174341,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "roe_reason": "no_data"
@@ -174754,7 +174754,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -175369,7 +175369,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -176128,7 +176128,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -176198,7 +176198,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -177016,7 +177016,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": false,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "roe_reason": "no_data"
@@ -177085,7 +177085,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "roe_reason": "no_data"
@@ -177221,7 +177221,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -177288,7 +177288,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": false,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -178654,7 +178654,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -180565,7 +180565,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -180632,7 +180632,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -180967,7 +180967,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": false,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -181376,7 +181376,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -181513,7 +181513,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -181529,7 +181529,7 @@
       },
       "split_warnings": [],
       "split_warning_message": null,
-      "preset_tier": "upper",
+      "preset_tier": null,
       "quality_score": {
         "total": 70.2,
         "data_complete": true,
@@ -181580,7 +181580,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": false,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -182666,7 +182666,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "eps_uptrend_reason": "split_suspected"
@@ -183092,7 +183092,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -183229,7 +183229,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -183634,7 +183634,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -184047,7 +184047,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -184390,7 +184390,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -184664,7 +184664,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "roe_reason": "no_data"
@@ -185001,7 +185001,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -185138,7 +185138,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -185205,7 +185205,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": null,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "no_data",
@@ -185277,7 +185277,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -185481,7 +185481,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": false,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -185682,7 +185682,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -186223,7 +186223,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -186424,7 +186424,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "roe_reason": "no_data"
@@ -186560,7 +186560,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -186703,7 +186703,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -186719,7 +186719,7 @@
       },
       "split_warnings": [],
       "split_warning_message": null,
-      "preset_tier": "upper",
+      "preset_tier": null,
       "quality_score": {
         "total": 74.7,
         "data_complete": true,
@@ -186974,7 +186974,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -187242,7 +187242,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -187717,7 +187717,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "roe_reason": "no_data"
@@ -187786,7 +187786,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "eps_uptrend_reason": "split_suspected"
@@ -187927,7 +187927,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": null,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "no_data",
@@ -188141,7 +188141,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -188275,7 +188275,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "roe_reason": "no_data"
@@ -188344,7 +188344,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -188748,7 +188748,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": null,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "no_data",
@@ -188820,7 +188820,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -189091,7 +189091,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -189107,7 +189107,7 @@
       },
       "split_warnings": [],
       "split_warning_message": null,
-      "preset_tier": "elite",
+      "preset_tier": null,
       "quality_score": {
         "total": 73.5,
         "data_complete": true,
@@ -189774,7 +189774,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -189984,7 +189984,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -190054,7 +190054,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -190737,7 +190737,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -190807,7 +190807,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -191015,7 +191015,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -191149,7 +191149,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -191219,7 +191219,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -191490,7 +191490,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -191624,7 +191624,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -191840,7 +191840,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "roe_reason": "no_data"
@@ -191909,7 +191909,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -192046,7 +192046,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -192180,7 +192180,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -192250,7 +192250,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -192317,7 +192317,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -192384,7 +192384,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": false,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -192786,7 +192786,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -193322,7 +193322,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -193733,7 +193733,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": null,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "no_data",
@@ -193872,7 +193872,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -193939,7 +193939,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -193955,7 +193955,7 @@
       },
       "split_warnings": [],
       "split_warning_message": null,
-      "preset_tier": "standard",
+      "preset_tier": null,
       "quality_score": {
         "total": 60.1,
         "data_complete": true,
@@ -194143,7 +194143,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": false,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -194618,7 +194618,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -194760,7 +194760,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -195171,7 +195171,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -195851,7 +195851,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -195921,7 +195921,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -196128,7 +196128,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": false,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "roe_reason": "no_data"
@@ -196264,7 +196264,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -196471,7 +196471,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -196538,7 +196538,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -196812,7 +196812,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "roe_reason": "no_data"
@@ -197015,7 +197015,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -197153,7 +197153,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "roe_reason": "no_data"
@@ -197222,7 +197222,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -197423,7 +197423,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -197490,7 +197490,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "roe_reason": "no_data"
@@ -197559,7 +197559,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -197626,7 +197626,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "roe_reason": "no_data"
@@ -197695,7 +197695,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -197765,7 +197765,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "eps_uptrend_reason": "split_suspected"
@@ -197970,7 +197970,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -198248,7 +198248,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "eps_uptrend_reason": "split_suspected"
@@ -198587,7 +198587,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -198868,7 +198868,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -198935,7 +198935,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": false,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -199069,7 +199069,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -199136,7 +199136,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -199203,7 +199203,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -199541,7 +199541,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -200024,7 +200024,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -201475,7 +201475,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -201882,7 +201882,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -201949,7 +201949,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -202083,7 +202083,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "roe_reason": "no_data"
@@ -203517,7 +203517,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -204190,7 +204190,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -204530,7 +204530,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "roe_reason": "no_data"
@@ -204599,7 +204599,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "roe_reason": "no_data"
@@ -204872,7 +204872,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -204939,7 +204939,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -205009,7 +205009,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -205079,7 +205079,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -205146,7 +205146,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -205216,7 +205216,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "eps_uptrend_reason": "split_suspected"
@@ -205287,7 +205287,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -205421,7 +205421,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -205491,7 +205491,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": false,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -206031,7 +206031,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -206299,7 +206299,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -206369,7 +206369,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -206385,7 +206385,7 @@
       },
       "split_warnings": [],
       "split_warning_message": null,
-      "preset_tier": "standard",
+      "preset_tier": null,
       "quality_score": {
         "total": 66.1,
         "data_complete": true,
@@ -206910,7 +206910,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "roe_reason": "no_data"
@@ -207384,7 +207384,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -207454,7 +207454,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -207588,7 +207588,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -207658,7 +207658,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -207728,7 +207728,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -207799,7 +207799,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -207866,7 +207866,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -207882,7 +207882,7 @@
       },
       "split_warnings": [],
       "split_warning_message": null,
-      "preset_tier": "upper",
+      "preset_tier": null,
       "quality_score": {
         "total": 72.4,
         "data_complete": true,
@@ -207933,7 +207933,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "roe_reason": "no_data"
@@ -208069,7 +208069,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -208208,7 +208208,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -208409,7 +208409,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -208753,7 +208753,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -208824,7 +208824,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -208894,7 +208894,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -208961,7 +208961,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -209497,7 +209497,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -209777,7 +209777,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "roe_reason": "no_data"
@@ -209913,7 +209913,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -209980,7 +209980,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "roe_reason": "no_data"
@@ -210049,7 +210049,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -210325,7 +210325,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -210459,7 +210459,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -210663,7 +210663,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -210730,7 +210730,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -210797,7 +210797,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -211138,7 +211138,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "roe_reason": "no_data"
@@ -211497,7 +211497,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -211564,7 +211564,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -211631,7 +211631,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": false,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -211772,7 +211772,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -211909,7 +211909,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "roe_reason": "no_data"
@@ -212045,7 +212045,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": null,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "no_data",
@@ -212187,7 +212187,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -212254,7 +212254,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -212455,7 +212455,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": null,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "no_data",
@@ -212527,7 +212527,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -213687,7 +213687,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -213754,7 +213754,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "eps_uptrend_reason": "split_suspected"
@@ -213825,7 +213825,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": null,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "no_data",
@@ -214445,7 +214445,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -214512,7 +214512,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -215188,7 +215188,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -215397,7 +215397,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -215676,7 +215676,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -216016,7 +216016,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -216217,7 +216217,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": false,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -216351,7 +216351,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": null,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "no_data",
@@ -216423,7 +216423,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": false,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -216490,7 +216490,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": false,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "roe_reason": "no_data"
@@ -216693,7 +216693,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -216760,7 +216760,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -216827,7 +216827,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -216894,7 +216894,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -216961,7 +216961,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "eps_uptrend_reason": "split_suspected"
@@ -217032,7 +217032,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -217102,7 +217102,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -217169,7 +217169,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "no_data",
@@ -217649,7 +217649,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -218260,7 +218260,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": false,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -218662,7 +218662,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -219007,7 +219007,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -219820,7 +219820,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -220091,7 +220091,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "roe_reason": "no_data"
@@ -220227,7 +220227,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -220501,7 +220501,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -220571,7 +220571,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -220839,7 +220839,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -221119,7 +221119,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -221189,7 +221189,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": null,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "no_data",
@@ -221327,7 +221327,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -221398,7 +221398,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -221465,7 +221465,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -221669,7 +221669,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": false,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -221739,7 +221739,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -221806,7 +221806,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -223505,7 +223505,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -224247,7 +224247,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -225402,7 +225402,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "roe_reason": "no_data"
@@ -225672,7 +225672,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -226423,7 +226423,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": null,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "no_data",
@@ -227242,7 +227242,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": null,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "no_data",
@@ -227665,7 +227665,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": null,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "no_data",
@@ -227736,7 +227736,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "roe_reason": "no_data"
@@ -227872,7 +227872,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -227942,7 +227942,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -228626,7 +228626,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -228827,7 +228827,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "eps_uptrend_reason": "split_suspected"
@@ -229389,7 +229389,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": null,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "no_data",
@@ -229460,7 +229460,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -229598,7 +229598,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -230009,7 +230009,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": null,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "no_data",
@@ -230081,7 +230081,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -230148,7 +230148,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "roe_reason": "no_data"
@@ -230557,7 +230557,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "roe_reason": "no_data"
@@ -231165,7 +231165,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -231573,7 +231573,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -231710,7 +231710,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "roe_reason": "no_data"
@@ -231779,7 +231779,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "roe_reason": "no_data"
@@ -231915,7 +231915,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -232054,7 +232054,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -232394,7 +232394,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -232870,7 +232870,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -233080,7 +233080,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -233096,7 +233096,7 @@
       },
       "split_warnings": [],
       "split_warning_message": null,
-      "preset_tier": "upper",
+      "preset_tier": null,
       "quality_score": {
         "total": 67.0,
         "data_complete": true,
@@ -233420,7 +233420,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": null,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "no_data",
@@ -233695,7 +233695,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -233829,7 +233829,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -233900,7 +233900,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": null,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "no_data",
@@ -234040,7 +234040,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "roe_reason": "no_data"
@@ -234310,7 +234310,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "roe_reason": "no_data"
@@ -234652,7 +234652,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "roe_reason": "no_data"
@@ -234721,7 +234721,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": null,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "no_data",
@@ -234994,7 +234994,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -235262,7 +235262,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "roe_reason": "no_data"
@@ -235398,7 +235398,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -236901,7 +236901,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -237169,7 +237169,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -237309,7 +237309,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": null,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "no_data",
@@ -237719,7 +237719,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -238054,7 +238054,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -238325,7 +238325,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -238469,7 +238469,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -238675,7 +238675,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -238691,7 +238691,7 @@
       },
       "split_warnings": [],
       "split_warning_message": null,
-      "preset_tier": "standard",
+      "preset_tier": null,
       "quality_score": {
         "total": 68.4,
         "data_complete": true,
@@ -238946,7 +238946,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "eps_uptrend_reason": "basis_mixed"
@@ -239082,7 +239082,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -239149,7 +239149,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -239487,7 +239487,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -239688,7 +239688,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -239889,7 +239889,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": false,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -240032,7 +240032,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -240308,7 +240308,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -240449,7 +240449,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -240583,7 +240583,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -240717,7 +240717,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -240784,7 +240784,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -240851,7 +240851,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "roe_reason": "no_data"
@@ -240993,7 +240993,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -241127,7 +241127,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -241264,7 +241264,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": false,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -241468,7 +241468,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": null,
         "dps_uptrend": null,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "no_data",
@@ -241882,7 +241882,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -242851,7 +242851,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -243394,7 +243394,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "eps_uptrend_reason": "split_suspected",
@@ -243600,7 +243600,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "roe_reason": "no_data"
@@ -243669,7 +243669,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "roe_reason": "no_data"
@@ -243872,7 +243872,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "eps_uptrend_reason": "split_suspected"
@@ -244077,7 +244077,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "roe_reason": "no_data"
@@ -244755,7 +244755,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": false,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -244892,7 +244892,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "eps_uptrend_reason": "split_suspected"
@@ -245241,7 +245241,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -245308,7 +245308,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -245514,7 +245514,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -246604,7 +246604,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -247220,7 +247220,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -247287,7 +247287,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "eps_uptrend_reason": "split_suspected"
@@ -247499,7 +247499,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -247515,7 +247515,7 @@
       },
       "split_warnings": [],
       "split_warning_message": null,
-      "preset_tier": "upper",
+      "preset_tier": null,
       "quality_score": {
         "total": 75.0,
         "data_complete": true,
@@ -247633,7 +247633,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -248187,7 +248187,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -248391,7 +248391,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "roe_reason": "no_data"
@@ -248460,7 +248460,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -248867,7 +248867,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -249001,7 +249001,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -249068,7 +249068,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -249206,7 +249206,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "roe_reason": "no_data"
@@ -249275,7 +249275,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -249342,7 +249342,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -249409,7 +249409,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": null,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "no_data",
@@ -249764,7 +249764,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -250181,7 +250181,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "roe_reason": "no_data"
@@ -250451,7 +250451,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -251198,7 +251198,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": false,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -251399,7 +251399,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "eps_uptrend_reason": "split_suspected",
@@ -251875,7 +251875,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -252009,7 +252009,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -252076,7 +252076,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -252280,7 +252280,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -252888,7 +252888,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -252955,7 +252955,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -253025,7 +253025,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -253092,7 +253092,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -253159,7 +253159,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "roe_reason": "no_data"
@@ -253228,7 +253228,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -253298,7 +253298,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "roe_reason": "no_data"
@@ -253508,7 +253508,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "roe_reason": "no_data"
@@ -253577,7 +253577,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -253711,7 +253711,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -253992,7 +253992,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -254132,7 +254132,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": false,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -254199,7 +254199,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "roe_reason": "no_data"
@@ -254412,7 +254412,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -254479,7 +254479,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -254546,7 +254546,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -254751,7 +254751,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "eps_uptrend_reason": "split_suspected"
@@ -254895,7 +254895,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -254962,7 +254962,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -255163,7 +255163,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "roe_reason": "no_data"
@@ -255439,7 +255439,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": null,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "no_data",
@@ -256126,7 +256126,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -256260,7 +256260,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "roe_reason": "no_data"
@@ -256536,7 +256536,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -256670,7 +256670,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": false,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -256804,7 +256804,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -256871,7 +256871,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "roe_reason": "no_data"
@@ -256940,7 +256940,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -257210,7 +257210,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -257280,7 +257280,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -257350,7 +257350,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -257417,7 +257417,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -257551,7 +257551,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "roe_reason": "no_data"
@@ -257620,7 +257620,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -257690,7 +257690,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -257760,7 +257760,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -257964,7 +257964,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "roe_reason": "no_data"
@@ -258033,7 +258033,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -258383,7 +258383,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "sales_uptrend_reason": "basis_mixed",
@@ -258454,7 +258454,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "roe_reason": "no_data"
@@ -258523,7 +258523,7 @@
         "cfo_all_positive": false,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {},
       "criteria_labels": {
@@ -258590,7 +258590,7 @@
         "cfo_all_positive": true,
         "cash_margin_pass": true,
         "dps_uptrend": false,
-        "payout_ratio_pass": true
+        "payout_ratio_pass": false
       },
       "criteria_reasons": {
         "eps_uptrend_reason": "split_suspected"
