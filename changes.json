@@ -1,6 +1,861 @@
 {
-  "generated_at": "2026-09-04T05:51:21.444964",
-  "previous_generated_at": "2026-09-04T05:42:14.260848",
-  "count": 0,
-  "changes": []
+  "generated_at": "2026-09-28T01:05:17.769887",
+  "previous_generated_at": "2026-09-04T05:51:20.949684",
+  "count": 122,
+  "changes": [
+    {
+      "stock_code": "3892",
+      "company_name": "株式会社岡山製紙",
+      "change_type": "dividend_increased",
+      "old_value": 40.0,
+      "new_value": 50.0
+    },
+    {
+      "stock_code": "2722",
+      "company_name": "株式会社ＩＫホールディングス",
+      "change_type": "dividend_increased",
+      "old_value": 8.0,
+      "new_value": 9.0
+    },
+    {
+      "stock_code": "7487",
+      "company_name": "小津産業株式会社",
+      "change_type": "dividend_increased",
+      "old_value": 25.0,
+      "new_value": 30.0
+    },
+    {
+      "stock_code": "9765",
+      "company_name": "株式会社オオバ",
+      "change_type": "dividend_increased",
+      "old_value": 42.0,
+      "new_value": 44.0
+    },
+    {
+      "stock_code": "3297",
+      "company_name": "株式会社東武住販",
+      "change_type": "dividend_increased",
+      "old_value": 40.0,
+      "new_value": 43.0
+    },
+    {
+      "stock_code": "7725",
+      "company_name": "株式会社インターアクション",
+      "change_type": "tier_no_longer_qualified",
+      "old_value": "standard",
+      "new_value": null
+    },
+    {
+      "stock_code": "7725",
+      "company_name": "株式会社インターアクション",
+      "change_type": "dividend_increased",
+      "old_value": 43,
+      "new_value": 44
+    },
+    {
+      "stock_code": "9812",
+      "company_name": "株式会社テーオーホールディングス",
+      "change_type": "dividend_stopped",
+      "old_value": 0.5,
+      "new_value": 0.0
+    },
+    {
+      "stock_code": "4465",
+      "company_name": "株式会社ニイタカ",
+      "change_type": "dividend_decreased",
+      "old_value": 92.0,
+      "new_value": 77.0
+    },
+    {
+      "stock_code": "4885",
+      "company_name": "室町ケミカル株式会社",
+      "change_type": "dividend_increased",
+      "old_value": 25,
+      "new_value": 26
+    },
+    {
+      "stock_code": "6505",
+      "company_name": "東洋電機製造株式会社",
+      "change_type": "dividend_increased",
+      "old_value": 70.0,
+      "new_value": 100.0
+    },
+    {
+      "stock_code": "1376",
+      "company_name": "カネコ種苗株式会社",
+      "change_type": "dividend_increased",
+      "old_value": 38.0,
+      "new_value": 48.0
+    },
+    {
+      "stock_code": "9265",
+      "company_name": "ヤマシタヘルスケアホールディングス株式会社",
+      "change_type": "dividend_increased",
+      "old_value": 75.0,
+      "new_value": 107.0
+    },
+    {
+      "stock_code": "3791",
+      "company_name": "株式会社ＩＧポート",
+      "change_type": "dividend_decreased",
+      "old_value": 11,
+      "new_value": 8.5
+    },
+    {
+      "stock_code": "2153",
+      "company_name": "Ｅ・Ｊホールディングス株式会社",
+      "change_type": "dividend_increased",
+      "old_value": 67,
+      "new_value": 69
+    },
+    {
+      "stock_code": "3021",
+      "company_name": "株式会社パシフィックネット",
+      "change_type": "dividend_increased",
+      "old_value": 48.0,
+      "new_value": 52.0
+    },
+    {
+      "stock_code": "4076",
+      "company_name": "株式会社シイエヌエス",
+      "change_type": "dividend_decreased",
+      "old_value": 75.0,
+      "new_value": 61.0
+    },
+    {
+      "stock_code": "6496",
+      "company_name": "株式会社中北製作所",
+      "change_type": "dividend_increased",
+      "old_value": 100.0,
+      "new_value": 110.0
+    },
+    {
+      "stock_code": "3501",
+      "company_name": "ＳＵＭＩＮＯＥ株式会社",
+      "change_type": "dividend_decreased",
+      "old_value": 60.0,
+      "new_value": 40.0
+    },
+    {
+      "stock_code": "3824",
+      "company_name": "メディアファイブ株式会社",
+      "change_type": "dividend_increased",
+      "old_value": 5.0,
+      "new_value": 15.0
+    },
+    {
+      "stock_code": "4577",
+      "company_name": "ダイト株式会社",
+      "change_type": "dividend_decreased",
+      "old_value": 70.0,
+      "new_value": 40.0
+    },
+    {
+      "stock_code": "6047",
+      "company_name": "株式会社Ｇｕｎｏｓｙ",
+      "change_type": "dividend_increased",
+      "old_value": 18.3,
+      "new_value": 22.0
+    },
+    {
+      "stock_code": "1419",
+      "company_name": "タマホーム株式会社",
+      "change_type": "dividend_decreased",
+      "old_value": 195.0,
+      "new_value": 125.0
+    },
+    {
+      "stock_code": "1401",
+      "company_name": "株式会社エムビーエス",
+      "change_type": "tier_newly_qualified",
+      "old_value": null,
+      "new_value": "upper"
+    },
+    {
+      "stock_code": "1401",
+      "company_name": "株式会社エムビーエス",
+      "change_type": "dividend_increased",
+      "old_value": 13.0,
+      "new_value": 15.0
+    },
+    {
+      "stock_code": "4198",
+      "company_name": "株式会社テンダ",
+      "change_type": "dividend_decreased",
+      "old_value": 27.0,
+      "new_value": 22.0
+    },
+    {
+      "stock_code": "6083",
+      "company_name": "ＥＲＩホールディングス株式会社",
+      "change_type": "dividend_increased",
+      "old_value": 60,
+      "new_value": 126
+    },
+    {
+      "stock_code": "9651",
+      "company_name": "日本プロセス株式会社",
+      "change_type": "tier_no_longer_qualified",
+      "old_value": "standard",
+      "new_value": null
+    },
+    {
+      "stock_code": "9651",
+      "company_name": "日本プロセス株式会社",
+      "change_type": "dividend_increased",
+      "old_value": 62.0,
+      "new_value": 76.0
+    },
+    {
+      "stock_code": "205A",
+      "company_name": "株式会社ロゴスホールディングス",
+      "change_type": "dividend_increased",
+      "old_value": 45.33,
+      "new_value": 63.39
+    },
+    {
+      "stock_code": "6578",
+      "company_name": "株式会社コレックホールディングス",
+      "change_type": "dividend_increased",
+      "old_value": 8.0,
+      "new_value": 9.0
+    },
+    {
+      "stock_code": "5967",
+      "company_name": "ＴＯＮＥ株式会社",
+      "change_type": "dividend_increased",
+      "old_value": 9.0,
+      "new_value": 13.0
+    },
+    {
+      "stock_code": "277A",
+      "company_name": "グロービング株式会社",
+      "change_type": "tier_newly_qualified",
+      "old_value": null,
+      "new_value": "upper"
+    },
+    {
+      "stock_code": "277A",
+      "company_name": "グロービング株式会社",
+      "change_type": "dividend_started",
+      "old_value": 0.0,
+      "new_value": 16.1
+    },
+    {
+      "stock_code": "4430",
+      "company_name": "東海ソフト株式会社",
+      "change_type": "dividend_increased",
+      "old_value": 55,
+      "new_value": 65
+    },
+    {
+      "stock_code": "8887",
+      "company_name": "株式会社シーラホールディングス",
+      "change_type": "dividend_increased",
+      "old_value": 3.5,
+      "new_value": 13.0
+    },
+    {
+      "stock_code": "3236",
+      "company_name": "株式会社プロパスト",
+      "change_type": "dividend_increased",
+      "old_value": 6.0,
+      "new_value": 8.0
+    },
+    {
+      "stock_code": "3760",
+      "company_name": "株式会社ケイブ",
+      "change_type": "dividend_stopped",
+      "old_value": 10,
+      "new_value": 0.0
+    },
+    {
+      "stock_code": "3349",
+      "company_name": "株式会社コスモス薬品",
+      "change_type": "dividend_increased",
+      "old_value": 70.0,
+      "new_value": 82.0
+    },
+    {
+      "stock_code": "7888",
+      "company_name": "三光合成株式会社",
+      "change_type": "dividend_increased",
+      "old_value": 24.0,
+      "new_value": 28.0
+    },
+    {
+      "stock_code": "4735",
+      "company_name": "株式会社京進",
+      "change_type": "dividend_increased",
+      "old_value": 3.63,
+      "new_value": 5.0
+    },
+    {
+      "stock_code": "7673",
+      "company_name": "ダイコー通産株式会社",
+      "change_type": "dividend_increased",
+      "old_value": 60.0,
+      "new_value": 70.0
+    },
+    {
+      "stock_code": "192A",
+      "company_name": "インテグループ株式会社",
+      "change_type": "dividend_decreased",
+      "old_value": 45.0,
+      "new_value": 20.0
+    },
+    {
+      "stock_code": "6044",
+      "company_name": "株式会社三機サービス",
+      "change_type": "dividend_increased",
+      "old_value": 25.0,
+      "new_value": 30.0
+    },
+    {
+      "stock_code": "372A",
+      "company_name": "株式会社レント",
+      "change_type": "dividend_increased",
+      "old_value": 180,
+      "new_value": 220
+    },
+    {
+      "stock_code": "208A",
+      "company_name": "株式会社構造計画研究所ホールディングス",
+      "change_type": "dividend_increased",
+      "old_value": 90.0,
+      "new_value": 102.0
+    },
+    {
+      "stock_code": "3191",
+      "company_name": "株式会社ジョイフル本田",
+      "change_type": "dividend_increased",
+      "old_value": 64.0,
+      "new_value": 84.0
+    },
+    {
+      "stock_code": "5966",
+      "company_name": "京都機械工具株式会社",
+      "change_type": "dividend_increased",
+      "old_value": 80.0,
+      "new_value": 85.0
+    },
+    {
+      "stock_code": "9942",
+      "company_name": "株式会社ジョイフル",
+      "change_type": "dividend_increased",
+      "old_value": 10,
+      "new_value": 15
+    },
+    {
+      "stock_code": "7962",
+      "company_name": "株式会社キングジム",
+      "change_type": "dividend_increased",
+      "old_value": 14.0,
+      "new_value": 15.0
+    },
+    {
+      "stock_code": "4847",
+      "company_name": "株式会社インテリジェント　ウェイブ",
+      "change_type": "dividend_increased",
+      "old_value": 35,
+      "new_value": 37
+    },
+    {
+      "stock_code": "3984",
+      "company_name": "株式会社ユーザーローカル",
+      "change_type": "tier_newly_qualified",
+      "old_value": null,
+      "new_value": "elite"
+    },
+    {
+      "stock_code": "3984",
+      "company_name": "株式会社ユーザーローカル",
+      "change_type": "dividend_increased",
+      "old_value": 14.0,
+      "new_value": 24.0
+    },
+    {
+      "stock_code": "4826",
+      "company_name": "株式会社ＣＩＪ",
+      "change_type": "dividend_increased",
+      "old_value": 15.0,
+      "new_value": 20.0
+    },
+    {
+      "stock_code": "1381",
+      "company_name": "株式会社アクシーズ",
+      "change_type": "dividend_increased",
+      "old_value": 112.5,
+      "new_value": 120.0
+    },
+    {
+      "stock_code": "3836",
+      "company_name": "株式会社アバントグループ",
+      "change_type": "dividend_increased",
+      "old_value": 25,
+      "new_value": 32
+    },
+    {
+      "stock_code": "4396",
+      "company_name": "株式会社システムサポートホールディングス",
+      "change_type": "dividend_decreased",
+      "old_value": 50,
+      "new_value": 48
+    },
+    {
+      "stock_code": "9346",
+      "company_name": "株式会社ココルポート",
+      "change_type": "tier_downgraded",
+      "old_value": "upper",
+      "new_value": "standard"
+    },
+    {
+      "stock_code": "9346",
+      "company_name": "株式会社ココルポート",
+      "change_type": "dividend_increased",
+      "old_value": 47.0,
+      "new_value": 64.0
+    },
+    {
+      "stock_code": "4398",
+      "company_name": "株式会社ブロードバンドセキュリティ",
+      "change_type": "dividend_increased",
+      "old_value": 15.0,
+      "new_value": 16.0
+    },
+    {
+      "stock_code": "6090",
+      "company_name": "ヒューマン・メタボローム・テクノロジーズ株式会社",
+      "change_type": "dividend_increased",
+      "old_value": 15.0,
+      "new_value": 18.0
+    },
+    {
+      "stock_code": "2481",
+      "company_name": "株式会社タウンニュース社",
+      "change_type": "tier_newly_qualified",
+      "old_value": null,
+      "new_value": "standard"
+    },
+    {
+      "stock_code": "2481",
+      "company_name": "株式会社タウンニュース社",
+      "change_type": "dividend_increased",
+      "old_value": 20.0,
+      "new_value": 22.0
+    },
+    {
+      "stock_code": "2154",
+      "company_name": "株式会社オープンアップグループ",
+      "change_type": "dividend_increased",
+      "old_value": 75,
+      "new_value": 85
+    },
+    {
+      "stock_code": "4391",
+      "company_name": "ロジザード株式会社",
+      "change_type": "dividend_increased",
+      "old_value": 18.0,
+      "new_value": 19.0
+    },
+    {
+      "stock_code": "4495",
+      "company_name": "株式会社アイキューブドシステムズ",
+      "change_type": "tier_newly_qualified",
+      "old_value": null,
+      "new_value": "standard"
+    },
+    {
+      "stock_code": "4495",
+      "company_name": "株式会社アイキューブドシステムズ",
+      "change_type": "dividend_increased",
+      "old_value": 34.0,
+      "new_value": 38.0
+    },
+    {
+      "stock_code": "7821",
+      "company_name": "前田工繊株式会社",
+      "change_type": "dividend_increased",
+      "old_value": 26.0,
+      "new_value": 30.0
+    },
+    {
+      "stock_code": "6571",
+      "company_name": "キュービーネットホールディングス株式会社",
+      "change_type": "dividend_increased",
+      "old_value": 35.0,
+      "new_value": 40.0
+    },
+    {
+      "stock_code": "6340",
+      "company_name": "澁谷工業株式会社",
+      "change_type": "tier_no_longer_qualified",
+      "old_value": "standard",
+      "new_value": null
+    },
+    {
+      "stock_code": "6340",
+      "company_name": "澁谷工業株式会社",
+      "change_type": "dividend_increased",
+      "old_value": 95.0,
+      "new_value": 100.0
+    },
+    {
+      "stock_code": "4767",
+      "company_name": "株式会社テー・オー・ダブリュー",
+      "change_type": "dividend_increased",
+      "old_value": 15.0,
+      "new_value": 18.3
+    },
+    {
+      "stock_code": "2385",
+      "company_name": "株式会社総医研ホールディングス",
+      "change_type": "dividend_increased",
+      "old_value": 5.0,
+      "new_value": 10.0
+    },
+    {
+      "stock_code": "6874",
+      "company_name": "協立電機株式会社",
+      "change_type": "dividend_decreased",
+      "old_value": 140.0,
+      "new_value": 90.0
+    },
+    {
+      "stock_code": "6547",
+      "company_name": "株式会社グリーンズ",
+      "change_type": "dividend_increased",
+      "old_value": 35.0,
+      "new_value": 52.0
+    },
+    {
+      "stock_code": "6239",
+      "company_name": "株式会社ナガオカ",
+      "change_type": "tier_no_longer_qualified",
+      "old_value": "upper",
+      "new_value": null
+    },
+    {
+      "stock_code": "5074",
+      "company_name": "テスホールディングス株式会社",
+      "change_type": "dividend_increased",
+      "old_value": 5.12,
+      "new_value": 9.54
+    },
+    {
+      "stock_code": "3300",
+      "company_name": "株式会社アンビションＤＸホールディングス",
+      "change_type": "dividend_increased",
+      "old_value": 105.0,
+      "new_value": 110.0
+    },
+    {
+      "stock_code": "4326",
+      "company_name": "株式会社インテージホールディングス",
+      "change_type": "dividend_increased",
+      "old_value": 45.0,
+      "new_value": 48.0
+    },
+    {
+      "stock_code": "3028",
+      "company_name": "株式会社アルペン",
+      "change_type": "dividend_increased",
+      "old_value": 50,
+      "new_value": 55
+    },
+    {
+      "stock_code": "3242",
+      "company_name": "株式会社アーバネットコーポレーション",
+      "change_type": "dividend_increased",
+      "old_value": 22.0,
+      "new_value": 24.0
+    },
+    {
+      "stock_code": "9450",
+      "company_name": "株式会社ファイバーゲート",
+      "change_type": "tier_no_longer_qualified",
+      "old_value": "standard",
+      "new_value": null
+    },
+    {
+      "stock_code": "1414",
+      "company_name": "ショーボンドホールディングス株式会社",
+      "change_type": "dividend_decreased",
+      "old_value": 175.5,
+      "new_value": 107.25
+    },
+    {
+      "stock_code": "9165",
+      "company_name": "株式会社クオルテック",
+      "change_type": "tier_newly_qualified",
+      "old_value": null,
+      "new_value": "standard"
+    },
+    {
+      "stock_code": "9165",
+      "company_name": "株式会社クオルテック",
+      "change_type": "dividend_increased",
+      "old_value": 37,
+      "new_value": 47
+    },
+    {
+      "stock_code": "378A",
+      "company_name": "株式会社ヒット",
+      "change_type": "dividend_increased",
+      "old_value": 17.5,
+      "new_value": 20.0
+    },
+    {
+      "stock_code": "5530",
+      "company_name": "日本システムバンク株式会社",
+      "change_type": "dividend_decreased",
+      "old_value": 64,
+      "new_value": 43
+    },
+    {
+      "stock_code": "4976",
+      "company_name": "東洋ドライルーブ株式会社",
+      "change_type": "dividend_decreased",
+      "old_value": 96.0,
+      "new_value": 71.0
+    },
+    {
+      "stock_code": "8945",
+      "company_name": "サンネクスタグループ株式会社",
+      "change_type": "dividend_increased",
+      "old_value": 41.0,
+      "new_value": 43.0
+    },
+    {
+      "stock_code": "6785",
+      "company_name": "株式会社鈴木",
+      "change_type": "tier_upgraded",
+      "old_value": "standard",
+      "new_value": "upper"
+    },
+    {
+      "stock_code": "6785",
+      "company_name": "株式会社鈴木",
+      "change_type": "dividend_increased",
+      "old_value": 85,
+      "new_value": 105
+    },
+    {
+      "stock_code": "9340",
+      "company_name": "株式会社アソインターナショナル",
+      "change_type": "dividend_decreased",
+      "old_value": 31.0,
+      "new_value": 26.0
+    },
+    {
+      "stock_code": "7532",
+      "company_name": "株式会社パン・パシフィック・インターナショナルホールディングス",
+      "change_type": "dividend_decreased",
+      "old_value": 35.0,
+      "new_value": 9.5
+    },
+    {
+      "stock_code": "3097",
+      "company_name": "株式会社物語コーポレーション",
+      "change_type": "dividend_increased",
+      "old_value": 36,
+      "new_value": 43
+    },
+    {
+      "stock_code": "7781",
+      "company_name": "株式会社平山ホールディングス",
+      "change_type": "dividend_increased",
+      "old_value": 50.0,
+      "new_value": 66.0
+    },
+    {
+      "stock_code": "7812",
+      "company_name": "株式会社クレステック",
+      "change_type": "dividend_increased",
+      "old_value": 76,
+      "new_value": 104
+    },
+    {
+      "stock_code": "2428",
+      "company_name": "ウェルネット株式会社",
+      "change_type": "dividend_increased",
+      "old_value": 29.0,
+      "new_value": 29.5
+    },
+    {
+      "stock_code": "2477",
+      "company_name": "手間いらず株式会社",
+      "change_type": "dividend_increased",
+      "old_value": 38.0,
+      "new_value": 44.5
+    },
+    {
+      "stock_code": "3457",
+      "company_name": "株式会社Ａｎｄ　Ｄｏホールディングス",
+      "change_type": "dividend_increased",
+      "old_value": 45.0,
+      "new_value": 46.0
+    },
+    {
+      "stock_code": "7809",
+      "company_name": "株式会社壽屋",
+      "change_type": "dividend_increased",
+      "old_value": 40,
+      "new_value": 45
+    },
+    {
+      "stock_code": "6227",
+      "company_name": "ＡＩメカテック株式会社",
+      "change_type": "dividend_decreased",
+      "old_value": 45.0,
+      "new_value": 17.0
+    },
+    {
+      "stock_code": "5698",
+      "company_name": "株式会社エンビプロ・ホールディングス",
+      "change_type": "dividend_increased",
+      "old_value": 15.0,
+      "new_value": 25.0
+    },
+    {
+      "stock_code": "6036",
+      "company_name": "ＫｅｅＰｅｒ技研株式会社",
+      "change_type": "tier_upgraded",
+      "old_value": "upper",
+      "new_value": "elite"
+    },
+    {
+      "stock_code": "6036",
+      "company_name": "ＫｅｅＰｅｒ技研株式会社",
+      "change_type": "dividend_increased",
+      "old_value": 60.0,
+      "new_value": 100.0
+    },
+    {
+      "stock_code": "2938",
+      "company_name": "株式会社オカムラ食品工業",
+      "change_type": "dividend_decreased",
+      "old_value": 28.5,
+      "new_value": 8
+    },
+    {
+      "stock_code": "3076",
+      "company_name": "あいホールディングス株式会社",
+      "change_type": "tier_no_longer_qualified",
+      "old_value": "upper",
+      "new_value": null
+    },
+    {
+      "stock_code": "3076",
+      "company_name": "あいホールディングス株式会社",
+      "change_type": "dividend_increased",
+      "old_value": 100.0,
+      "new_value": 125.0
+    },
+    {
+      "stock_code": "6728",
+      "company_name": "株式会社　アルバック",
+      "change_type": "dividend_decreased",
+      "old_value": 164.0,
+      "new_value": 152.0
+    },
+    {
+      "stock_code": "3041",
+      "company_name": "株式会社ビューティカダンホールディングス",
+      "change_type": "dividend_stopped",
+      "old_value": 5.25,
+      "new_value": 0.0
+    },
+    {
+      "stock_code": "3632",
+      "company_name": "グリーホールディングス株式会社",
+      "change_type": "dividend_increased",
+      "old_value": 14.5,
+      "new_value": 22.0
+    },
+    {
+      "stock_code": "141A",
+      "company_name": "株式会社トライアルホールディングス",
+      "change_type": "dividend_increased",
+      "old_value": 16.0,
+      "new_value": 17.0
+    },
+    {
+      "stock_code": "6061",
+      "company_name": "株式会社ユニバーサル園芸社",
+      "change_type": "tier_no_longer_qualified",
+      "old_value": "upper",
+      "new_value": null
+    },
+    {
+      "stock_code": "6061",
+      "company_name": "株式会社ユニバーサル園芸社",
+      "change_type": "dividend_decreased",
+      "old_value": 26.0,
+      "new_value": 13.0
+    },
+    {
+      "stock_code": "9273",
+      "company_name": "コーア商事ホールディングス株式会社",
+      "change_type": "dividend_increased",
+      "old_value": 16.0,
+      "new_value": 18.0
+    },
+    {
+      "stock_code": "3597",
+      "company_name": "株式会社自重堂",
+      "change_type": "dividend_decreased",
+      "old_value": 600.0,
+      "new_value": 500.0
+    },
+    {
+      "stock_code": "7707",
+      "company_name": "プレシジョン・システム・サイエンス株式会社",
+      "change_type": "dividend_started",
+      "old_value": 0.0,
+      "new_value": 2.0
+    },
+    {
+      "stock_code": "7320",
+      "company_name": "Ｓｏｌｖｖｙ株式会社",
+      "change_type": "dividend_decreased",
+      "old_value": 28.0,
+      "new_value": 20.0
+    },
+    {
+      "stock_code": "6030",
+      "company_name": "株式会社アドベンチャー",
+      "change_type": "dividend_started",
+      "old_value": 0.0,
+      "new_value": 15.0
+    },
+    {
+      "stock_code": "6695",
+      "company_name": "株式会社キャストリコ",
+      "change_type": "dividend_decreased",
+      "old_value": 2.5,
+      "new_value": 1.0
+    },
+    {
+      "stock_code": "4820",
+      "company_name": "株式会社イーエムシステムズ（商号　株式会社ＥＭシステムズ）",
+      "change_type": "dividend_decreased",
+      "old_value": 39.0,
+      "new_value": 14.0
+    },
+    {
+      "stock_code": "7921",
+      "company_name": "株式会社ＴＡＫＡＲＡ　＆　ＣＯＭＰＡＮＹ",
+      "change_type": "tier_downgraded",
+      "old_value": "upper",
+      "new_value": "standard"
+    },
+    {
+      "stock_code": "3321",
+      "company_name": "ミタチ産業株式会社",
+      "change_type": "dividend_increased",
+      "old_value": 60.0,
+      "new_value": 80.0
+    }
+  ]
 }
