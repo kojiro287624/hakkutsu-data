@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-28T07:12:09.015717",
-  "previous_generated_at": "2026-09-28T06:35:04.302574",
+  "generated_at": "2026-09-28T07:50:07.486249",
+  "previous_generated_at": "2026-09-28T07:12:08.567979",
   "retention_days": 90,
-  "count": 122,
+  "count": 132,
   "changes": [
     {
       "stock_code": "9942",
@@ -349,6 +349,22 @@
       "detected_at": "2026-09-28"
     },
     {
+      "stock_code": "6197",
+      "company_name": "株式会社ソラスト",
+      "change_type": "no_longer_covered",
+      "old_value": null,
+      "new_value": null,
+      "detected_at": "2026-09-28"
+    },
+    {
+      "stock_code": "6096",
+      "company_name": "株式会社レアジョブ",
+      "change_type": "no_longer_covered",
+      "old_value": null,
+      "new_value": null,
+      "detected_at": "2026-09-28"
+    },
+    {
       "stock_code": "6090",
       "company_name": "ヒューマン・メタボローム・テクノロジーズ株式会社",
       "change_type": "dividend_increased",
@@ -450,6 +466,22 @@
       "change_type": "dividend_decreased",
       "old_value": 64,
       "new_value": 43,
+      "detected_at": "2026-09-28"
+    },
+    {
+      "stock_code": "5202",
+      "company_name": "日本板硝子株式会社",
+      "change_type": "no_longer_covered",
+      "old_value": null,
+      "new_value": null,
+      "detected_at": "2026-09-28"
+    },
+    {
+      "stock_code": "5103",
+      "company_name": "昭和ホールディングス株式会社",
+      "change_type": "no_longer_covered",
+      "old_value": null,
+      "new_value": null,
       "detected_at": "2026-09-28"
     },
     {
@@ -597,6 +629,14 @@
       "detected_at": "2026-09-28"
     },
     {
+      "stock_code": "4171",
+      "company_name": "株式会社グローバルインフォメーション",
+      "change_type": "no_longer_covered",
+      "old_value": null,
+      "new_value": null,
+      "detected_at": "2026-09-28"
+    },
+    {
       "stock_code": "4076",
       "company_name": "株式会社シイエヌエス",
       "change_type": "dividend_decreased",
@@ -626,6 +666,14 @@
       "change_type": "dividend_increased",
       "old_value": 40.0,
       "new_value": 50.0,
+      "detected_at": "2026-09-28"
+    },
+    {
+      "stock_code": "3856",
+      "company_name": "Ａｂａｌａｎｃｅ株式会社",
+      "change_type": "no_longer_covered",
+      "old_value": null,
+      "new_value": null,
       "detected_at": "2026-09-28"
     },
     {
@@ -674,6 +722,14 @@
       "change_type": "dividend_increased",
       "old_value": 180,
       "new_value": 220,
+      "detected_at": "2026-09-28"
+    },
+    {
+      "stock_code": "3681",
+      "company_name": "株式会社ブイキューブ",
+      "change_type": "no_longer_covered",
+      "old_value": null,
+      "new_value": null,
       "detected_at": "2026-09-28"
     },
     {
@@ -741,6 +797,14 @@
       "detected_at": "2026-09-28"
     },
     {
+      "stock_code": "3271",
+      "company_name": "株式会社　ＴＨＥグローバル社",
+      "change_type": "no_longer_covered",
+      "old_value": null,
+      "new_value": null,
+      "detected_at": "2026-09-28"
+    },
+    {
       "stock_code": "3242",
       "company_name": "株式会社アーバネットコーポレーション",
       "change_type": "dividend_increased",
@@ -770,6 +834,14 @@
       "change_type": "dividend_increased",
       "old_value": 36,
       "new_value": 43,
+      "detected_at": "2026-09-28"
+    },
+    {
+      "stock_code": "3079",
+      "company_name": "ディーブイエックス株式会社",
+      "change_type": "no_longer_covered",
+      "old_value": null,
+      "new_value": null,
       "detected_at": "2026-09-28"
     },
     {
@@ -882,6 +954,14 @@
       "change_type": "dividend_increased",
       "old_value": 5.0,
       "new_value": 10.0,
+      "detected_at": "2026-09-28"
+    },
+    {
+      "stock_code": "2162",
+      "company_name": "ｎｍｓホールディングス株式会社",
+      "change_type": "no_longer_covered",
+      "old_value": null,
+      "new_value": null,
       "detected_at": "2026-09-28"
     },
     {
