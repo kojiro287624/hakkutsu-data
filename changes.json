@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-09-29T02:04:34.053544",
-  "previous_generated_at": "2026-09-29T00:58:42.541105",
+  "generated_at": "2026-09-29T05:21:50.046604",
+  "previous_generated_at": "2026-09-29T02:04:33.597138",
   "retention_days": 90,
-  "count": 166,
+  "count": 177,
   "changes": [
+    {
+      "stock_code": "9508",
+      "company_name": "九州電力株式会社",
+      "change_type": "no_longer_covered",
+      "old_value": null,
+      "new_value": null,
+      "detected_at": "2026-09-29"
+    },
     {
       "stock_code": "9417",
       "company_name": "株式会社スマートバリュー",
@@ -159,25 +167,41 @@
     {
       "stock_code": "3986",
       "company_name": "株式会社ビーブレイクシステムズ",
-      "change_type": "dividend_decreased",
-      "old_value": 18,
+      "change_type": "stock_split",
+      "old_value": 1536960,
+      "new_value": 4610880,
+      "split_ratio": 3,
+      "detected_at": "2026-09-29"
+    },
+    {
+      "stock_code": "3986",
+      "company_name": "株式会社ビーブレイクシステムズ",
+      "change_type": "dividend_increased",
+      "old_value": 6.0,
       "new_value": 15,
+      "split_adjusted": true,
+      "split_ratio": 3,
+      "old_value_before_split": 18,
       "detected_at": "2026-09-29"
     },
     {
       "stock_code": "3916",
       "company_name": "デジタル・インフォメーション・テクノロジー株式会社",
-      "change_type": "tier_no_longer_qualified",
-      "old_value": "standard",
-      "new_value": null,
+      "change_type": "stock_split",
+      "old_value": 15501820,
+      "new_value": 31003640,
+      "split_ratio": 2,
       "detected_at": "2026-09-29"
     },
     {
       "stock_code": "3916",
       "company_name": "デジタル・インフォメーション・テクノロジー株式会社",
-      "change_type": "dividend_decreased",
-      "old_value": 72.0,
+      "change_type": "dividend_increased",
+      "old_value": 36.0,
       "new_value": 56.0,
+      "split_adjusted": true,
+      "split_ratio": 2,
+      "old_value_before_split": 72.0,
       "detected_at": "2026-09-29"
     },
     {
@@ -397,6 +421,14 @@
       "detected_at": "2026-09-28"
     },
     {
+      "stock_code": "8253",
+      "company_name": "株式会社クレディセゾン",
+      "change_type": "no_longer_covered",
+      "old_value": null,
+      "new_value": null,
+      "detected_at": "2026-09-28"
+    },
+    {
       "stock_code": "7962",
       "company_name": "株式会社キングジム",
       "change_type": "dividend_increased",
@@ -487,9 +519,21 @@
     {
       "stock_code": "7532",
       "company_name": "株式会社パン・パシフィック・インターナショナルホールディングス",
-      "change_type": "dividend_decreased",
-      "old_value": 35.0,
+      "change_type": "stock_split",
+      "old_value": 635353000,
+      "new_value": 3177297000,
+      "split_ratio": 5,
+      "detected_at": "2026-09-28"
+    },
+    {
+      "stock_code": "7532",
+      "company_name": "株式会社パン・パシフィック・インターナショナルホールディングス",
+      "change_type": "dividend_increased",
+      "old_value": 7.0,
       "new_value": 9.5,
+      "split_adjusted": true,
+      "split_ratio": 5,
+      "old_value_before_split": 35.0,
       "detected_at": "2026-09-28"
     },
     {
@@ -503,17 +547,41 @@
     {
       "stock_code": "7320",
       "company_name": "Ｓｏｌｖｖｙ株式会社",
-      "change_type": "dividend_decreased",
-      "old_value": 28.0,
+      "change_type": "stock_split",
+      "old_value": 5998627,
+      "new_value": 11997254,
+      "split_ratio": 2,
+      "detected_at": "2026-09-28"
+    },
+    {
+      "stock_code": "7320",
+      "company_name": "Ｓｏｌｖｖｙ株式会社",
+      "change_type": "dividend_increased",
+      "old_value": 14.0,
       "new_value": 20.0,
+      "split_adjusted": true,
+      "split_ratio": 2,
+      "old_value_before_split": 28.0,
       "detected_at": "2026-09-28"
     },
     {
       "stock_code": "6874",
       "company_name": "協立電機株式会社",
-      "change_type": "dividend_decreased",
-      "old_value": 140.0,
+      "change_type": "stock_split",
+      "old_value": 4369000,
+      "new_value": 8738000,
+      "split_ratio": 2,
+      "detected_at": "2026-09-28"
+    },
+    {
+      "stock_code": "6874",
+      "company_name": "協立電機株式会社",
+      "change_type": "dividend_increased",
+      "old_value": 70.0,
       "new_value": 90.0,
+      "split_adjusted": true,
+      "split_ratio": 2,
+      "old_value_before_split": 140.0,
       "detected_at": "2026-09-28"
     },
     {
@@ -615,9 +683,21 @@
     {
       "stock_code": "6227",
       "company_name": "ＡＩメカテック株式会社",
-      "change_type": "dividend_decreased",
-      "old_value": 45.0,
+      "change_type": "stock_split",
+      "old_value": 6283000,
+      "new_value": 18849000,
+      "split_ratio": 3,
+      "detected_at": "2026-09-28"
+    },
+    {
+      "stock_code": "6227",
+      "company_name": "ＡＩメカテック株式会社",
+      "change_type": "dividend_increased",
+      "old_value": 15.0,
       "new_value": 17.0,
+      "split_adjusted": true,
+      "split_ratio": 3,
+      "old_value_before_split": 45.0,
       "detected_at": "2026-09-28"
     },
     {
@@ -655,17 +735,10 @@
     {
       "stock_code": "6061",
       "company_name": "株式会社ユニバーサル園芸社",
-      "change_type": "tier_no_longer_qualified",
-      "old_value": "upper",
-      "new_value": null,
-      "detected_at": "2026-09-28"
-    },
-    {
-      "stock_code": "6061",
-      "company_name": "株式会社ユニバーサル園芸社",
-      "change_type": "dividend_decreased",
-      "old_value": 26.0,
-      "new_value": 13.0,
+      "change_type": "stock_split",
+      "old_value": 5025000,
+      "new_value": 10050000,
+      "split_ratio": 2,
       "detected_at": "2026-09-28"
     },
     {
@@ -735,9 +808,21 @@
     {
       "stock_code": "5530",
       "company_name": "日本システムバンク株式会社",
-      "change_type": "dividend_decreased",
-      "old_value": 64,
+      "change_type": "stock_split",
+      "old_value": 1147244,
+      "new_value": 2294488,
+      "split_ratio": 2,
+      "detected_at": "2026-09-28"
+    },
+    {
+      "stock_code": "5530",
+      "company_name": "日本システムバンク株式会社",
+      "change_type": "dividend_increased",
+      "old_value": 32.0,
       "new_value": 43,
+      "split_adjusted": true,
+      "split_ratio": 2,
+      "old_value_before_split": 64,
       "detected_at": "2026-09-28"
     },
     {
@@ -767,9 +852,21 @@
     {
       "stock_code": "4976",
       "company_name": "東洋ドライルーブ株式会社",
-      "change_type": "dividend_decreased",
-      "old_value": 96.0,
+      "change_type": "stock_split",
+      "old_value": 1355000,
+      "new_value": 4065000,
+      "split_ratio": 3,
+      "detected_at": "2026-09-28"
+    },
+    {
+      "stock_code": "4976",
+      "company_name": "東洋ドライルーブ株式会社",
+      "change_type": "dividend_increased",
+      "old_value": 32.0,
       "new_value": 71.0,
+      "split_adjusted": true,
+      "split_ratio": 3,
+      "old_value_before_split": 96.0,
       "detected_at": "2026-09-28"
     },
     {
@@ -871,9 +968,21 @@
     {
       "stock_code": "4396",
       "company_name": "株式会社システムサポートホールディングス",
-      "change_type": "dividend_decreased",
-      "old_value": 50,
+      "change_type": "stock_split",
+      "old_value": 10400000,
+      "new_value": 20800000,
+      "split_ratio": 2,
+      "detected_at": "2026-09-28"
+    },
+    {
+      "stock_code": "4396",
+      "company_name": "株式会社システムサポートホールディングス",
+      "change_type": "dividend_increased",
+      "old_value": 25.0,
       "new_value": 48,
+      "split_adjusted": true,
+      "split_ratio": 2,
+      "old_value_before_split": 50,
       "detected_at": "2026-09-28"
     },
     {
@@ -943,6 +1052,14 @@
     {
       "stock_code": "3856",
       "company_name": "Ａｂａｌａｎｃｅ株式会社",
+      "change_type": "no_longer_covered",
+      "old_value": null,
+      "new_value": null,
+      "detected_at": "2026-09-28"
+    },
+    {
+      "stock_code": "3843",
+      "company_name": "フリービット株式会社",
       "change_type": "no_longer_covered",
       "old_value": null,
       "new_value": null,
@@ -1295,9 +1412,21 @@
     {
       "stock_code": "1414",
       "company_name": "ショーボンドホールディングス株式会社",
-      "change_type": "dividend_decreased",
-      "old_value": 175.5,
+      "change_type": "stock_split",
+      "old_value": 54745180,
+      "new_value": 218980720,
+      "split_ratio": 4,
+      "detected_at": "2026-09-28"
+    },
+    {
+      "stock_code": "1414",
+      "company_name": "ショーボンドホールディングス株式会社",
+      "change_type": "dividend_increased",
+      "old_value": 43.88,
       "new_value": 107.25,
+      "split_adjusted": true,
+      "split_ratio": 4,
+      "old_value_before_split": 175.5,
       "detected_at": "2026-09-28"
     },
     {
