@@ -1,9 +1,281 @@
 {
-  "generated_at": "2026-09-28T07:50:07.486249",
-  "previous_generated_at": "2026-09-28T07:12:08.567979",
+  "generated_at": "2026-09-29T00:58:43.019227",
+  "previous_generated_at": "2026-09-28T07:50:07.028994",
   "retention_days": 90,
-  "count": 132,
+  "count": 166,
   "changes": [
+    {
+      "stock_code": "9417",
+      "company_name": "株式会社スマートバリュー",
+      "change_type": "dividend_stopped",
+      "old_value": 8.0,
+      "new_value": 0.0,
+      "detected_at": "2026-09-29"
+    },
+    {
+      "stock_code": "8928",
+      "company_name": "穴吹興産株式会社",
+      "change_type": "dividend_increased",
+      "old_value": 58.0,
+      "new_value": 78.0,
+      "detected_at": "2026-09-29"
+    },
+    {
+      "stock_code": "8912",
+      "company_name": "株式会社エリアクエスト",
+      "change_type": "dividend_increased",
+      "old_value": 3.0,
+      "new_value": 4.0,
+      "detected_at": "2026-09-29"
+    },
+    {
+      "stock_code": "7826",
+      "company_name": "株式会社フルヤ金属",
+      "change_type": "dividend_increased",
+      "old_value": 96,
+      "new_value": 165,
+      "detected_at": "2026-09-29"
+    },
+    {
+      "stock_code": "7813",
+      "company_name": "株式会社プラッツ",
+      "change_type": "dividend_increased",
+      "old_value": 18,
+      "new_value": 24,
+      "detected_at": "2026-09-29"
+    },
+    {
+      "stock_code": "7803",
+      "company_name": "株式会社ブシロード",
+      "change_type": "dividend_decreased",
+      "old_value": 4.5,
+      "new_value": 2.5,
+      "detected_at": "2026-09-29"
+    },
+    {
+      "stock_code": "7747",
+      "company_name": "朝日インテック株式会社",
+      "change_type": "tier_newly_qualified",
+      "old_value": null,
+      "new_value": "upper",
+      "detected_at": "2026-09-29"
+    },
+    {
+      "stock_code": "7747",
+      "company_name": "朝日インテック株式会社",
+      "change_type": "dividend_increased",
+      "old_value": 24.23,
+      "new_value": 48.24,
+      "detected_at": "2026-09-29"
+    },
+    {
+      "stock_code": "7500",
+      "company_name": "西川計測株式会社",
+      "change_type": "dividend_increased",
+      "old_value": 320.0,
+      "new_value": 390.0,
+      "detected_at": "2026-09-29"
+    },
+    {
+      "stock_code": "7371",
+      "company_name": "Ｚｅｎｋｅｎ株式会社",
+      "change_type": "dividend_increased",
+      "old_value": 13.0,
+      "new_value": 27.0,
+      "detected_at": "2026-09-29"
+    },
+    {
+      "stock_code": "7325",
+      "company_name": "株式会社アイリックコーポレーション",
+      "change_type": "dividend_increased",
+      "old_value": 30,
+      "new_value": 32,
+      "detected_at": "2026-09-29"
+    },
+    {
+      "stock_code": "6597",
+      "company_name": "ＨＰＣシステムズ株式会社",
+      "change_type": "dividend_increased",
+      "old_value": 28.0,
+      "new_value": 32.0,
+      "detected_at": "2026-09-29"
+    },
+    {
+      "stock_code": "6327",
+      "company_name": "北川精機株式会社",
+      "change_type": "dividend_increased",
+      "old_value": 12.0,
+      "new_value": 23.0,
+      "detected_at": "2026-09-29"
+    },
+    {
+      "stock_code": "6062",
+      "company_name": "株式会社チャーム・ケア・コーポレーション",
+      "change_type": "dividend_increased",
+      "old_value": 34.0,
+      "new_value": 43.0,
+      "detected_at": "2026-09-29"
+    },
+    {
+      "stock_code": "6038",
+      "company_name": "株式会社イード",
+      "change_type": "dividend_increased",
+      "old_value": 22.0,
+      "new_value": 23.0,
+      "detected_at": "2026-09-29"
+    },
+    {
+      "stock_code": "5283",
+      "company_name": "株式会社高見澤",
+      "change_type": "dividend_increased",
+      "old_value": 50.0,
+      "new_value": 70.0,
+      "detected_at": "2026-09-29"
+    },
+    {
+      "stock_code": "4845",
+      "company_name": "株式会社スカラ",
+      "change_type": "dividend_increased",
+      "old_value": 16.5,
+      "new_value": 17.0,
+      "detected_at": "2026-09-29"
+    },
+    {
+      "stock_code": "407A",
+      "company_name": "株式会社ＵＮＩＣＯＮホールディングス",
+      "change_type": "dividend_decreased",
+      "old_value": 275.64,
+      "new_value": 45.0,
+      "detected_at": "2026-09-29"
+    },
+    {
+      "stock_code": "4054",
+      "company_name": "日本情報クリエイト株式会社",
+      "change_type": "dividend_increased",
+      "old_value": 5.0,
+      "new_value": 12.0,
+      "detected_at": "2026-09-29"
+    },
+    {
+      "stock_code": "3986",
+      "company_name": "株式会社ビーブレイクシステムズ",
+      "change_type": "dividend_decreased",
+      "old_value": 18,
+      "new_value": 15,
+      "detected_at": "2026-09-29"
+    },
+    {
+      "stock_code": "3916",
+      "company_name": "デジタル・インフォメーション・テクノロジー株式会社",
+      "change_type": "tier_no_longer_qualified",
+      "old_value": "standard",
+      "new_value": null,
+      "detected_at": "2026-09-29"
+    },
+    {
+      "stock_code": "3916",
+      "company_name": "デジタル・インフォメーション・テクノロジー株式会社",
+      "change_type": "dividend_decreased",
+      "old_value": 72.0,
+      "new_value": 56.0,
+      "detected_at": "2026-09-29"
+    },
+    {
+      "stock_code": "386A",
+      "company_name": "株式会社みのや",
+      "change_type": "dividend_increased",
+      "old_value": 10,
+      "new_value": 24.66,
+      "detected_at": "2026-09-29"
+    },
+    {
+      "stock_code": "3675",
+      "company_name": "株式会社クロス・マーケティンググループ",
+      "change_type": "dividend_increased",
+      "old_value": 14.0,
+      "new_value": 15.0,
+      "detected_at": "2026-09-29"
+    },
+    {
+      "stock_code": "3538",
+      "company_name": "株式会社ウイルプラスホールディングス",
+      "change_type": "dividend_increased",
+      "old_value": 45.06,
+      "new_value": 46.0,
+      "detected_at": "2026-09-29"
+    },
+    {
+      "stock_code": "3286",
+      "company_name": "トラストホールディングス株式会社",
+      "change_type": "dividend_decreased",
+      "old_value": 19.0,
+      "new_value": 18.0,
+      "detected_at": "2026-09-29"
+    },
+    {
+      "stock_code": "3140",
+      "company_name": "ＢＲＵＮＯ株式会社",
+      "change_type": "dividend_increased",
+      "old_value": 4.0,
+      "new_value": 11.5,
+      "detected_at": "2026-09-29"
+    },
+    {
+      "stock_code": "2820",
+      "company_name": "株式会社やまみ",
+      "change_type": "dividend_increased",
+      "old_value": 72.0,
+      "new_value": 84.0,
+      "detected_at": "2026-09-29"
+    },
+    {
+      "stock_code": "246A",
+      "company_name": "株式会社アスア",
+      "change_type": "tier_no_longer_qualified",
+      "old_value": "upper",
+      "new_value": null,
+      "detected_at": "2026-09-29"
+    },
+    {
+      "stock_code": "246A",
+      "company_name": "株式会社アスア",
+      "change_type": "dividend_decreased",
+      "old_value": 10.8,
+      "new_value": 7.0,
+      "detected_at": "2026-09-29"
+    },
+    {
+      "stock_code": "2180",
+      "company_name": "株式会社サニーサイドアップグループ",
+      "change_type": "no_longer_covered",
+      "old_value": null,
+      "new_value": null,
+      "detected_at": "2026-09-29"
+    },
+    {
+      "stock_code": "1788",
+      "company_name": "株式会社三東工業社",
+      "change_type": "dividend_increased",
+      "old_value": 100.0,
+      "new_value": 130.0,
+      "detected_at": "2026-09-29"
+    },
+    {
+      "stock_code": "1764",
+      "company_name": "工藤建設株式会社",
+      "change_type": "dividend_increased",
+      "old_value": 117.0,
+      "new_value": 127.0,
+      "detected_at": "2026-09-29"
+    },
+    {
+      "stock_code": "1716",
+      "company_name": "第一カッター興業株式会社",
+      "change_type": "dividend_increased",
+      "old_value": 40.0,
+      "new_value": 45.0,
+      "detected_at": "2026-09-29"
+    },
     {
       "stock_code": "9942",
       "company_name": "株式会社ジョイフル",
