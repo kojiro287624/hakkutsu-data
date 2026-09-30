@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-09-29T06:33:44.543955",
-  "previous_generated_at": "2026-09-29T05:21:49.671656",
+  "generated_at": "2026-09-30T06:19:29.085716",
+  "previous_generated_at": "2026-09-29T06:33:44.116764",
   "retention_days": 90,
-  "count": 177,
+  "count": 179,
   "changes": [
+    {
+      "stock_code": "9439",
+      "company_name": "株式会社エム・エイチ・グループ",
+      "change_type": "dividend_stopped",
+      "old_value": 0.5,
+      "new_value": 0.0,
+      "detected_at": "2026-09-30"
+    },
+    {
+      "stock_code": "2172",
+      "company_name": "株式会社インサイト",
+      "change_type": "dividend_decreased",
+      "old_value": 12.0,
+      "new_value": 9.0,
+      "detected_at": "2026-09-30"
+    },
     {
       "stock_code": "9508",
       "company_name": "九州電力株式会社",
