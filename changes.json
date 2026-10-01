@@ -1,9 +1,41 @@
 {
-  "generated_at": "2026-09-30T06:19:29.085716",
-  "previous_generated_at": "2026-09-29T06:33:44.116764",
+  "generated_at": "2026-10-01T18:33:07.279787",
+  "previous_generated_at": "2026-09-30T06:19:28.515727",
   "retention_days": 90,
-  "count": 179,
+  "count": 183,
   "changes": [
+    {
+      "stock_code": "9223",
+      "company_name": "株式会社ＡＳＮＯＶＡ",
+      "change_type": "no_longer_covered",
+      "old_value": null,
+      "new_value": null,
+      "detected_at": "2026-10-01"
+    },
+    {
+      "stock_code": "9028",
+      "company_name": "株式会社ゼロ",
+      "change_type": "dividend_increased",
+      "old_value": 139.9,
+      "new_value": 140.3,
+      "detected_at": "2026-10-01"
+    },
+    {
+      "stock_code": "7377",
+      "company_name": "ＤＮホールディングス株式会社",
+      "change_type": "dividend_decreased",
+      "old_value": 80.0,
+      "new_value": 75.0,
+      "detected_at": "2026-10-01"
+    },
+    {
+      "stock_code": "6594",
+      "company_name": "ニデック株式会社",
+      "change_type": "dividend_stopped",
+      "old_value": 60,
+      "new_value": 0.0,
+      "detected_at": "2026-10-01"
+    },
     {
       "stock_code": "9439",
       "company_name": "株式会社エム・エイチ・グループ",
