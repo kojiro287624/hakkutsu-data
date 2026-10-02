@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-01T18:33:06.756505",
+  "generated_at": "2026-10-02T01:51:45.549787",
   "count": 3792,
   "presets": {
     "standard": {
@@ -45,132 +45,6 @@
     "reference_yield_label": "参考配当利回り"
   },
   "industry_medians": {
-    "小売業": {
-      "operating_margin": {
-        "median": 0.0369,
-        "count": 297
-      },
-      "roe": {
-        "median": 0.0855,
-        "count": 312
-      },
-      "equity_ratio": {
-        "median": 0.456,
-        "count": 323
-      },
-      "payout_ratio": {
-        "median": 0.3486,
-        "count": 228
-      }
-    },
-    "化学": {
-      "operating_margin": {
-        "median": 0.0741,
-        "count": 198
-      },
-      "roe": {
-        "median": 0.0692,
-        "count": 198
-      },
-      "equity_ratio": {
-        "median": 0.6365,
-        "count": 200
-      },
-      "payout_ratio": {
-        "median": 0.3866,
-        "count": 174
-      }
-    },
-    "医薬品": {
-      "operating_margin": {
-        "median": 0.0353,
-        "count": 62
-      },
-      "roe": {
-        "median": 0.0595,
-        "count": 50
-      },
-      "equity_ratio": {
-        "median": 0.697,
-        "count": 81
-      },
-      "payout_ratio": {
-        "median": 0.4834,
-        "count": 38
-      }
-    },
-    "電気機器": {
-      "operating_margin": {
-        "median": 0.0687,
-        "count": 226
-      },
-      "roe": {
-        "median": 0.081,
-        "count": 215
-      },
-      "equity_ratio": {
-        "median": 0.61,
-        "count": 229
-      },
-      "payout_ratio": {
-        "median": 0.3752,
-        "count": 174
-      }
-    },
-    "水産・農林業": {
-      "operating_margin": {
-        "median": 0.0321,
-        "count": 11
-      },
-      "roe": {
-        "median": 0.094,
-        "count": 10
-      },
-      "equity_ratio": {
-        "median": 0.4004,
-        "count": 11
-      },
-      "payout_ratio": {
-        "median": 0.3101,
-        "count": 9
-      }
-    },
-    "情報・通信業": {
-      "operating_margin": {
-        "median": 0.0812,
-        "count": 596
-      },
-      "equity_ratio": {
-        "median": 0.626,
-        "count": 609
-      },
-      "roe": {
-        "median": 0.126,
-        "count": 557
-      },
-      "payout_ratio": {
-        "median": 0.3636,
-        "count": 325
-      }
-    },
-    "金属製品": {
-      "operating_margin": {
-        "median": 0.0532,
-        "count": 88
-      },
-      "roe": {
-        "median": 0.0556,
-        "count": 86
-      },
-      "equity_ratio": {
-        "median": 0.603,
-        "count": 88
-      },
-      "payout_ratio": {
-        "median": 0.3516,
-        "count": 74
-      }
-    },
     "建設業": {
       "operating_margin": {
         "median": 0.0714,
@@ -207,6 +81,24 @@
         "count": 264
       }
     },
+    "情報・通信業": {
+      "operating_margin": {
+        "median": 0.0812,
+        "count": 596
+      },
+      "roe": {
+        "median": 0.126,
+        "count": 557
+      },
+      "equity_ratio": {
+        "median": 0.626,
+        "count": 609
+      },
+      "payout_ratio": {
+        "median": 0.3636,
+        "count": 325
+      }
+    },
     "サービス業": {
       "operating_margin": {
         "median": 0.0722,
@@ -223,6 +115,24 @@
       "payout_ratio": {
         "median": 0.3757,
         "count": 363
+      }
+    },
+    "小売業": {
+      "operating_margin": {
+        "median": 0.0369,
+        "count": 297
+      },
+      "roe": {
+        "median": 0.0855,
+        "count": 312
+      },
+      "equity_ratio": {
+        "median": 0.456,
+        "count": 323
+      },
+      "payout_ratio": {
+        "median": 0.3486,
+        "count": 228
       }
     },
     "精密機器": {
@@ -279,6 +189,42 @@
         "count": 34
       }
     },
+    "医薬品": {
+      "operating_margin": {
+        "median": 0.0353,
+        "count": 62
+      },
+      "roe": {
+        "median": 0.0595,
+        "count": 50
+      },
+      "equity_ratio": {
+        "median": 0.697,
+        "count": 81
+      },
+      "payout_ratio": {
+        "median": 0.4834,
+        "count": 38
+      }
+    },
+    "金属製品": {
+      "operating_margin": {
+        "median": 0.0532,
+        "count": 88
+      },
+      "roe": {
+        "median": 0.0556,
+        "count": 86
+      },
+      "equity_ratio": {
+        "median": 0.603,
+        "count": 88
+      },
+      "payout_ratio": {
+        "median": 0.3516,
+        "count": 74
+      }
+    },
     "不動産業": {
       "operating_margin": {
         "median": 0.0939,
@@ -315,6 +261,42 @@
         "count": 87
       }
     },
+    "化学": {
+      "operating_margin": {
+        "median": 0.0741,
+        "count": 198
+      },
+      "roe": {
+        "median": 0.0692,
+        "count": 198
+      },
+      "equity_ratio": {
+        "median": 0.6365,
+        "count": 200
+      },
+      "payout_ratio": {
+        "median": 0.3866,
+        "count": 174
+      }
+    },
+    "水産・農林業": {
+      "operating_margin": {
+        "median": 0.0321,
+        "count": 11
+      },
+      "roe": {
+        "median": 0.094,
+        "count": 10
+      },
+      "equity_ratio": {
+        "median": 0.4004,
+        "count": 11
+      },
+      "payout_ratio": {
+        "median": 0.3101,
+        "count": 9
+      }
+    },
     "食料品": {
       "operating_margin": {
         "median": 0.0439,
@@ -331,6 +313,24 @@
       "payout_ratio": {
         "median": 0.3788,
         "count": 105
+      }
+    },
+    "電気機器": {
+      "operating_margin": {
+        "median": 0.0687,
+        "count": 226
+      },
+      "roe": {
+        "median": 0.081,
+        "count": 215
+      },
+      "equity_ratio": {
+        "median": 0.61,
+        "count": 229
+      },
+      "payout_ratio": {
+        "median": 0.3752,
+        "count": 174
       }
     },
     "ガラス・土石製品": {
@@ -394,15 +394,15 @@
       },
       "roe": {
         "median": 0.081,
-        "count": 26
+        "count": 27
       },
       "equity_ratio": {
-        "median": 0.391,
-        "count": 26
+        "median": 0.376,
+        "count": 27
       },
       "payout_ratio": {
-        "median": 0.2321,
-        "count": 21
+        "median": 0.226,
+        "count": 22
       }
     },
     "陸運業": {
@@ -425,20 +425,20 @@
     },
     "輸送用機器": {
       "operating_margin": {
-        "median": 0.0508,
-        "count": 79
+        "median": 0.0519,
+        "count": 78
       },
       "roe": {
-        "median": 0.062,
-        "count": 79
+        "median": 0.064,
+        "count": 78
       },
       "equity_ratio": {
-        "median": 0.51,
-        "count": 81
+        "median": 0.508,
+        "count": 80
       },
       "payout_ratio": {
-        "median": 0.3218,
-        "count": 69
+        "median": 0.3263,
+        "count": 68
       }
     },
     "空運業": {
@@ -556,799 +556,18 @@
       }
     }
   },
+  "successions": {
+    "9508": {
+      "predecessor_name": "九州電力株式会社",
+      "predecessor_edinet_code": "E04506",
+      "successor_code": "642A",
+      "successor_name": "キューデンホールディングス株式会社",
+      "effective_date": "2026-10-01",
+      "ratio": 1,
+      "reason": "持株会社への移行(単独株式移転)"
+    }
+  },
   "companies": [
-    {
-      "stock_code": "9812",
-      "edinet_code": "E03169",
-      "company_name": "株式会社テーオーホールディングス",
-      "industry": "小売業",
-      "doc_id": "S100YYIN",
-      "doc_description": "有価証券報告書－第72期(2025/06/01－2026/05/31)",
-      "period_end": "2026-05-31",
-      "recent_history": [
-        {
-          "period_label": "Prior2Year",
-          "sales": 25605236000,
-          "operating_income": null,
-          "operating_margin": null
-        },
-        {
-          "period_label": "Prior1Year",
-          "sales": 24188270000,
-          "operating_income": 222183000,
-          "operating_margin": 0.009185568045999156
-        },
-        {
-          "period_label": "CurrentYear",
-          "sales": 23543532000,
-          "operating_income": 207044000,
-          "operating_margin": 0.008794092577103554
-        }
-      ],
-      "is_candidate": false,
-      "has_uncertain": false,
-      "is_unsupported_industry": false,
-      "post_report_split_check": "unsupported",
-      "trailing_annual_dividend": 0.0,
-      "raw": {
-        "sales": 23543532000,
-        "eps": -8.24,
-        "operating_income": 207044000,
-        "operating_margin": 0.008794092577103554,
-        "equity_ratio": 0.021,
-        "roe": -0.126,
-        "cfo": 1798594000,
-        "cash_eq": 1363538000,
-        "cash_margin": 0.05791560926372474,
-        "shares_issued": 8926896,
-        "payout_ratio": -0.0,
-        "target_price": -869.5489227162499
-      },
-      "criteria": {
-        "sales_uptrend": false,
-        "eps_uptrend": false,
-        "operating_margin_pass": false,
-        "equity_ratio_pass": false,
-        "roe_pass": false,
-        "cfo_all_positive": true,
-        "cash_margin_pass": false,
-        "dps_uptrend": false,
-        "payout_ratio_pass": false
-      },
-      "criteria_reasons": {},
-      "criteria_labels": {
-        "sales_uptrend": "売上高 右肩上がり",
-        "eps_uptrend": "EPS 右肩上がり",
-        "operating_margin_pass": "営業利益率 10%以上",
-        "equity_ratio_pass": "自己資本比率 50%以上",
-        "roe_pass": "ROE 8%以上",
-        "cfo_all_positive": "営業CF 毎期黒字",
-        "cash_margin_pass": "現金等マージン 10%以上",
-        "dps_uptrend": "1株配当 右肩上がり",
-        "payout_ratio_pass": "配当性向 50%以下"
-      },
-      "split_warnings": [],
-      "split_warning_message": null,
-      "preset_tier": null,
-      "quality_score": {
-        "total": 12.2,
-        "data_complete": true,
-        "breakdown": {
-          "profitability": 1.5,
-          "growth": 0.0,
-          "soundness": 0.0,
-          "cash_power": 10.7,
-          "dividend_safety": 0.0
-        }
-      },
-      "size_bracket": "100億〜300億円",
-      "business_summary": "木材・流通・建設・不動産賃貸・自動車販売など多角的事業を展開する総合商社グループ。"
-    },
-    {
-      "stock_code": "4465",
-      "edinet_code": "E00890",
-      "company_name": "株式会社ニイタカ",
-      "industry": "化学",
-      "doc_id": "S100YYMP",
-      "doc_description": "有価証券報告書－第64期(2025/06/01－2026/05/31)",
-      "period_end": "2026-05-31",
-      "recent_history": [
-        {
-          "period_label": "Prior2Year",
-          "sales": 22739125000,
-          "operating_income": null,
-          "operating_margin": null
-        },
-        {
-          "period_label": "Prior1Year",
-          "sales": 23714867000,
-          "operating_income": 1925108000,
-          "operating_margin": 0.0811772631910607
-        },
-        {
-          "period_label": "CurrentYear",
-          "sales": 24619486000,
-          "operating_income": 2118608000,
-          "operating_margin": 0.08605411177146428
-        }
-      ],
-      "is_candidate": false,
-      "has_uncertain": false,
-      "is_unsupported_industry": false,
-      "post_report_split_check": "unsupported",
-      "trailing_annual_dividend": 77.0,
-      "raw": {
-        "sales": 24619486000,
-        "eps": 321.01,
-        "operating_income": 2118608000,
-        "operating_margin": 0.08605411177146428,
-        "equity_ratio": 0.682,
-        "roe": 0.123,
-        "cfo": 2704979000,
-        "cash_eq": 7888434000,
-        "cash_margin": 0.32041424422914433,
-        "shares_issued": 5943000,
-        "payout_ratio": 0.2398679168873244,
-        "target_price": 4875.870031970386
-      },
-      "criteria": {
-        "sales_uptrend": true,
-        "eps_uptrend": true,
-        "operating_margin_pass": false,
-        "equity_ratio_pass": true,
-        "roe_pass": true,
-        "cfo_all_positive": true,
-        "cash_margin_pass": true,
-        "dps_uptrend": true,
-        "payout_ratio_pass": true
-      },
-      "criteria_reasons": {},
-      "criteria_labels": {
-        "sales_uptrend": "売上高 右肩上がり",
-        "eps_uptrend": "EPS 右肩上がり",
-        "operating_margin_pass": "営業利益率 10%以上",
-        "equity_ratio_pass": "自己資本比率 50%以上",
-        "roe_pass": "ROE 8%以上",
-        "cfo_all_positive": "営業CF 毎期黒字",
-        "cash_margin_pass": "現金等マージン 10%以上",
-        "dps_uptrend": "1株配当 右肩上がり",
-        "payout_ratio_pass": "配当性向 50%以下"
-      },
-      "split_warnings": [],
-      "split_warning_message": null,
-      "preset_tier": null,
-      "quality_score": {
-        "total": 84.1,
-        "data_complete": true,
-        "breakdown": {
-          "profitability": 13.3,
-          "growth": 20.0,
-          "soundness": 14.2,
-          "cash_power": 16.6,
-          "dividend_safety": 20.0
-        }
-      },
-      "size_bracket": "100億〜300億円",
-      "business_summary": "業務用洗剤・除菌剤などの化学薬品とケミカルサービスを提供するケミカル事業と、健康食品製造販売のヘルスケア事業を展開している企業。"
-    },
-    {
-      "stock_code": "4885",
-      "edinet_code": "E36350",
-      "company_name": "室町ケミカル株式会社",
-      "industry": "医薬品",
-      "doc_id": "S100YYBG",
-      "doc_description": "有価証券報告書－第80期(2025/06/01－2026/05/31)",
-      "period_end": "2026-05-31",
-      "recent_history": [
-        {
-          "period_label": "Prior2Year",
-          "sales": 6369097000,
-          "operating_income": null,
-          "operating_margin": null
-        },
-        {
-          "period_label": "Prior1Year",
-          "sales": 6653028000,
-          "operating_income": 432188000,
-          "operating_margin": 0.0649610974130877
-        },
-        {
-          "period_label": "CurrentYear",
-          "sales": 7840931000,
-          "operating_income": 742930000,
-          "operating_margin": 0.09475022800226146
-        }
-      ],
-      "is_candidate": false,
-      "has_uncertain": false,
-      "is_unsupported_industry": false,
-      "post_report_split_check": "unsupported",
-      "trailing_annual_dividend": 26,
-      "raw": {
-        "sales": 7840931000,
-        "eps": 40.58,
-        "operating_income": 742930000,
-        "operating_margin": 0.09475022800226146,
-        "equity_ratio": 0.406,
-        "roe": 0.065,
-        "cfo": 808089000,
-        "cash_eq": 1917059000,
-        "cash_margin": 0.24449379799414125,
-        "shares_issued": 4095500,
-        "payout_ratio": 0.6407097092163627,
-        "target_price": 2130.2016359418876
-      },
-      "criteria": {
-        "sales_uptrend": true,
-        "eps_uptrend": false,
-        "operating_margin_pass": false,
-        "equity_ratio_pass": false,
-        "roe_pass": false,
-        "cfo_all_positive": true,
-        "cash_margin_pass": true,
-        "dps_uptrend": true,
-        "payout_ratio_pass": false
-      },
-      "criteria_reasons": {},
-      "criteria_labels": {
-        "sales_uptrend": "売上高 右肩上がり",
-        "eps_uptrend": "EPS 右肩上がり",
-        "operating_margin_pass": "営業利益率 10%以上",
-        "equity_ratio_pass": "自己資本比率 50%以上",
-        "roe_pass": "ROE 8%以上",
-        "cfo_all_positive": "営業CF 毎期黒字",
-        "cash_margin_pass": "現金等マージン 10%以上",
-        "dps_uptrend": "1株配当 右肩上がり",
-        "payout_ratio_pass": "配当性向 50%以下"
-      },
-      "split_warnings": [],
-      "split_warning_message": null,
-      "preset_tier": null,
-      "quality_score": {
-        "total": 55.3,
-        "data_complete": true,
-        "breakdown": {
-          "profitability": 10.4,
-          "growth": 10.0,
-          "soundness": 5.5,
-          "cash_power": 15.4,
-          "dividend_safety": 14.0
-        }
-      },
-      "size_bracket": "〜100億円",
-      "business_summary": "医薬品原薬の製造販売、健康食品の受託製造、イオン交換樹脂と分離膜などの水処理関連製品の販売・加工を行う化学技術企業。"
-    },
-    {
-      "stock_code": "6505",
-      "edinet_code": "E01742",
-      "company_name": "東洋電機製造株式会社",
-      "industry": "電気機器",
-      "doc_id": "S100YYOS",
-      "doc_description": "有価証券報告書－第165期(2025/06/01－2026/05/31)",
-      "period_end": "2026-05-31",
-      "recent_history": [
-        {
-          "period_label": "Prior2Year",
-          "sales": 32140000000,
-          "operating_income": null,
-          "operating_margin": null
-        },
-        {
-          "period_label": "Prior1Year",
-          "sales": 40539000000,
-          "operating_income": 2384000000,
-          "operating_margin": 0.058807568020918126
-        },
-        {
-          "period_label": "CurrentYear",
-          "sales": 40480000000,
-          "operating_income": 3111000000,
-          "operating_margin": 0.07685276679841897
-        }
-      ],
-      "is_candidate": false,
-      "has_uncertain": false,
-      "is_unsupported_industry": false,
-      "post_report_split_check": "unsupported",
-      "trailing_annual_dividend": 100.0,
-      "raw": {
-        "sales": 40480000000,
-        "eps": 329.76,
-        "operating_income": 3111000000,
-        "operating_margin": 0.07685276679841897,
-        "equity_ratio": 0.569,
-        "roe": 0.103,
-        "cfo": -826000000,
-        "cash_eq": 4172000000,
-        "cash_margin": 0.10306324110671937,
-        "shares_issued": 9735000,
-        "payout_ratio": 0.3032508491023775,
-        "target_price": 5543.1535695942475
-      },
-      "criteria": {
-        "sales_uptrend": true,
-        "eps_uptrend": true,
-        "operating_margin_pass": false,
-        "equity_ratio_pass": true,
-        "roe_pass": true,
-        "cfo_all_positive": false,
-        "cash_margin_pass": true,
-        "dps_uptrend": true,
-        "payout_ratio_pass": true
-      },
-      "criteria_reasons": {},
-      "criteria_labels": {
-        "sales_uptrend": "売上高 右肩上がり",
-        "eps_uptrend": "EPS 右肩上がり",
-        "operating_margin_pass": "営業利益率 10%以上",
-        "equity_ratio_pass": "自己資本比率 50%以上",
-        "roe_pass": "ROE 8%以上",
-        "cfo_all_positive": "営業CF 毎期黒字",
-        "cash_margin_pass": "現金等マージン 10%以上",
-        "dps_uptrend": "1株配当 右肩上がり",
-        "payout_ratio_pass": "配当性向 50%以下"
-      },
-      "split_warnings": [],
-      "split_warning_message": null,
-      "preset_tier": null,
-      "quality_score": {
-        "total": 64.0,
-        "data_complete": true,
-        "breakdown": {
-          "profitability": 11.9,
-          "growth": 20.0,
-          "soundness": 10.3,
-          "cash_power": 1.8,
-          "dividend_safety": 20.0
-        }
-      },
-      "size_bracket": "300億〜1000億円",
-      "business_summary": "鉄道・産業・ICT分野向けの電気機械器具の製造販売と工事を行う企業グループ。"
-    },
-    {
-      "stock_code": "1376",
-      "edinet_code": "E00004",
-      "company_name": "カネコ種苗株式会社",
-      "industry": "水産・農林業",
-      "doc_id": "S100YYEO",
-      "doc_description": "有価証券報告書－第79期(2025/06/01－2026/05/31)",
-      "period_end": "2026-05-31",
-      "recent_history": [
-        {
-          "period_label": "Prior2Year",
-          "sales": 61598847000,
-          "operating_income": null,
-          "operating_margin": null
-        },
-        {
-          "period_label": "Prior1Year",
-          "sales": 64508666000,
-          "operating_income": 1511650000,
-          "operating_margin": 0.023433285692189016
-        },
-        {
-          "period_label": "CurrentYear",
-          "sales": 67733605000,
-          "operating_income": 1749488000,
-          "operating_margin": 0.025828951522659984
-        }
-      ],
-      "is_candidate": false,
-      "has_uncertain": false,
-      "is_unsupported_industry": false,
-      "post_report_split_check": "unsupported",
-      "trailing_annual_dividend": 48.0,
-      "raw": {
-        "sales": 67733605000,
-        "eps": 120.07,
-        "operating_income": 1749488000,
-        "operating_margin": 0.025828951522659984,
-        "equity_ratio": 0.494,
-        "roe": 0.051,
-        "cfo": 1924227000,
-        "cash_eq": 1583128000,
-        "cash_margin": 0.02337285901141686,
-        "shares_issued": 11772000,
-        "payout_ratio": 0.39976680269842596,
-        "target_price": 2485.5854740061163
-      },
-      "criteria": {
-        "sales_uptrend": true,
-        "eps_uptrend": true,
-        "operating_margin_pass": false,
-        "equity_ratio_pass": false,
-        "roe_pass": false,
-        "cfo_all_positive": false,
-        "cash_margin_pass": false,
-        "dps_uptrend": true,
-        "payout_ratio_pass": true
-      },
-      "criteria_reasons": {},
-      "criteria_labels": {
-        "sales_uptrend": "売上高 右肩上がり",
-        "eps_uptrend": "EPS 右肩上がり",
-        "operating_margin_pass": "営業利益率 10%以上",
-        "equity_ratio_pass": "自己資本比率 50%以上",
-        "roe_pass": "ROE 8%以上",
-        "cfo_all_positive": "営業CF 毎期黒字",
-        "cash_margin_pass": "現金等マージン 10%以上",
-        "dps_uptrend": "1株配当 右肩上がり",
-        "payout_ratio_pass": "配当性向 50%以下"
-      },
-      "split_warnings": [],
-      "split_warning_message": null,
-      "preset_tier": null,
-      "quality_score": {
-        "total": 52.8,
-        "data_complete": true,
-        "breakdown": {
-          "profitability": 4.7,
-          "growth": 20.0,
-          "soundness": 8.0,
-          "cash_power": 0.1,
-          "dividend_safety": 20.0
-        }
-      },
-      "size_bracket": "300億〜1000億円",
-      "business_summary": "種苗・花き・農薬・農業資材の販売及び養液栽培プラント・温室の設計施工を行う農業関連企業です。"
-    },
-    {
-      "stock_code": "2934",
-      "edinet_code": "E33800",
-      "company_name": "ジェイフロンティア株式会社",
-      "industry": "情報・通信業",
-      "doc_id": "S100YYK8",
-      "doc_description": "有価証券報告書－第18期(2025/06/01－2026/05/31)",
-      "period_end": "2026-05-31",
-      "recent_history": [
-        {
-          "period_label": "Prior2Year",
-          "sales": 17714904000,
-          "operating_income": null,
-          "operating_margin": null
-        },
-        {
-          "period_label": "Prior1Year",
-          "sales": 21504496000,
-          "operating_income": 293746000,
-          "operating_margin": 0.01365974817545131
-        },
-        {
-          "period_label": "CurrentYear",
-          "sales": 22235985000,
-          "operating_income": 312270000,
-          "operating_margin": 0.014043452538756435
-        }
-      ],
-      "is_candidate": false,
-      "has_uncertain": false,
-      "is_unsupported_industry": false,
-      "post_report_split_check": "unsupported",
-      "trailing_annual_dividend": 0.0,
-      "raw": {
-        "sales": 22235985000,
-        "eps": -60.64,
-        "operating_income": 312270000,
-        "operating_margin": 0.014043452538756435,
-        "equity_ratio": 0.128,
-        "roe": null,
-        "cfo": 454324000,
-        "cash_eq": 2131293000,
-        "cash_margin": 0.09584882342743081,
-        "shares_issued": 5336369,
-        "payout_ratio": -0.0,
-        "target_price": 142.14155730235296
-      },
-      "criteria": {
-        "sales_uptrend": true,
-        "eps_uptrend": false,
-        "operating_margin_pass": false,
-        "equity_ratio_pass": false,
-        "roe_pass": null,
-        "cfo_all_positive": false,
-        "cash_margin_pass": false,
-        "dps_uptrend": false,
-        "payout_ratio_pass": false
-      },
-      "criteria_reasons": {
-        "roe_reason": "no_data"
-      },
-      "criteria_labels": {
-        "sales_uptrend": "売上高 右肩上がり",
-        "eps_uptrend": "EPS 右肩上がり",
-        "operating_margin_pass": "営業利益率 10%以上",
-        "equity_ratio_pass": "自己資本比率 50%以上",
-        "roe_pass": "ROE 8%以上",
-        "cfo_all_positive": "営業CF 毎期黒字",
-        "cash_margin_pass": "現金等マージン 10%以上",
-        "dps_uptrend": "1株配当 右肩上がり",
-        "payout_ratio_pass": "配当性向 50%以下"
-      },
-      "split_warnings": [],
-      "split_warning_message": null,
-      "preset_tier": null,
-      "quality_score": {
-        "total": 15.4,
-        "data_complete": true,
-        "breakdown": {
-          "profitability": 2.9,
-          "growth": 10.0,
-          "soundness": 0.9,
-          "cash_power": 1.6,
-          "dividend_safety": 0.0
-        }
-      },
-      "size_bracket": "100億〜300億円",
-      "business_summary": "健康食品・医薬品の通販事業とオンライン診療・服薬指導を含む医療プラットフォームサービスを提供する会社。"
-    },
-    {
-      "stock_code": "4825",
-      "edinet_code": "E05162",
-      "company_name": "株式会社ウェザーニューズ",
-      "industry": "情報・通信業",
-      "doc_id": "S100YXMM",
-      "doc_description": "有価証券報告書－第40期(2025/06/01－2026/05/31)",
-      "period_end": "2026-05-31",
-      "recent_history": [
-        {
-          "period_label": "Prior2Year",
-          "sales": 22242915000,
-          "operating_income": null,
-          "operating_margin": null
-        },
-        {
-          "period_label": "Prior1Year",
-          "sales": 23505624000,
-          "operating_income": 4517299000,
-          "operating_margin": 0.19217949712800647
-        },
-        {
-          "period_label": "CurrentYear",
-          "sales": 24479267000,
-          "operating_income": 5244702000,
-          "operating_margin": 0.21425077801553452
-        }
-      ],
-      "is_candidate": true,
-      "has_uncertain": true,
-      "is_unsupported_industry": false,
-      "post_report_split_check": "unsupported",
-      "trailing_annual_dividend": 107.5,
-      "raw": {
-        "sales": 24479267000,
-        "eps": 85.76,
-        "operating_income": 5244702000,
-        "operating_margin": 0.21425077801553452,
-        "equity_ratio": 0.845,
-        "roe": 0.168,
-        "cfo": 3638364000,
-        "cash_eq": 18825836000,
-        "cash_margin": 0.7690522759525439,
-        "shares_issued": 47376000,
-        "payout_ratio": null,
-        "target_price": 1558.6955167173253
-      },
-      "criteria": {
-        "sales_uptrend": true,
-        "eps_uptrend": null,
-        "operating_margin_pass": true,
-        "equity_ratio_pass": true,
-        "roe_pass": true,
-        "cfo_all_positive": true,
-        "cash_margin_pass": true,
-        "dps_uptrend": null,
-        "payout_ratio_pass": null
-      },
-      "criteria_reasons": {
-        "eps_uptrend_reason": "split_suspected",
-        "dps_uptrend_reason": "split_suspected",
-        "payout_ratio_reason": "split_suspected"
-      },
-      "criteria_labels": {
-        "sales_uptrend": "売上高 右肩上がり",
-        "eps_uptrend": "EPS 右肩上がり",
-        "operating_margin_pass": "営業利益率 10%以上",
-        "equity_ratio_pass": "自己資本比率 50%以上",
-        "roe_pass": "ROE 8%以上",
-        "cfo_all_positive": "営業CF 毎期黒字",
-        "cash_margin_pass": "現金等マージン 10%以上",
-        "dps_uptrend": "1株配当 右肩上がり",
-        "payout_ratio_pass": "配当性向 50%以下"
-      },
-      "split_warnings": [
-        "Prior1Year→CurrentYear で発行済株式数が約2倍(比率2.00)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。",
-        "Prior2Year→Prior1Year で発行済株式数が約2倍(比率2.00)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。"
-      ],
-      "split_warning_message": "過去の有価証券報告書から、株式分割の影響が確認されています。表示されている年間配当は、現在の1株配当と異なる可能性があります。",
-      "preset_tier": null,
-      "quality_score": {
-        "total": 65.7,
-        "data_complete": true,
-        "breakdown": {
-          "profitability": 17.6,
-          "growth": 10.0,
-          "soundness": 18.9,
-          "cash_power": 19.2,
-          "dividend_safety": 0.0
-        }
-      },
-      "size_bracket": "100億〜300億円",
-      "business_summary": "気象・海象・地象・水象・宙象データを収集し、高精度な予測値をもとに法人向けおよび個人向けの気象サービスを提供している会社。"
-    },
-    {
-      "stock_code": "5932",
-      "edinet_code": "E26831",
-      "company_name": "三協立山株式会社",
-      "industry": "金属製品",
-      "doc_id": "S100YYN7",
-      "doc_description": "有価証券報告書－第81期(2025/06/01－2026/05/31)",
-      "period_end": "2026-05-31",
-      "recent_history": [
-        {
-          "period_label": "Prior2Year",
-          "sales": 353027000000,
-          "operating_income": null,
-          "operating_margin": null
-        },
-        {
-          "period_label": "Prior1Year",
-          "sales": 359424000000,
-          "operating_income": 1545000000,
-          "operating_margin": 0.004298544337606838
-        },
-        {
-          "period_label": "CurrentYear",
-          "sales": 357533000000,
-          "operating_income": 1546000000,
-          "operating_margin": 0.0043240763789636205
-        }
-      ],
-      "is_candidate": false,
-      "has_uncertain": false,
-      "is_unsupported_industry": false,
-      "post_report_split_check": "unsupported",
-      "trailing_annual_dividend": 25.0,
-      "raw": {
-        "sales": 357533000000,
-        "eps": -430.74,
-        "operating_income": 1546000000,
-        "operating_margin": 0.0043240763789636205,
-        "equity_ratio": 0.296,
-        "roe": -0.149,
-        "cfo": 5404000000,
-        "cash_eq": 27937000000,
-        "cash_margin": 0.07813824178467442,
-        "shares_issued": 31554629,
-        "payout_ratio": -0.0580396526907183,
-        "target_price": -580.6628244623
-      },
-      "criteria": {
-        "sales_uptrend": true,
-        "eps_uptrend": false,
-        "operating_margin_pass": false,
-        "equity_ratio_pass": false,
-        "roe_pass": false,
-        "cfo_all_positive": false,
-        "cash_margin_pass": false,
-        "dps_uptrend": true,
-        "payout_ratio_pass": false
-      },
-      "criteria_reasons": {},
-      "criteria_labels": {
-        "sales_uptrend": "売上高 右肩上がり",
-        "eps_uptrend": "EPS 右肩上がり",
-        "operating_margin_pass": "営業利益率 10%以上",
-        "equity_ratio_pass": "自己資本比率 50%以上",
-        "roe_pass": "ROE 8%以上",
-        "cfo_all_positive": "営業CF 毎期黒字",
-        "cash_margin_pass": "現金等マージン 10%以上",
-        "dps_uptrend": "1株配当 右肩上がり",
-        "payout_ratio_pass": "配当性向 50%以下"
-      },
-      "split_warnings": [],
-      "split_warning_message": null,
-      "preset_tier": null,
-      "quality_score": {
-        "total": 25.1,
-        "data_complete": true,
-        "breakdown": {
-          "profitability": 1.3,
-          "growth": 10.0,
-          "soundness": 2.7,
-          "cash_power": 1.1,
-          "dividend_safety": 10.0
-        }
-      },
-      "size_bracket": "1000億〜5000億円",
-      "business_summary": "アルミニウム・マグネシウムの鋳造加工と建材製品の製造販売、および商業施設向け什器製造販売を行う企業グループ。"
-    },
-    {
-      "stock_code": "6552",
-      "edinet_code": "E33254",
-      "company_name": "株式会社ＧａｍｅＷｉｔｈ",
-      "industry": "情報・通信業",
-      "doc_id": "S100YYH7",
-      "doc_description": "有価証券報告書－第13期(2025/06/01－2026/05/31)",
-      "period_end": "2026-05-31",
-      "recent_history": [
-        {
-          "period_label": "Prior2Year",
-          "sales": 3497000000,
-          "operating_income": null,
-          "operating_margin": null
-        },
-        {
-          "period_label": "Prior1Year",
-          "sales": 3451000000,
-          "operating_income": -196885000,
-          "operating_margin": -0.05705157925239061
-        },
-        {
-          "period_label": "CurrentYear",
-          "sales": 4047000000,
-          "operating_income": 101734000,
-          "operating_margin": 0.025138127007659994
-        }
-      ],
-      "is_candidate": false,
-      "has_uncertain": false,
-      "is_unsupported_industry": false,
-      "post_report_split_check": "unsupported",
-      "trailing_annual_dividend": 0.0,
-      "raw": {
-        "sales": 4047000000,
-        "eps": 1.43,
-        "operating_income": 101734000,
-        "operating_margin": 0.025138127007659994,
-        "equity_ratio": 0.76,
-        "roe": 0.009,
-        "cfo": 302000000,
-        "cash_eq": 2320000000,
-        "cash_margin": 0.5732641462811959,
-        "shares_issued": 18348200,
-        "payout_ratio": 0.0,
-        "target_price": 184.06079070426526
-      },
-      "criteria": {
-        "sales_uptrend": false,
-        "eps_uptrend": true,
-        "operating_margin_pass": false,
-        "equity_ratio_pass": true,
-        "roe_pass": false,
-        "cfo_all_positive": false,
-        "cash_margin_pass": true,
-        "dps_uptrend": false,
-        "payout_ratio_pass": false
-      },
-      "criteria_reasons": {},
-      "criteria_labels": {
-        "sales_uptrend": "売上高 右肩上がり",
-        "eps_uptrend": "EPS 右肩上がり",
-        "operating_margin_pass": "営業利益率 10%以上",
-        "equity_ratio_pass": "自己資本比率 50%以上",
-        "roe_pass": "ROE 8%以上",
-        "cfo_all_positive": "営業CF 毎期黒字",
-        "cash_margin_pass": "現金等マージン 10%以上",
-        "dps_uptrend": "1株配当 右肩上がり",
-        "payout_ratio_pass": "配当性向 50%以下"
-      },
-      "split_warnings": [],
-      "split_warning_message": null,
-      "preset_tier": null,
-      "quality_score": {
-        "total": 38.4,
-        "data_complete": true,
-        "breakdown": {
-          "profitability": 2.9,
-          "growth": 10.0,
-          "soundness": 16.8,
-          "cash_power": 8.7,
-          "dividend_safety": 0.0
-        }
-      },
-      "size_bracket": "〜100億円",
-      "business_summary": "ゲーム攻略情報メディア「GameWith」の運営を中心に、eスポーツ・エンタメ事業やNFT事業など、ゲーム関連の多角的事業を展開する企業。"
-    },
     {
       "stock_code": "1430",
       "edinet_code": "E31306",
@@ -2225,10 +1444,10 @@
       "split_warning_message": "過去の有価証券報告書から、株式分割の影響が確認されています。表示されている年間配当は、現在の1株配当と異なる可能性があります。",
       "preset_tier": null,
       "quality_score": {
-        "total": 27.7,
+        "total": 27.8,
         "data_complete": true,
         "breakdown": {
-          "profitability": 2.4,
+          "profitability": 2.5,
           "growth": 10.0,
           "soundness": 4.2,
           "cash_power": 11.1,
@@ -6888,10 +6107,10 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 86.4,
+        "total": 86.3,
         "data_complete": true,
         "breakdown": {
-          "profitability": 14.8,
+          "profitability": 14.7,
           "growth": 20.0,
           "soundness": 18.0,
           "cash_power": 19.6,
@@ -7684,10 +6903,10 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 45.4,
+        "total": 45.3,
         "data_complete": true,
         "breakdown": {
-          "profitability": 6.2,
+          "profitability": 6.1,
           "growth": 10.0,
           "soundness": 4.8,
           "cash_power": 10.4,
@@ -9721,12 +8940,12 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 53.8,
+        "total": 53.9,
         "data_complete": true,
         "breakdown": {
           "profitability": 14.6,
           "growth": 10.0,
-          "soundness": 11.1,
+          "soundness": 11.2,
           "cash_power": 18.1,
           "dividend_safety": 0.0
         }
@@ -9982,12 +9201,12 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 56.7,
+        "total": 56.8,
         "data_complete": true,
         "breakdown": {
           "profitability": 5.0,
           "growth": 20.0,
-          "soundness": 11.1,
+          "soundness": 11.2,
           "cash_power": 0.6,
           "dividend_safety": 20.0
         }
@@ -10869,7 +10088,7 @@
         }
       },
       "size_bracket": "〜100億円",
-      "business_summary": null
+      "business_summary": "WEBマーケティング事業、海外エンジニア・介護人材の紹介および教育事業、不動産賃貸事業を展開する企業。"
     },
     {
       "stock_code": "5256",
@@ -13181,12 +12400,12 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 62.8,
+        "total": 62.9,
         "data_complete": true,
         "breakdown": {
           "profitability": 15.1,
           "growth": 20.0,
-          "soundness": 3.9,
+          "soundness": 4.0,
           "cash_power": 9.8,
           "dividend_safety": 14.0
         }
@@ -14855,8 +14074,8 @@
         "payout_ratio_pass": "配当性向 50%以下"
       },
       "split_warnings": [
-        "Prior1Year→CurrentYear で発行済株式数が約3倍(比率3.07)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。",
-        "Prior2Year→Prior1Year で発行済株式数が約2倍(比率2.03)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。"
+        "Prior2Year→Prior1Year で発行済株式数が約2倍(比率2.03)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。",
+        "Prior1Year→CurrentYear で発行済株式数が約3倍(比率3.07)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。"
       ],
       "split_warning_message": "過去の有価証券報告書から、株式分割の影響が確認されています。表示されている年間配当は、現在の1株配当と異なる可能性があります。",
       "preset_tier": null,
@@ -15733,12 +14952,12 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 15.4,
+        "total": 15.5,
         "data_complete": true,
         "breakdown": {
           "profitability": 4.6,
           "growth": 0.0,
-          "soundness": 2.6,
+          "soundness": 2.7,
           "cash_power": 8.2,
           "dividend_safety": 0.0
         }
@@ -15907,10 +15126,10 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 53.7,
+        "total": 53.6,
         "data_complete": true,
         "breakdown": {
-          "profitability": 5.2,
+          "profitability": 5.1,
           "growth": 10.0,
           "soundness": 6.5,
           "cash_power": 15.0,
@@ -16255,13 +15474,13 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 49.0,
+        "total": 49.1,
         "data_complete": true,
         "breakdown": {
           "profitability": 9.1,
           "growth": 20.0,
           "soundness": 15.1,
-          "cash_power": 4.8,
+          "cash_power": 4.9,
           "dividend_safety": 0.0
         }
       },
@@ -16954,10 +16173,10 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 42.5,
+        "total": 42.4,
         "data_complete": true,
         "breakdown": {
-          "profitability": 14.1,
+          "profitability": 14.0,
           "growth": 0.0,
           "soundness": 10.2,
           "cash_power": 18.2,
@@ -18893,10 +18112,10 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 56.6,
+        "total": 56.5,
         "data_complete": true,
         "breakdown": {
-          "profitability": 9.1,
+          "profitability": 9.0,
           "growth": 10.0,
           "soundness": 14.8,
           "cash_power": 5.7,
@@ -20395,12 +19614,12 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 41.2,
+        "total": 41.3,
         "data_complete": true,
         "breakdown": {
           "profitability": 4.5,
           "growth": 20.0,
-          "soundness": 3.9,
+          "soundness": 4.0,
           "cash_power": 2.8,
           "dividend_safety": 10.0
         }
@@ -21984,9 +21203,9 @@
         "payout_ratio_pass": "配当性向 50%以下"
       },
       "split_warnings": [
-        "Prior1Year→CurrentYear で発行済株式数が約2倍(比率2.00)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。",
+        "Prior4Year→Prior3Year で発行済株式数が約2倍(比率2.00)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。",
         "Prior3Year→Prior2Year で発行済株式数が約2倍(比率2.01)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。",
-        "Prior4Year→Prior3Year で発行済株式数が約2倍(比率2.00)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。"
+        "Prior1Year→CurrentYear で発行済株式数が約2倍(比率2.00)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。"
       ],
       "split_warning_message": "過去の有価証券報告書から、株式分割の影響が確認されています。表示されている年間配当は、現在の1株配当と異なる可能性があります。",
       "preset_tier": null,
@@ -23050,12 +22269,12 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 45.3,
+        "total": 45.4,
         "data_complete": true,
         "breakdown": {
           "profitability": 10.5,
           "growth": 0.0,
-          "soundness": 4.2,
+          "soundness": 4.3,
           "cash_power": 13.6,
           "dividend_safety": 17.0
         }
@@ -23224,10 +22443,10 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 64.4,
+        "total": 64.3,
         "data_complete": true,
         "breakdown": {
-          "profitability": 13.9,
+          "profitability": 13.8,
           "growth": 20.0,
           "soundness": 7.0,
           "cash_power": 3.5,
@@ -23578,10 +22797,10 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 56.3,
+        "total": 56.2,
         "data_complete": true,
         "breakdown": {
-          "profitability": 9.2,
+          "profitability": 9.1,
           "growth": 10.0,
           "soundness": 11.3,
           "cash_power": 5.8,
@@ -24011,8 +23230,8 @@
         "payout_ratio_pass": "配当性向 50%以下"
       },
       "split_warnings": [
-        "Prior1Year→CurrentYear で発行済株式数が約2倍(比率2.01)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。",
-        "Prior4Year→Prior3Year で発行済株式数が約2倍(比率2.01)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。"
+        "Prior4Year→Prior3Year で発行済株式数が約2倍(比率2.01)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。",
+        "Prior1Year→CurrentYear で発行済株式数が約2倍(比率2.01)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。"
       ],
       "split_warning_message": "過去の有価証券報告書から、株式分割の影響が確認されています。表示されている年間配当は、現在の1株配当と異なる可能性があります。",
       "preset_tier": null,
@@ -25161,10 +24380,10 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 48.3,
+        "total": 48.2,
         "data_complete": true,
         "breakdown": {
-          "profitability": 6.0,
+          "profitability": 5.9,
           "growth": 0.0,
           "soundness": 10.8,
           "cash_power": 11.5,
@@ -25248,10 +24467,10 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 83.4,
+        "total": 83.3,
         "data_complete": true,
         "breakdown": {
-          "profitability": 14.8,
+          "profitability": 14.7,
           "growth": 20.0,
           "soundness": 19.9,
           "cash_power": 18.7,
@@ -26556,10 +25775,10 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 52.8,
+        "total": 52.7,
         "data_complete": true,
         "breakdown": {
-          "profitability": 7.1,
+          "profitability": 7.0,
           "growth": 10.0,
           "soundness": 3.0,
           "cash_power": 12.7,
@@ -27515,12 +26734,12 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 35.4,
+        "total": 35.5,
         "data_complete": true,
         "breakdown": {
           "profitability": 7.5,
           "growth": 0.0,
-          "soundness": 5.2,
+          "soundness": 5.3,
           "cash_power": 2.7,
           "dividend_safety": 20.0
         }
@@ -27608,12 +26827,12 @@
       "split_warning_message": "過去の有価証券報告書から、株式分割の影響が確認されています。表示されている年間配当は、現在の1株配当と異なる可能性があります。",
       "preset_tier": null,
       "quality_score": {
-        "total": 43.9,
+        "total": 44.0,
         "data_complete": true,
         "breakdown": {
           "profitability": 17.1,
           "growth": 10.0,
-          "soundness": 11.1,
+          "soundness": 11.2,
           "cash_power": 5.7,
           "dividend_safety": 0.0
         }
@@ -31227,10 +30446,10 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 71.4,
+        "total": 71.3,
         "data_complete": true,
         "breakdown": {
-          "profitability": 11.6,
+          "profitability": 11.5,
           "growth": 20.0,
           "soundness": 2.9,
           "cash_power": 16.9,
@@ -31847,12 +31066,12 @@
       "split_warning_message": "過去の有価証券報告書から、株式分割の影響が確認されています。表示されている年間配当は、現在の1株配当と異なる可能性があります。",
       "preset_tier": null,
       "quality_score": {
-        "total": 45.2,
+        "total": 45.3,
         "data_complete": true,
         "breakdown": {
           "profitability": 11.9,
           "growth": 10.0,
-          "soundness": 13.8,
+          "soundness": 13.9,
           "cash_power": 9.5,
           "dividend_safety": 0.0
         }
@@ -32198,9 +31417,9 @@
         "payout_ratio_pass": "配当性向 50%以下"
       },
       "split_warnings": [
-        "Prior3Year→Prior2Year で発行済株式数が約2倍(比率2.00)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。",
         "Prior4Year→Prior3Year で発行済株式数が約2倍(比率2.02)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。",
-        "Prior2Year→Prior1Year で発行済株式数が約2倍(比率2.06)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。"
+        "Prior2Year→Prior1Year で発行済株式数が約2倍(比率2.06)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。",
+        "Prior3Year→Prior2Year で発行済株式数が約2倍(比率2.00)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。"
       ],
       "split_warning_message": "過去の有価証券報告書から、株式分割の影響が確認されています。表示されている年間配当は、現在の1株配当と異なる可能性があります。",
       "preset_tier": null,
@@ -33000,12 +32219,12 @@
       "split_warning_message": "過去の有価証券報告書から、株式分割の影響が確認されています。表示されている年間配当は、現在の1株配当と異なる可能性があります。",
       "preset_tier": null,
       "quality_score": {
-        "total": 64.5,
+        "total": 64.6,
         "data_complete": true,
         "breakdown": {
           "profitability": 17.6,
           "growth": 10.0,
-          "soundness": 11.1,
+          "soundness": 11.2,
           "cash_power": 15.8,
           "dividend_safety": 10.0
         }
@@ -35024,8 +34243,8 @@
         "payout_ratio_pass": "配当性向 50%以下"
       },
       "split_warnings": [
-        "Prior3Year→Prior2Year で発行済株式数が約2倍(比率2.00)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。",
-        "Prior2Year→Prior1Year で発行済株式数が約2倍(比率2.00)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。"
+        "Prior2Year→Prior1Year で発行済株式数が約2倍(比率2.00)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。",
+        "Prior3Year→Prior2Year で発行済株式数が約2倍(比率2.00)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。"
       ],
       "split_warning_message": "過去の有価証券報告書から、株式分割の影響が確認されています。表示されている年間配当は、現在の1株配当と異なる可能性があります。",
       "preset_tier": null,
@@ -35117,10 +34336,10 @@
       "split_warning_message": null,
       "preset_tier": "standard",
       "quality_score": {
-        "total": 89.3,
+        "total": 89.2,
         "data_complete": true,
         "breakdown": {
-          "profitability": 15.0,
+          "profitability": 14.9,
           "growth": 20.0,
           "soundness": 14.6,
           "cash_power": 19.7,
@@ -35470,12 +34689,12 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 53.9,
+        "total": 54.0,
         "data_complete": true,
         "breakdown": {
           "profitability": 7.6,
           "growth": 10.0,
-          "soundness": 12.8,
+          "soundness": 12.9,
           "cash_power": 9.5,
           "dividend_safety": 14.0
         }
@@ -38921,12 +38140,12 @@
       "split_warning_message": "過去の有価証券報告書から、株式分割の影響が確認されています。表示されている年間配当は、現在の1株配当と異なる可能性があります。",
       "preset_tier": null,
       "quality_score": {
-        "total": 26.9,
+        "total": 27.0,
         "data_complete": true,
         "breakdown": {
           "profitability": 12.6,
           "growth": 0.0,
-          "soundness": 4.2,
+          "soundness": 4.3,
           "cash_power": 0.1,
           "dividend_safety": 10.0
         }
@@ -39182,13 +38401,13 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 70.4,
+        "total": 70.5,
         "data_complete": true,
         "breakdown": {
           "profitability": 15.4,
           "growth": 20.0,
           "soundness": 1.6,
-          "cash_power": 13.4,
+          "cash_power": 13.5,
           "dividend_safety": 20.0
         }
       },
@@ -39704,13 +38923,13 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 63.2,
+        "total": 63.3,
         "data_complete": true,
         "breakdown": {
           "profitability": 6.2,
           "growth": 10.0,
           "soundness": 13.7,
-          "cash_power": 16.3,
+          "cash_power": 16.4,
           "dividend_safety": 17.0
         }
       },
@@ -40142,12 +39361,12 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 22.1,
+        "total": 22.2,
         "data_complete": true,
         "breakdown": {
           "profitability": 3.0,
           "growth": 10.0,
-          "soundness": 4.1,
+          "soundness": 4.2,
           "cash_power": 5.0,
           "dividend_safety": 0.0
         }
@@ -45946,12 +45165,12 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 48.3,
+        "total": 48.4,
         "data_complete": true,
         "breakdown": {
           "profitability": 12.4,
           "growth": 20.0,
-          "soundness": 4.2,
+          "soundness": 4.3,
           "cash_power": 1.7,
           "dividend_safety": 10.0
         }
@@ -46388,12 +45607,12 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 59.9,
+        "total": 60.0,
         "data_complete": true,
         "breakdown": {
           "profitability": 7.9,
           "growth": 10.0,
-          "soundness": 3.9,
+          "soundness": 4.0,
           "cash_power": 18.1,
           "dividend_safety": 20.0
         }
@@ -46649,12 +45868,12 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 62.9,
+        "total": 63.0,
         "data_complete": true,
         "breakdown": {
           "profitability": 8.5,
           "growth": 20.0,
-          "soundness": 10.1,
+          "soundness": 10.2,
           "cash_power": 4.3,
           "dividend_safety": 20.0
         }
@@ -47885,12 +47104,12 @@
       "split_warning_message": "過去の有価証券報告書から、株式分割の影響が確認されています。表示されている年間配当は、現在の1株配当と異なる可能性があります。",
       "preset_tier": null,
       "quality_score": {
-        "total": 58.4,
+        "total": 58.5,
         "data_complete": true,
         "breakdown": {
           "profitability": 18.6,
           "growth": 10.0,
-          "soundness": 3.8,
+          "soundness": 3.9,
           "cash_power": 19.0,
           "dividend_safety": 7.0
         }
@@ -49287,8 +48506,8 @@
         "payout_ratio_pass": "配当性向 50%以下"
       },
       "split_warnings": [
-        "Prior3Year→Prior2Year で発行済株式数が約2倍(比率2.10)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。",
-        "Prior4Year→Prior3Year で発行済株式数が約2倍(比率2.05)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。"
+        "Prior4Year→Prior3Year で発行済株式数が約2倍(比率2.05)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。",
+        "Prior3Year→Prior2Year で発行済株式数が約2倍(比率2.10)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。"
       ],
       "split_warning_message": "過去の有価証券報告書から、株式分割の影響が確認されています。表示されている年間配当は、現在の1株配当と異なる可能性があります。",
       "preset_tier": null,
@@ -49472,8 +48691,8 @@
         "payout_ratio_pass": "配当性向 50%以下"
       },
       "split_warnings": [
-        "Prior3Year→Prior2Year で発行済株式数が約2倍(比率2.00)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。",
-        "Prior4Year→Prior3Year で発行済株式数が約2倍(比率2.01)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。"
+        "Prior4Year→Prior3Year で発行済株式数が約2倍(比率2.01)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。",
+        "Prior3Year→Prior2Year で発行済株式数が約2倍(比率2.00)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。"
       ],
       "split_warning_message": "過去の有価証券報告書から、株式分割の影響が確認されています。表示されている年間配当は、現在の1株配当と異なる可能性があります。",
       "preset_tier": null,
@@ -49827,8 +49046,8 @@
         "payout_ratio_pass": "配当性向 50%以下"
       },
       "split_warnings": [
-        "Prior1Year→CurrentYear で発行済株式数が約2倍(比率2.02)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。",
-        "Prior4Year→Prior3Year で発行済株式数が約3倍(比率3.00)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。"
+        "Prior4Year→Prior3Year で発行済株式数が約3倍(比率3.00)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。",
+        "Prior1Year→CurrentYear で発行済株式数が約2倍(比率2.02)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。"
       ],
       "split_warning_message": "過去の有価証券報告書から、株式分割の影響が確認されています。表示されている年間配当は、現在の1株配当と異なる可能性があります。",
       "preset_tier": null,
@@ -51133,8 +50352,8 @@
         "payout_ratio_pass": "配当性向 50%以下"
       },
       "split_warnings": [
-        "Prior3Year→Prior2Year で発行済株式数が約3倍(比率3.03)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。",
-        "Prior4Year→Prior3Year で発行済株式数が約4倍(比率3.87)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。"
+        "Prior4Year→Prior3Year で発行済株式数が約4倍(比率3.87)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。",
+        "Prior3Year→Prior2Year で発行済株式数が約3倍(比率3.03)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。"
       ],
       "split_warning_message": "過去の有価証券報告書から、株式分割の影響が確認されています。表示されている年間配当は、現在の1株配当と異なる可能性があります。",
       "preset_tier": null,
@@ -53679,10 +52898,10 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 62.2,
+        "total": 62.1,
         "data_complete": true,
         "breakdown": {
-          "profitability": 5.2,
+          "profitability": 5.1,
           "growth": 20.0,
           "soundness": 5.3,
           "cash_power": 11.7,
@@ -54204,10 +53423,10 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 57.9,
+        "total": 57.8,
         "data_complete": true,
         "breakdown": {
-          "profitability": 6.1,
+          "profitability": 6.0,
           "growth": 20.0,
           "soundness": 10.3,
           "cash_power": 1.5,
@@ -54563,12 +53782,12 @@
       "split_warning_message": null,
       "preset_tier": "standard",
       "quality_score": {
-        "total": 78.2,
+        "total": 78.3,
         "data_complete": true,
         "breakdown": {
           "profitability": 15.6,
           "growth": 20.0,
-          "soundness": 11.1,
+          "soundness": 11.2,
           "cash_power": 14.5,
           "dividend_safety": 17.0
         }
@@ -55188,12 +54407,12 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 53.3,
+        "total": 53.4,
         "data_complete": true,
         "breakdown": {
           "profitability": 12.8,
           "growth": 20.0,
-          "soundness": 2.7,
+          "soundness": 2.8,
           "cash_power": 7.8,
           "dividend_safety": 10.0
         }
@@ -58427,10 +57646,10 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 16.3,
+        "total": 16.2,
         "data_complete": true,
         "breakdown": {
-          "profitability": 4.0,
+          "profitability": 3.9,
           "growth": 10.0,
           "soundness": 0.7,
           "cash_power": 1.6,
@@ -58514,12 +57733,12 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 67.4,
+        "total": 67.5,
         "data_complete": true,
         "breakdown": {
           "profitability": 11.0,
           "growth": 10.0,
-          "soundness": 13.9,
+          "soundness": 14.0,
           "cash_power": 12.5,
           "dividend_safety": 20.0
         }
@@ -61148,12 +60367,12 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 60.0,
+        "total": 60.1,
         "data_complete": true,
         "breakdown": {
           "profitability": 13.6,
           "growth": 20.0,
-          "soundness": 5.9,
+          "soundness": 6.0,
           "cash_power": 3.5,
           "dividend_safety": 17.0
         }
@@ -61586,12 +60805,12 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 47.5,
+        "total": 47.6,
         "data_complete": true,
         "breakdown": {
           "profitability": 3.8,
           "growth": 10.0,
-          "soundness": 11.8,
+          "soundness": 11.9,
           "cash_power": 4.9,
           "dividend_safety": 17.0
         }
@@ -61673,12 +60892,12 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 64.9,
+        "total": 65.0,
         "data_complete": true,
         "breakdown": {
           "profitability": 10.1,
           "growth": 20.0,
-          "soundness": 4.1,
+          "soundness": 4.2,
           "cash_power": 10.7,
           "dividend_safety": 20.0
         }
@@ -63615,10 +62834,10 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 70.3,
+        "total": 70.2,
         "data_complete": true,
         "breakdown": {
-          "profitability": 10.4,
+          "profitability": 10.3,
           "growth": 20.0,
           "soundness": 8.4,
           "cash_power": 11.5,
@@ -63966,12 +63185,12 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 48.0,
+        "total": 48.1,
         "data_complete": true,
         "breakdown": {
           "profitability": 10.6,
           "growth": 10.0,
-          "soundness": 5.9,
+          "soundness": 6.0,
           "cash_power": 1.5,
           "dividend_safety": 20.0
         }
@@ -64053,13 +63272,13 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 60.9,
+        "total": 61.0,
         "data_complete": true,
         "breakdown": {
           "profitability": 4.7,
           "growth": 20.0,
           "soundness": 16.3,
-          "cash_power": 5.9,
+          "cash_power": 6.0,
           "dividend_safety": 14.0
         }
       },
@@ -64320,12 +63539,12 @@
       "split_warning_message": "過去の有価証券報告書から、株式分割の影響が確認されています。表示されている年間配当は、現在の1株配当と異なる可能性があります。",
       "preset_tier": null,
       "quality_score": {
-        "total": 22.6,
+        "total": 22.7,
         "data_complete": true,
         "breakdown": {
           "profitability": 1.3,
           "growth": 0.0,
-          "soundness": 13.9,
+          "soundness": 14.0,
           "cash_power": 7.4,
           "dividend_safety": 0.0
         }
@@ -65275,12 +64494,12 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 76.2,
+        "total": 76.3,
         "data_complete": true,
         "breakdown": {
           "profitability": 16.6,
           "growth": 20.0,
-          "soundness": 11.8,
+          "soundness": 11.9,
           "cash_power": 17.8,
           "dividend_safety": 10.0
         }
@@ -70087,10 +69306,10 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 67.6,
+        "total": 67.5,
         "data_complete": true,
         "breakdown": {
-          "profitability": 10.6,
+          "profitability": 10.5,
           "growth": 20.0,
           "soundness": 9.0,
           "cash_power": 11.0,
@@ -73085,10 +72304,10 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 60.9,
+        "total": 60.8,
         "data_complete": true,
         "breakdown": {
-          "profitability": 11.2,
+          "profitability": 11.1,
           "growth": 10.0,
           "soundness": 4.0,
           "cash_power": 15.7,
@@ -73259,8 +72478,8 @@
         "payout_ratio_pass": "配当性向 50%以下"
       },
       "split_warnings": [
-        "Prior1Year→CurrentYear で発行済株式数が約2倍(比率2.00)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。",
-        "Prior2Year→Prior1Year で発行済株式数が約2倍(比率2.00)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。"
+        "Prior2Year→Prior1Year で発行済株式数が約2倍(比率2.00)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。",
+        "Prior1Year→CurrentYear で発行済株式数が約2倍(比率2.00)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。"
       ],
       "split_warning_message": "過去の有価証券報告書から、株式分割の影響が確認されています。表示されている年間配当は、現在の1株配当と異なる可能性があります。",
       "preset_tier": null,
@@ -75025,12 +74244,12 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 28.7,
+        "total": 28.8,
         "data_complete": true,
         "breakdown": {
           "profitability": 10.4,
           "growth": 0.0,
-          "soundness": 9.3,
+          "soundness": 9.4,
           "cash_power": 9.0,
           "dividend_safety": 0.0
         }
@@ -75818,10 +75037,10 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 38.6,
+        "total": 38.5,
         "data_complete": true,
         "breakdown": {
-          "profitability": 5.4,
+          "profitability": 5.3,
           "growth": 10.0,
           "soundness": 10.6,
           "cash_power": 12.6,
@@ -85841,10 +85060,10 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 74.3,
+        "total": 74.2,
         "data_complete": true,
         "breakdown": {
-          "profitability": 10.9,
+          "profitability": 10.8,
           "growth": 20.0,
           "soundness": 14.6,
           "cash_power": 18.8,
@@ -87694,12 +86913,12 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 71.9,
+        "total": 72.0,
         "data_complete": true,
         "breakdown": {
           "profitability": 9.4,
           "growth": 20.0,
-          "soundness": 13.3,
+          "soundness": 13.4,
           "cash_power": 15.2,
           "dividend_safety": 14.0
         }
@@ -89282,8 +88501,8 @@
         "payout_ratio_pass": "配当性向 50%以下"
       },
       "split_warnings": [
-        "Prior1Year→CurrentYear で発行済株式数が約3倍(比率3.00)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。",
-        "Prior4Year→Prior3Year で発行済株式数が約2倍(比率2.00)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。"
+        "Prior4Year→Prior3Year で発行済株式数が約2倍(比率2.00)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。",
+        "Prior1Year→CurrentYear で発行済株式数が約3倍(比率3.00)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。"
       ],
       "split_warning_message": "過去の有価証券報告書から、株式分割の影響が確認されています。表示されている年間配当は、現在の1株配当と異なる可能性があります。",
       "preset_tier": null,
@@ -90517,12 +89736,12 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 13.4,
+        "total": 13.5,
         "data_complete": true,
         "breakdown": {
           "profitability": 2.0,
           "growth": 0.0,
-          "soundness": 5.5,
+          "soundness": 5.6,
           "cash_power": 5.9,
           "dividend_safety": 0.0
         }
@@ -91492,10 +90711,10 @@
       "split_warning_message": null,
       "preset_tier": "upper",
       "quality_score": {
-        "total": 85.0,
+        "total": 84.9,
         "data_complete": true,
         "breakdown": {
-          "profitability": 15.9,
+          "profitability": 15.8,
           "growth": 20.0,
           "soundness": 14.7,
           "cash_power": 14.4,
@@ -92904,12 +92123,12 @@
       "split_warning_message": "過去の有価証券報告書から、株式分割の影響が確認されています。表示されている年間配当は、現在の1株配当と異なる可能性があります。",
       "preset_tier": null,
       "quality_score": {
-        "total": 17.6,
+        "total": 17.7,
         "data_complete": true,
         "breakdown": {
           "profitability": 1.1,
           "growth": 10.0,
-          "soundness": 2.7,
+          "soundness": 2.8,
           "cash_power": 3.8,
           "dividend_safety": 0.0
         }
@@ -95908,8 +95127,8 @@
         "payout_ratio_pass": "配当性向 50%以下"
       },
       "split_warnings": [
-        "Prior1Year→CurrentYear で発行済株式数が約2倍(比率2.03)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。",
-        "Prior4Year→Prior3Year で発行済株式数が約10倍(比率10.00)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。"
+        "Prior4Year→Prior3Year で発行済株式数が約10倍(比率10.00)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。",
+        "Prior1Year→CurrentYear で発行済株式数が約2倍(比率2.03)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。"
       ],
       "split_warning_message": "過去の有価証券報告書から、株式分割の影響が確認されています。表示されている年間配当は、現在の1株配当と異なる可能性があります。",
       "preset_tier": null,
@@ -99978,12 +99197,12 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 24.8,
+        "total": 24.9,
         "data_complete": true,
         "breakdown": {
           "profitability": 14.6,
           "growth": 0.0,
-          "soundness": 3.0,
+          "soundness": 3.1,
           "cash_power": 7.2,
           "dividend_safety": 0.0
         }
@@ -100240,8 +99459,8 @@
         "payout_ratio_pass": "配当性向 50%以下"
       },
       "split_warnings": [
-        "Prior1Year→CurrentYear で発行済株式数が約2倍(比率2.02)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。",
-        "Prior3Year→Prior2Year で発行済株式数が約2倍(比率2.01)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。"
+        "Prior3Year→Prior2Year で発行済株式数が約2倍(比率2.01)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。",
+        "Prior1Year→CurrentYear で発行済株式数が約2倍(比率2.02)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。"
       ],
       "split_warning_message": "過去の有価証券報告書から、株式分割の影響が確認されています。表示されている年間配当は、現在の1株配当と異なる可能性があります。",
       "preset_tier": null,
@@ -101645,12 +100864,12 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 61.9,
+        "total": 62.0,
         "data_complete": true,
         "breakdown": {
           "profitability": 11.1,
           "growth": 20.0,
-          "soundness": 8.8,
+          "soundness": 8.9,
           "cash_power": 5.0,
           "dividend_safety": 17.0
         }
@@ -102344,12 +101563,12 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 53.0,
+        "total": 53.1,
         "data_complete": true,
         "breakdown": {
           "profitability": 12.5,
           "growth": 20.0,
-          "soundness": 12.2,
+          "soundness": 12.3,
           "cash_power": 8.3,
           "dividend_safety": 0.0
         }
@@ -103132,12 +102351,12 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 45.6,
+        "total": 45.7,
         "data_complete": true,
         "breakdown": {
           "profitability": 9.0,
           "growth": 20.0,
-          "soundness": 9.9,
+          "soundness": 10.0,
           "cash_power": 6.7,
           "dividend_safety": 0.0
         }
@@ -107211,13 +106430,13 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 39.0,
+        "total": 39.1,
         "data_complete": true,
         "breakdown": {
           "profitability": 13.7,
           "growth": 0.0,
           "soundness": 5.4,
-          "cash_power": 2.9,
+          "cash_power": 3.0,
           "dividend_safety": 17.0
         }
       },
@@ -107915,12 +107134,12 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 67.2,
+        "total": 67.3,
         "data_complete": true,
         "breakdown": {
           "profitability": 14.0,
           "growth": 20.0,
-          "soundness": 6.3,
+          "soundness": 6.4,
           "cash_power": 6.9,
           "dividend_safety": 20.0
         }
@@ -108528,10 +107747,10 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 53.2,
+        "total": 53.1,
         "data_complete": true,
         "breakdown": {
-          "profitability": 5.9,
+          "profitability": 5.8,
           "growth": 20.0,
           "soundness": 8.2,
           "cash_power": 2.1,
@@ -109939,8 +109158,8 @@
         "payout_ratio_pass": "配当性向 50%以下"
       },
       "split_warnings": [
-        "Prior3Year→Prior2Year で発行済株式数が約2倍(比率2.01)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。",
-        "Prior2Year→Prior1Year で発行済株式数が約2倍(比率2.00)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。"
+        "Prior2Year→Prior1Year で発行済株式数が約2倍(比率2.00)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。",
+        "Prior3Year→Prior2Year で発行済株式数が約2倍(比率2.01)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。"
       ],
       "split_warning_message": "過去の有価証券報告書から、株式分割の影響が確認されています。表示されている年間配当は、現在の1株配当と異なる可能性があります。",
       "preset_tier": null,
@@ -110476,12 +109695,12 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 57.0,
+        "total": 57.1,
         "data_complete": true,
         "breakdown": {
           "profitability": 9.6,
           "growth": 10.0,
-          "soundness": 9.3,
+          "soundness": 9.4,
           "cash_power": 8.1,
           "dividend_safety": 20.0
         }
@@ -110568,13 +109787,13 @@
       "split_warning_message": "過去の有価証券報告書から、株式分割の影響が確認されています。表示されている年間配当は、現在の1株配当と異なる可能性があります。",
       "preset_tier": null,
       "quality_score": {
-        "total": 28.9,
+        "total": 29.0,
         "data_complete": true,
         "breakdown": {
           "profitability": 1.7,
           "growth": 10.0,
           "soundness": 5.1,
-          "cash_power": 12.1,
+          "cash_power": 12.2,
           "dividend_safety": 0.0
         }
       },
@@ -111715,10 +110934,10 @@
       "split_warning_message": "過去の有価証券報告書から、株式分割の影響が確認されています。表示されている年間配当は、現在の1株配当と異なる可能性があります。",
       "preset_tier": null,
       "quality_score": {
-        "total": 48.0,
+        "total": 47.9,
         "data_complete": true,
         "breakdown": {
-          "profitability": 5.6,
+          "profitability": 5.5,
           "growth": 0.0,
           "soundness": 16.9,
           "cash_power": 15.5,
@@ -111889,12 +111108,12 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 24.4,
+        "total": 24.5,
         "data_complete": true,
         "breakdown": {
           "profitability": 3.7,
           "growth": 0.0,
-          "soundness": 6.3,
+          "soundness": 6.4,
           "cash_power": 0.4,
           "dividend_safety": 14.0
         }
@@ -112414,8 +111633,8 @@
         "payout_ratio_pass": "配当性向 50%以下"
       },
       "split_warnings": [
-        "Prior3Year→Prior2Year で発行済株式数が約2倍(比率2.00)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。",
-        "Prior2Year→Prior1Year で発行済株式数が約2倍(比率2.00)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。"
+        "Prior2Year→Prior1Year で発行済株式数が約2倍(比率2.00)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。",
+        "Prior3Year→Prior2Year で発行済株式数が約2倍(比率2.00)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。"
       ],
       "split_warning_message": "過去の有価証券報告書から、株式分割の影響が確認されています。表示されている年間配当は、現在の1株配当と異なる可能性があります。",
       "preset_tier": null,
@@ -112773,8 +111992,8 @@
         "payout_ratio_pass": "配当性向 50%以下"
       },
       "split_warnings": [
-        "Prior1Year→CurrentYear で発行済株式数が約3倍(比率3.00)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。",
-        "Prior4Year→Prior3Year で発行済株式数が約2倍(比率1.93)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。"
+        "Prior4Year→Prior3Year で発行済株式数が約2倍(比率1.93)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。",
+        "Prior1Year→CurrentYear で発行済株式数が約3倍(比率3.00)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。"
       ],
       "split_warning_message": "過去の有価証券報告書から、株式分割の影響が確認されています。表示されている年間配当は、現在の1株配当と異なる可能性があります。",
       "preset_tier": null,
@@ -115328,8 +114547,8 @@
         "payout_ratio_pass": "配当性向 50%以下"
       },
       "split_warnings": [
-        "Prior3Year→Prior2Year で発行済株式数が約2倍(比率2.00)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。",
-        "Prior2Year→Prior1Year で発行済株式数が約2倍(比率2.00)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。"
+        "Prior2Year→Prior1Year で発行済株式数が約2倍(比率2.00)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。",
+        "Prior3Year→Prior2Year で発行済株式数が約2倍(比率2.00)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。"
       ],
       "split_warning_message": "過去の有価証券報告書から、株式分割の影響が確認されています。表示されている年間配当は、現在の1株配当と異なる可能性があります。",
       "preset_tier": null,
@@ -116124,9 +115343,9 @@
         "payout_ratio_pass": "配当性向 50%以下"
       },
       "split_warnings": [
-        "Prior1Year→CurrentYear で発行済株式数が約2倍(比率2.00)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。",
+        "Prior2Year→Prior1Year で発行済株式数が約2倍(比率2.00)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。",
         "Prior3Year→Prior2Year で発行済株式数が約2倍(比率2.00)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。",
-        "Prior2Year→Prior1Year で発行済株式数が約2倍(比率2.00)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。"
+        "Prior1Year→CurrentYear で発行済株式数が約2倍(比率2.00)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。"
       ],
       "split_warning_message": "過去の有価証券報告書から、株式分割の影響が確認されています。表示されている年間配当は、現在の1株配当と異なる可能性があります。",
       "preset_tier": null,
@@ -119889,10 +119108,10 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 42.0,
+        "total": 41.9,
         "data_complete": true,
         "breakdown": {
-          "profitability": 6.9,
+          "profitability": 6.8,
           "growth": 0.0,
           "soundness": 4.4,
           "cash_power": 10.7,
@@ -124972,8 +124191,8 @@
         "payout_ratio_pass": "配当性向 50%以下"
       },
       "split_warnings": [
-        "Prior1Year→CurrentYear で発行済株式数が約2倍(比率2.00)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。",
-        "Prior3Year→Prior2Year で発行済株式数が約2倍(比率2.00)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。"
+        "Prior3Year→Prior2Year で発行済株式数が約2倍(比率2.00)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。",
+        "Prior1Year→CurrentYear で発行済株式数が約2倍(比率2.00)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。"
       ],
       "split_warning_message": "過去の有価証券報告書から、株式分割の影響が確認されています。表示されている年間配当は、現在の1株配当と異なる可能性があります。",
       "preset_tier": null,
@@ -126212,12 +125431,12 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 63.7,
+        "total": 63.8,
         "data_complete": true,
         "breakdown": {
           "profitability": 11.3,
           "growth": 20.0,
-          "soundness": 4.2,
+          "soundness": 4.3,
           "cash_power": 11.2,
           "dividend_safety": 17.0
         }
@@ -128309,12 +127528,12 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 44.7,
+        "total": 44.8,
         "data_complete": true,
         "breakdown": {
           "profitability": 9.1,
           "growth": 10.0,
-          "soundness": 3.8,
+          "soundness": 3.9,
           "cash_power": 1.8,
           "dividend_safety": 20.0
         }
@@ -129545,8 +128764,8 @@
         "payout_ratio_pass": "配当性向 50%以下"
       },
       "split_warnings": [
-        "Prior1Year→CurrentYear で発行済株式数が約2倍(比率2.00)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。",
-        "Prior3Year→Prior2Year で発行済株式数が約2倍(比率2.01)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。"
+        "Prior3Year→Prior2Year で発行済株式数が約2倍(比率2.01)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。",
+        "Prior1Year→CurrentYear で発行済株式数が約2倍(比率2.00)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。"
       ],
       "split_warning_message": "過去の有価証券報告書から、株式分割の影響が確認されています。表示されている年間配当は、現在の1株配当と異なる可能性があります。",
       "preset_tier": null,
@@ -131572,12 +130791,12 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 70.8,
+        "total": 70.9,
         "data_complete": true,
         "breakdown": {
           "profitability": 15.2,
           "growth": 10.0,
-          "soundness": 13.9,
+          "soundness": 14.0,
           "cash_power": 14.7,
           "dividend_safety": 17.0
         }
@@ -131833,12 +131052,12 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 43.9,
+        "total": 44.0,
         "data_complete": true,
         "breakdown": {
           "profitability": 2.3,
           "growth": 10.0,
-          "soundness": 6.7,
+          "soundness": 6.8,
           "cash_power": 14.9,
           "dividend_safety": 10.0
         }
@@ -135102,12 +134321,12 @@
       "split_warning_message": "過去の有価証券報告書から、株式分割の影響が確認されています。表示されている年間配当は、現在の1株配当と異なる可能性があります。",
       "preset_tier": null,
       "quality_score": {
-        "total": 55.4,
+        "total": 55.5,
         "data_complete": true,
         "breakdown": {
           "profitability": 19.7,
           "growth": 10.0,
-          "soundness": 9.3,
+          "soundness": 9.4,
           "cash_power": 16.4,
           "dividend_safety": 0.0
         }
@@ -135624,8 +134843,8 @@
         "payout_ratio_pass": "配当性向 50%以下"
       },
       "split_warnings": [
-        "Prior1Year→CurrentYear で発行済株式数が約2倍(比率1.95)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。",
-        "Prior4Year→Prior3Year で発行済株式数が約2倍(比率2.00)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。"
+        "Prior4Year→Prior3Year で発行済株式数が約2倍(比率2.00)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。",
+        "Prior1Year→CurrentYear で発行済株式数が約2倍(比率1.95)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。"
       ],
       "split_warning_message": "過去の有価証券報告書から、株式分割の影響が確認されています。表示されている年間配当は、現在の1株配当と異なる可能性があります。",
       "preset_tier": null,
@@ -138592,8 +137811,8 @@
         "payout_ratio_pass": "配当性向 50%以下"
       },
       "split_warnings": [
-        "Prior1Year→CurrentYear で発行済株式数が約3倍(比率3.00)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。",
-        "Prior2Year→Prior1Year で発行済株式数が約2倍(比率2.00)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。"
+        "Prior2Year→Prior1Year で発行済株式数が約2倍(比率2.00)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。",
+        "Prior1Year→CurrentYear で発行済株式数が約3倍(比率3.00)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。"
       ],
       "split_warning_message": "過去の有価証券報告書から、株式分割の影響が確認されています。表示されている年間配当は、現在の1株配当と異なる可能性があります。",
       "preset_tier": null,
@@ -139985,8 +139204,8 @@
         "payout_ratio_pass": "配当性向 50%以下"
       },
       "split_warnings": [
-        "Prior1Year→CurrentYear で発行済株式数が約3倍(比率3.00)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。",
-        "Prior4Year→Prior3Year で発行済株式数が約2倍(比率2.00)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。"
+        "Prior4Year→Prior3Year で発行済株式数が約2倍(比率2.00)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。",
+        "Prior1Year→CurrentYear で発行済株式数が約3倍(比率3.00)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。"
       ],
       "split_warning_message": "過去の有価証券報告書から、株式分割の影響が確認されています。表示されている年間配当は、現在の1株配当と異なる可能性があります。",
       "preset_tier": null,
@@ -141195,12 +140414,12 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 74.2,
+        "total": 74.3,
         "data_complete": true,
         "breakdown": {
           "profitability": 12.5,
           "growth": 20.0,
-          "soundness": 10.0,
+          "soundness": 10.1,
           "cash_power": 14.7,
           "dividend_safety": 17.0
         }
@@ -142180,12 +141399,12 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 52.5,
+        "total": 52.6,
         "data_complete": true,
         "breakdown": {
           "profitability": 10.1,
           "growth": 20.0,
-          "soundness": 5.9,
+          "soundness": 6.0,
           "cash_power": 6.5,
           "dividend_safety": 10.0
         }
@@ -142339,13 +141558,13 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 62.4,
+        "total": 62.5,
         "data_complete": true,
         "breakdown": {
           "profitability": 5.8,
           "growth": 20.0,
           "soundness": 5.1,
-          "cash_power": 14.5,
+          "cash_power": 14.6,
           "dividend_safety": 17.0
         }
       },
@@ -144411,12 +143630,12 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 66.9,
+        "total": 67.0,
         "data_complete": true,
         "breakdown": {
           "profitability": 9.9,
           "growth": 20.0,
-          "soundness": 9.9,
+          "soundness": 10.0,
           "cash_power": 10.1,
           "dividend_safety": 17.0
         }
@@ -145090,12 +144309,12 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 60.3,
+        "total": 60.4,
         "data_complete": true,
         "breakdown": {
           "profitability": 5.4,
           "growth": 20.0,
-          "soundness": 6.9,
+          "soundness": 7.0,
           "cash_power": 11.0,
           "dividend_safety": 17.0
         }
@@ -146313,8 +145532,8 @@
         "payout_ratio_pass": "配当性向 50%以下"
       },
       "split_warnings": [
-        "Prior1Year→CurrentYear で発行済株式数が約2倍(比率1.99)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。",
-        "Prior3Year→Prior2Year で発行済株式数が約4倍(比率3.98)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。"
+        "Prior3Year→Prior2Year で発行済株式数が約4倍(比率3.98)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。",
+        "Prior1Year→CurrentYear で発行済株式数が約2倍(比率1.99)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。"
       ],
       "split_warning_message": "過去の有価証券報告書から、株式分割の影響が確認されています。表示されている年間配当は、現在の1株配当と異なる可能性があります。",
       "preset_tier": null,
@@ -147296,12 +146515,12 @@
       "split_warning_message": "過去の有価証券報告書から、株式分割の影響が確認されています。表示されている年間配当は、現在の1株配当と異なる可能性があります。",
       "preset_tier": null,
       "quality_score": {
-        "total": 61.3,
+        "total": 61.4,
         "data_complete": true,
         "breakdown": {
           "profitability": 16.3,
           "growth": 10.0,
-          "soundness": 11.1,
+          "soundness": 11.2,
           "cash_power": 13.9,
           "dividend_safety": 10.0
         }
@@ -148716,12 +147935,12 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 50.1,
+        "total": 50.2,
         "data_complete": true,
         "breakdown": {
           "profitability": 5.4,
           "growth": 20.0,
-          "soundness": 3.8,
+          "soundness": 3.9,
           "cash_power": 6.9,
           "dividend_safety": 14.0
         }
@@ -149584,12 +148803,12 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 65.4,
+        "total": 65.5,
         "data_complete": true,
         "breakdown": {
           "profitability": 12.7,
           "growth": 10.0,
-          "soundness": 6.3,
+          "soundness": 6.4,
           "cash_power": 19.4,
           "dividend_safety": 17.0
         }
@@ -152876,10 +152095,10 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 45.2,
+        "total": 45.1,
         "data_complete": true,
         "breakdown": {
-          "profitability": 7.1,
+          "profitability": 7.0,
           "growth": 10.0,
           "soundness": 6.0,
           "cash_power": 12.1,
@@ -153398,10 +152617,10 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 61.7,
+        "total": 61.6,
         "data_complete": true,
         "breakdown": {
-          "profitability": 11.1,
+          "profitability": 11.0,
           "growth": 20.0,
           "soundness": 5.3,
           "cash_power": 11.3,
@@ -153486,8 +152705,8 @@
         "payout_ratio_pass": "配当性向 50%以下"
       },
       "split_warnings": [
-        "Prior1Year→CurrentYear で発行済株式数が約2倍(比率2.00)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。",
-        "Prior4Year→Prior3Year で発行済株式数が約2倍(比率2.00)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。"
+        "Prior4Year→Prior3Year で発行済株式数が約2倍(比率2.00)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。",
+        "Prior1Year→CurrentYear で発行済株式数が約2倍(比率2.00)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。"
       ],
       "split_warning_message": "過去の有価証券報告書から、株式分割の影響が確認されています。表示されている年間配当は、現在の1株配当と異なる可能性があります。",
       "preset_tier": null,
@@ -156724,10 +155943,10 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 81.8,
+        "total": 81.7,
         "data_complete": true,
         "breakdown": {
-          "profitability": 15.2,
+          "profitability": 15.1,
           "growth": 10.0,
           "soundness": 16.8,
           "cash_power": 19.8,
@@ -156811,12 +156030,12 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 31.9,
+        "total": 32.0,
         "data_complete": true,
         "breakdown": {
           "profitability": 7.7,
           "growth": 10.0,
-          "soundness": 4.1,
+          "soundness": 4.2,
           "cash_power": 0.1,
           "dividend_safety": 10.0
         }
@@ -157758,10 +156977,10 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 55.8,
+        "total": 55.7,
         "data_complete": true,
         "breakdown": {
-          "profitability": 9.9,
+          "profitability": 9.8,
           "growth": 20.0,
           "soundness": 8.3,
           "cash_power": 0.6,
@@ -160068,10 +159287,10 @@
       "split_warning_message": null,
       "preset_tier": "standard",
       "quality_score": {
-        "total": 90.3,
+        "total": 90.2,
         "data_complete": true,
         "breakdown": {
-          "profitability": 16.3,
+          "profitability": 16.2,
           "growth": 20.0,
           "soundness": 17.1,
           "cash_power": 19.9,
@@ -164469,8 +163688,8 @@
         "payout_ratio_pass": "配当性向 50%以下"
       },
       "split_warnings": [
-        "Prior1Year→CurrentYear で発行済株式数が約2倍(比率2.00)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。",
-        "Prior3Year→Prior2Year で発行済株式数が約2倍(比率2.00)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。"
+        "Prior3Year→Prior2Year で発行済株式数が約2倍(比率2.00)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。",
+        "Prior1Year→CurrentYear で発行済株式数が約2倍(比率2.00)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。"
       ],
       "split_warning_message": "過去の有価証券報告書から、株式分割の影響が確認されています。表示されている年間配当は、現在の1株配当と異なる可能性があります。",
       "preset_tier": null,
@@ -168037,8 +167256,8 @@
         "payout_ratio_pass": "配当性向 50%以下"
       },
       "split_warnings": [
-        "Prior1Year→CurrentYear で発行済株式数が約5倍(比率5.00)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。",
-        "Prior4Year→Prior3Year で発行済株式数が約2倍(比率2.00)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。"
+        "Prior4Year→Prior3Year で発行済株式数が約2倍(比率2.00)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。",
+        "Prior1Year→CurrentYear で発行済株式数が約5倍(比率5.00)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。"
       ],
       "split_warning_message": "過去の有価証券報告書から、株式分割の影響が確認されています。表示されている年間配当は、現在の1株配当と異なる可能性があります。",
       "preset_tier": null,
@@ -168832,12 +168051,12 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 29.6,
+        "total": 29.7,
         "data_complete": true,
         "breakdown": {
           "profitability": 2.3,
           "growth": 10.0,
-          "soundness": 2.5,
+          "soundness": 2.6,
           "cash_power": 14.8,
           "dividend_safety": 0.0
         }
@@ -170750,12 +169969,12 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 32.2,
+        "total": 32.3,
         "data_complete": true,
         "breakdown": {
           "profitability": 1.8,
           "growth": 10.0,
-          "soundness": 9.9,
+          "soundness": 10.0,
           "cash_power": 0.5,
           "dividend_safety": 10.0
         }
@@ -172041,12 +171260,12 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 70.5,
+        "total": 70.6,
         "data_complete": true,
         "breakdown": {
           "profitability": 12.3,
           "growth": 20.0,
-          "soundness": 11.1,
+          "soundness": 11.2,
           "cash_power": 10.1,
           "dividend_safety": 17.0
         }
@@ -173438,12 +172657,12 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 51.3,
+        "total": 51.4,
         "data_complete": true,
         "breakdown": {
           "profitability": 17.0,
           "growth": 10.0,
-          "soundness": 3.2,
+          "soundness": 3.3,
           "cash_power": 7.1,
           "dividend_safety": 14.0
         }
@@ -176792,12 +176011,12 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 63.9,
+        "total": 64.0,
         "data_complete": true,
         "breakdown": {
           "profitability": 16.3,
           "growth": 20.0,
-          "soundness": 5.5,
+          "soundness": 5.6,
           "cash_power": 12.1,
           "dividend_safety": 10.0
         }
@@ -178457,12 +177676,12 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 21.0,
+        "total": 21.1,
         "data_complete": true,
         "breakdown": {
           "profitability": 3.9,
           "growth": 0.0,
-          "soundness": 4.2,
+          "soundness": 4.3,
           "cash_power": 2.9,
           "dividend_safety": 10.0
         }
@@ -178544,10 +177763,10 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 78.4,
+        "total": 78.3,
         "data_complete": true,
         "breakdown": {
-          "profitability": 13.5,
+          "profitability": 13.4,
           "growth": 20.0,
           "soundness": 14.2,
           "cash_power": 16.7,
@@ -179433,12 +178652,12 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 53.5,
+        "total": 53.6,
         "data_complete": true,
         "breakdown": {
           "profitability": 7.5,
           "growth": 20.0,
-          "soundness": 5.9,
+          "soundness": 6.0,
           "cash_power": 0.1,
           "dividend_safety": 20.0
         }
@@ -180132,12 +179351,12 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 47.8,
+        "total": 47.9,
         "data_complete": true,
         "breakdown": {
           "profitability": 5.0,
           "growth": 20.0,
-          "soundness": 5.2,
+          "soundness": 5.3,
           "cash_power": 0.6,
           "dividend_safety": 17.0
         }
@@ -180742,12 +179961,12 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 76.1,
+        "total": 76.2,
         "data_complete": true,
         "breakdown": {
           "profitability": 10.8,
           "growth": 20.0,
-          "soundness": 12.4,
+          "soundness": 12.5,
           "cash_power": 12.9,
           "dividend_safety": 20.0
         }
@@ -183555,13 +182774,13 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 60.5,
+        "total": 60.6,
         "data_complete": true,
         "breakdown": {
           "profitability": 7.2,
           "growth": 10.0,
           "soundness": 17.3,
-          "cash_power": 16.0,
+          "cash_power": 16.1,
           "dividend_safety": 10.0
         }
       },
@@ -183816,10 +183035,10 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 73.3,
+        "total": 73.2,
         "data_complete": true,
         "breakdown": {
-          "profitability": 10.7,
+          "profitability": 10.6,
           "growth": 20.0,
           "soundness": 13.0,
           "cash_power": 12.6,
@@ -183903,10 +183122,10 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 50.5,
+        "total": 50.4,
         "data_complete": true,
         "breakdown": {
-          "profitability": 5.2,
+          "profitability": 5.1,
           "growth": 0.0,
           "soundness": 17.9,
           "cash_power": 17.4,
@@ -185486,10 +184705,10 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 78.3,
+        "total": 78.2,
         "data_complete": true,
         "breakdown": {
-          "profitability": 15.4,
+          "profitability": 15.3,
           "growth": 20.0,
           "soundness": 6.8,
           "cash_power": 16.1,
@@ -185926,10 +185145,10 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 73.1,
+        "total": 73.0,
         "data_complete": true,
         "breakdown": {
-          "profitability": 13.9,
+          "profitability": 13.8,
           "growth": 20.0,
           "soundness": 9.6,
           "cash_power": 12.6,
@@ -186013,10 +185232,10 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 73.2,
+        "total": 73.1,
         "data_complete": true,
         "breakdown": {
-          "profitability": 7.7,
+          "profitability": 7.6,
           "growth": 20.0,
           "soundness": 13.4,
           "cash_power": 12.1,
@@ -188803,12 +188022,12 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 45.7,
+        "total": 45.8,
         "data_complete": true,
         "breakdown": {
           "profitability": 2.2,
           "growth": 10.0,
-          "soundness": 9.9,
+          "soundness": 10.0,
           "cash_power": 13.6,
           "dividend_safety": 10.0
         }
@@ -189155,10 +188374,10 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 79.6,
+        "total": 79.5,
         "data_complete": true,
         "breakdown": {
-          "profitability": 9.7,
+          "profitability": 9.6,
           "growth": 20.0,
           "soundness": 14.0,
           "cash_power": 15.9,
@@ -189682,10 +188901,10 @@
       "split_warning_message": "過去の有価証券報告書から、株式分割の影響が確認されています。表示されている年間配当は、現在の1株配当と異なる可能性があります。",
       "preset_tier": null,
       "quality_score": {
-        "total": 37.9,
+        "total": 37.8,
         "data_complete": true,
         "breakdown": {
-          "profitability": 4.2,
+          "profitability": 4.1,
           "growth": 10.0,
           "soundness": 8.7,
           "cash_power": 5.0,
@@ -190742,10 +189961,10 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 55.2,
+        "total": 55.1,
         "data_complete": true,
         "breakdown": {
-          "profitability": 7.0,
+          "profitability": 6.9,
           "growth": 20.0,
           "soundness": 1.9,
           "cash_power": 16.3,
@@ -193452,12 +192671,12 @@
       "split_warning_message": "過去の有価証券報告書から、株式分割の影響が確認されています。表示されている年間配当は、現在の1株配当と異なる可能性があります。",
       "preset_tier": null,
       "quality_score": {
-        "total": 36.2,
+        "total": 36.3,
         "data_complete": true,
         "breakdown": {
           "profitability": 11.2,
           "growth": 10.0,
-          "soundness": 11.8,
+          "soundness": 11.9,
           "cash_power": 3.2,
           "dividend_safety": 0.0
         }
@@ -193974,12 +193193,12 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 48.5,
+        "total": 48.6,
         "data_complete": true,
         "breakdown": {
           "profitability": 6.9,
           "growth": 20.0,
-          "soundness": 4.1,
+          "soundness": 4.2,
           "cash_power": 0.5,
           "dividend_safety": 17.0
         }
@@ -195705,12 +194924,12 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 18.1,
+        "total": 18.2,
         "data_complete": true,
         "breakdown": {
           "profitability": 2.3,
           "growth": 10.0,
-          "soundness": 4.1,
+          "soundness": 4.2,
           "cash_power": 1.7,
           "dividend_safety": 0.0
         }
@@ -196498,10 +195717,10 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 61.4,
+        "total": 61.3,
         "data_complete": true,
         "breakdown": {
-          "profitability": 5.8,
+          "profitability": 5.7,
           "growth": 10.0,
           "soundness": 18.3,
           "cash_power": 17.3,
@@ -197884,13 +197103,13 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 50.1,
+        "total": 50.2,
         "data_complete": true,
         "breakdown": {
           "profitability": 12.1,
           "growth": 20.0,
           "soundness": 4.3,
-          "cash_power": 3.7,
+          "cash_power": 3.8,
           "dividend_safety": 10.0
         }
       },
@@ -197978,12 +197197,12 @@
       "split_warning_message": "過去の有価証券報告書から、株式分割の影響が確認されています。表示されている年間配当は、現在の1株配当と異なる可能性があります。",
       "preset_tier": null,
       "quality_score": {
-        "total": 41.0,
+        "total": 41.1,
         "data_complete": true,
         "breakdown": {
           "profitability": 19.4,
           "growth": 10.0,
-          "soundness": 2.5,
+          "soundness": 2.6,
           "cash_power": 9.1,
           "dividend_safety": 0.0
         }
@@ -199545,10 +198764,10 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 69.3,
+        "total": 69.2,
         "data_complete": true,
         "breakdown": {
-          "profitability": 15.1,
+          "profitability": 15.0,
           "growth": 0.0,
           "soundness": 16.6,
           "cash_power": 17.6,
@@ -200862,10 +200081,10 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 44.2,
+        "total": 44.1,
         "data_complete": true,
         "breakdown": {
-          "profitability": 10.8,
+          "profitability": 10.7,
           "growth": 10.0,
           "soundness": 4.5,
           "cash_power": 1.9,
@@ -203317,12 +202536,12 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 57.6,
+        "total": 57.7,
         "data_complete": true,
         "breakdown": {
           "profitability": 10.9,
           "growth": 20.0,
-          "soundness": 5.4,
+          "soundness": 5.5,
           "cash_power": 1.3,
           "dividend_safety": 20.0
         }
@@ -203584,12 +202803,12 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 54.4,
+        "total": 54.5,
         "data_complete": true,
         "breakdown": {
           "profitability": 16.7,
           "growth": 10.0,
-          "soundness": 2.2,
+          "soundness": 2.3,
           "cash_power": 11.5,
           "dividend_safety": 14.0
         }
@@ -204275,10 +203494,10 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 65.7,
+        "total": 65.6,
         "data_complete": true,
         "breakdown": {
-          "profitability": 7.9,
+          "profitability": 7.8,
           "growth": 20.0,
           "soundness": 12.0,
           "cash_power": 11.8,
@@ -204362,10 +203581,10 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 64.0,
+        "total": 63.9,
         "data_complete": true,
         "breakdown": {
-          "profitability": 9.6,
+          "profitability": 9.5,
           "growth": 10.0,
           "soundness": 12.6,
           "cash_power": 14.8,
@@ -205055,12 +204274,12 @@
       "split_warning_message": "過去の有価証券報告書から、株式分割の影響が確認されています。表示されている年間配当は、現在の1株配当と異なる可能性があります。",
       "preset_tier": null,
       "quality_score": {
-        "total": 40.9,
+        "total": 41.0,
         "data_complete": true,
         "breakdown": {
           "profitability": 12.4,
           "growth": 10.0,
-          "soundness": 3.9,
+          "soundness": 4.0,
           "cash_power": 10.6,
           "dividend_safety": 4.0
         }
@@ -208029,13 +207248,13 @@
       "split_warning_message": "過去の有価証券報告書から、株式分割の影響が確認されています。表示されている年間配当は、現在の1株配当と異なる可能性があります。",
       "preset_tier": null,
       "quality_score": {
-        "total": 52.4,
+        "total": 52.5,
         "data_complete": true,
         "breakdown": {
           "profitability": 15.3,
           "growth": 10.0,
           "soundness": 7.1,
-          "cash_power": 13.0,
+          "cash_power": 13.1,
           "dividend_safety": 7.0
         }
       },
@@ -209946,12 +209165,12 @@
       "split_warning_message": null,
       "preset_tier": "standard",
       "quality_score": {
-        "total": 80.0,
+        "total": 80.1,
         "data_complete": true,
         "breakdown": {
           "profitability": 15.6,
           "growth": 20.0,
-          "soundness": 11.1,
+          "soundness": 11.2,
           "cash_power": 13.3,
           "dividend_safety": 20.0
         }
@@ -210559,12 +209778,12 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 62.8,
+        "total": 62.9,
         "data_complete": true,
         "breakdown": {
           "profitability": 4.7,
           "growth": 20.0,
-          "soundness": 7.2,
+          "soundness": 7.3,
           "cash_power": 10.9,
           "dividend_safety": 20.0
         }
@@ -210734,8 +209953,8 @@
         "payout_ratio_pass": "配当性向 50%以下"
       },
       "split_warnings": [
-        "Prior1Year→CurrentYear で発行済株式数が約3倍(比率3.00)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。",
-        "Prior3Year→Prior2Year で発行済株式数が約2倍(比率2.00)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。"
+        "Prior3Year→Prior2Year で発行済株式数が約2倍(比率2.00)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。",
+        "Prior1Year→CurrentYear で発行済株式数が約3倍(比率3.00)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。"
       ],
       "split_warning_message": "過去の有価証券報告書から、株式分割の影響が確認されています。表示されている年間配当は、現在の1株配当と異なる可能性があります。",
       "preset_tier": null,
@@ -212902,12 +212121,12 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 81.8,
+        "total": 81.9,
         "data_complete": true,
         "breakdown": {
           "profitability": 13.1,
           "growth": 20.0,
-          "soundness": 12.4,
+          "soundness": 12.5,
           "cash_power": 16.3,
           "dividend_safety": 20.0
         }
@@ -213076,12 +212295,12 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 48.6,
+        "total": 48.7,
         "data_complete": true,
         "breakdown": {
           "profitability": 5.9,
           "growth": 20.0,
-          "soundness": 9.9,
+          "soundness": 10.0,
           "cash_power": 2.8,
           "dividend_safety": 10.0
         }
@@ -213163,12 +212382,12 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 69.7,
+        "total": 69.8,
         "data_complete": true,
         "breakdown": {
           "profitability": 5.4,
           "growth": 20.0,
-          "soundness": 13.9,
+          "soundness": 14.0,
           "cash_power": 10.4,
           "dividend_safety": 20.0
         }
@@ -215415,12 +214634,12 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 25.2,
+        "total": 25.3,
         "data_complete": true,
         "breakdown": {
           "profitability": 19.4,
           "growth": 0.0,
-          "soundness": 4.2,
+          "soundness": 4.3,
           "cash_power": 1.6,
           "dividend_safety": 0.0
         }
@@ -218455,12 +217674,12 @@
       "split_warning_message": "過去の有価証券報告書から、株式分割の影響が確認されています。表示されている年間配当は、現在の1株配当と異なる可能性があります。",
       "preset_tier": null,
       "quality_score": {
-        "total": 38.1,
+        "total": 38.2,
         "data_complete": true,
         "breakdown": {
           "profitability": 3.9,
           "growth": 0.0,
-          "soundness": 11.1,
+          "soundness": 11.2,
           "cash_power": 16.1,
           "dividend_safety": 7.0
         }
@@ -219868,10 +219087,10 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 66.7,
+        "total": 66.6,
         "data_complete": true,
         "breakdown": {
-          "profitability": 10.2,
+          "profitability": 10.1,
           "growth": 20.0,
           "soundness": 3.3,
           "cash_power": 13.2,
@@ -222771,12 +221990,12 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 43.1,
+        "total": 43.2,
         "data_complete": true,
         "breakdown": {
           "profitability": 7.7,
           "growth": 10.0,
-          "soundness": 4.4,
+          "soundness": 4.5,
           "cash_power": 1.0,
           "dividend_safety": 20.0
         }
@@ -222950,12 +222169,12 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 62.2,
+        "total": 62.3,
         "data_complete": true,
         "breakdown": {
           "profitability": 3.5,
           "growth": 20.0,
-          "soundness": 7.9,
+          "soundness": 8.0,
           "cash_power": 10.8,
           "dividend_safety": 20.0
         }
@@ -224000,10 +223219,10 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 80.7,
+        "total": 80.6,
         "data_complete": true,
         "breakdown": {
-          "profitability": 10.5,
+          "profitability": 10.4,
           "growth": 20.0,
           "soundness": 14.9,
           "cash_power": 15.3,
@@ -225838,13 +225057,13 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 56.4,
+        "total": 56.5,
         "data_complete": true,
         "breakdown": {
           "profitability": 8.5,
           "growth": 20.0,
           "soundness": 4.0,
-          "cash_power": 3.9,
+          "cash_power": 4.0,
           "dividend_safety": 20.0
         }
       },
@@ -228202,12 +227421,12 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 62.9,
+        "total": 63.0,
         "data_complete": true,
         "breakdown": {
           "profitability": 12.9,
           "growth": 20.0,
-          "soundness": 11.8,
+          "soundness": 11.9,
           "cash_power": 4.2,
           "dividend_safety": 14.0
         }
@@ -229675,8 +228894,8 @@
         "payout_ratio_pass": "配当性向 50%以下"
       },
       "split_warnings": [
-        "Prior1Year→CurrentYear で発行済株式数が約2倍(比率2.03)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。",
-        "Prior3Year→Prior2Year で発行済株式数が約2倍(比率2.02)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。"
+        "Prior3Year→Prior2Year で発行済株式数が約2倍(比率2.02)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。",
+        "Prior1Year→CurrentYear で発行済株式数が約2倍(比率2.03)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。"
       ],
       "split_warning_message": "過去の有価証券報告書から、株式分割の影響が確認されています。表示されている年間配当は、現在の1株配当と異なる可能性があります。",
       "preset_tier": null,
@@ -230033,12 +229252,12 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 31.0,
+        "total": 31.1,
         "data_complete": true,
         "breakdown": {
           "profitability": 5.8,
           "growth": 0.0,
-          "soundness": 11.1,
+          "soundness": 11.2,
           "cash_power": 0.1,
           "dividend_safety": 14.0
         }
@@ -230389,12 +229608,12 @@
       "split_warning_message": "過去の有価証券報告書から、株式分割の影響が確認されています。表示されている年間配当は、現在の1株配当と異なる可能性があります。",
       "preset_tier": null,
       "quality_score": {
-        "total": 54.9,
+        "total": 55.0,
         "data_complete": true,
         "breakdown": {
           "profitability": 14.2,
           "growth": 10.0,
-          "soundness": 9.3,
+          "soundness": 9.4,
           "cash_power": 14.4,
           "dividend_safety": 7.0
         }
@@ -231279,10 +230498,10 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 69.7,
+        "total": 69.6,
         "data_complete": true,
         "breakdown": {
-          "profitability": 15.2,
+          "profitability": 15.1,
           "growth": 20.0,
           "soundness": 4.2,
           "cash_power": 13.3,
@@ -235810,12 +235029,12 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 71.2,
+        "total": 71.3,
         "data_complete": true,
         "breakdown": {
           "profitability": 15.3,
           "growth": 20.0,
-          "soundness": 5.4,
+          "soundness": 5.5,
           "cash_power": 10.5,
           "dividend_safety": 20.0
         }
@@ -236344,9 +235563,9 @@
         "total": 70.6,
         "data_complete": true,
         "breakdown": {
-          "profitability": 9.6,
+          "profitability": 9.5,
           "growth": 20.0,
-          "soundness": 9.9,
+          "soundness": 10.0,
           "cash_power": 14.1,
           "dividend_safety": 17.0
         }
@@ -237043,13 +236262,13 @@
       "split_warning_message": null,
       "preset_tier": "standard",
       "quality_score": {
-        "total": 76.1,
+        "total": 76.2,
         "data_complete": true,
         "breakdown": {
           "profitability": 15.4,
           "growth": 20.0,
           "soundness": 11.1,
-          "cash_power": 15.6,
+          "cash_power": 15.7,
           "dividend_safety": 14.0
         }
       },
@@ -239074,10 +238293,10 @@
       "split_warning_message": "過去の有価証券報告書から、株式分割の影響が確認されています。表示されている年間配当は、現在の1株配当と異なる可能性があります。",
       "preset_tier": null,
       "quality_score": {
-        "total": 66.9,
+        "total": 66.8,
         "data_complete": true,
         "breakdown": {
-          "profitability": 13.2,
+          "profitability": 13.1,
           "growth": 10.0,
           "soundness": 15.8,
           "cash_power": 17.9,
@@ -239161,12 +238380,12 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 52.2,
+        "total": 52.3,
         "data_complete": true,
         "breakdown": {
           "profitability": 4.8,
           "growth": 20.0,
-          "soundness": 7.0,
+          "soundness": 7.1,
           "cash_power": 0.4,
           "dividend_safety": 20.0
         }
@@ -242833,13 +242052,13 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 70.4,
+        "total": 70.5,
         "data_complete": true,
         "breakdown": {
           "profitability": 11.7,
           "growth": 20.0,
           "soundness": 19.3,
-          "cash_power": 5.4,
+          "cash_power": 5.5,
           "dividend_safety": 14.0
         }
       },
@@ -242926,12 +242145,12 @@
       "split_warning_message": "過去の有価証券報告書から、株式分割の影響が確認されています。表示されている年間配当は、現在の1株配当と異なる可能性があります。",
       "preset_tier": null,
       "quality_score": {
-        "total": 33.8,
+        "total": 33.9,
         "data_complete": true,
         "breakdown": {
           "profitability": 9.1,
           "growth": 10.0,
-          "soundness": 11.8,
+          "soundness": 11.9,
           "cash_power": 2.9,
           "dividend_safety": 0.0
         }
@@ -244152,8 +243371,8 @@
         "payout_ratio_pass": "配当性向 50%以下"
       },
       "split_warnings": [
-        "Prior3Year→Prior2Year で発行済株式数が約2倍(比率2.00)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。",
-        "Prior2Year→Prior1Year で発行済株式数が約2倍(比率2.00)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。"
+        "Prior2Year→Prior1Year で発行済株式数が約2倍(比率2.00)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。",
+        "Prior3Year→Prior2Year で発行済株式数が約2倍(比率2.00)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。"
       ],
       "split_warning_message": "過去の有価証券報告書から、株式分割の影響が確認されています。表示されている年間配当は、現在の1株配当と異なる可能性があります。",
       "preset_tier": null,
@@ -244857,10 +244076,10 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 70.6,
+        "total": 70.5,
         "data_complete": true,
         "breakdown": {
-          "profitability": 8.3,
+          "profitability": 8.2,
           "growth": 20.0,
           "soundness": 16.2,
           "cash_power": 12.1,
@@ -245470,10 +244689,10 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 74.6,
+        "total": 74.5,
         "data_complete": true,
         "breakdown": {
-          "profitability": 13.8,
+          "profitability": 13.7,
           "growth": 10.0,
           "soundness": 15.6,
           "cash_power": 18.2,
@@ -246351,12 +245570,12 @@
       "split_warning_message": "過去の有価証券報告書から、株式分割の影響が確認されています。表示されている年間配当は、現在の1株配当と異なる可能性があります。",
       "preset_tier": null,
       "quality_score": {
-        "total": 38.4,
+        "total": 38.5,
         "data_complete": true,
         "breakdown": {
           "profitability": 6.3,
           "growth": 10.0,
-          "soundness": 11.1,
+          "soundness": 11.2,
           "cash_power": 11.0,
           "dividend_safety": 0.0
         }
@@ -249534,10 +248753,10 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 62.7,
+        "total": 62.6,
         "data_complete": true,
         "breakdown": {
-          "profitability": 3.9,
+          "profitability": 3.8,
           "growth": 20.0,
           "soundness": 13.4,
           "cash_power": 15.4,
@@ -252934,8 +252153,8 @@
         "payout_ratio_pass": "配当性向 50%以下"
       },
       "split_warnings": [
-        "Prior1Year→CurrentYear で発行済株式数が約2倍(比率2.00)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。",
-        "Prior4Year→Prior3Year で発行済株式数が約3倍(比率3.00)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。"
+        "Prior4Year→Prior3Year で発行済株式数が約3倍(比率3.00)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。",
+        "Prior1Year→CurrentYear で発行済株式数が約2倍(比率2.00)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。"
       ],
       "split_warning_message": "過去の有価証券報告書から、株式分割の影響が確認されています。表示されている年間配当は、現在の1株配当と異なる可能性があります。",
       "preset_tier": null,
@@ -254165,10 +253384,10 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 52.4,
+        "total": 52.3,
         "data_complete": true,
         "breakdown": {
-          "profitability": 12.7,
+          "profitability": 12.6,
           "growth": 20.0,
           "soundness": 3.1,
           "cash_power": 2.6,
@@ -254339,12 +253558,12 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 30.0,
+        "total": 30.1,
         "data_complete": true,
         "breakdown": {
           "profitability": 7.1,
           "growth": 0.0,
-          "soundness": 10.1,
+          "soundness": 10.2,
           "cash_power": 2.8,
           "dividend_safety": 10.0
         }
@@ -254861,12 +254080,12 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 70.7,
+        "total": 70.8,
         "data_complete": true,
         "breakdown": {
           "profitability": 10.6,
           "growth": 20.0,
-          "soundness": 10.1,
+          "soundness": 10.2,
           "cash_power": 10.0,
           "dividend_safety": 20.0
         }
@@ -255040,10 +254259,10 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 60.7,
+        "total": 60.6,
         "data_complete": true,
         "breakdown": {
-          "profitability": 3.8,
+          "profitability": 3.7,
           "growth": 20.0,
           "soundness": 15.8,
           "cash_power": 11.1,
@@ -255216,12 +254435,12 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 23.9,
+        "total": 24.0,
         "data_complete": true,
         "breakdown": {
           "profitability": 2.4,
           "growth": 10.0,
-          "soundness": 3.0,
+          "soundness": 3.1,
           "cash_power": 8.5,
           "dividend_safety": 0.0
         }
@@ -255478,8 +254697,8 @@
         "payout_ratio_pass": "配当性向 50%以下"
       },
       "split_warnings": [
-        "Prior1Year→CurrentYear で発行済株式数が約5倍(比率4.79)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。",
-        "Prior4Year→Prior3Year で発行済株式数が約2倍(比率2.00)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。"
+        "Prior4Year→Prior3Year で発行済株式数が約2倍(比率2.00)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。",
+        "Prior1Year→CurrentYear で発行済株式数が約5倍(比率4.79)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。"
       ],
       "split_warning_message": "過去の有価証券報告書から、株式分割の影響が確認されています。表示されている年間配当は、現在の1株配当と異なる可能性があります。",
       "preset_tier": null,
@@ -256014,12 +255233,12 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 59.8,
+        "total": 59.9,
         "data_complete": true,
         "breakdown": {
           "profitability": 9.1,
           "growth": 20.0,
-          "soundness": 10.1,
+          "soundness": 10.2,
           "cash_power": 0.6,
           "dividend_safety": 20.0
         }
@@ -256986,10 +256205,10 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 61.9,
+        "total": 61.8,
         "data_complete": true,
         "breakdown": {
-          "profitability": 9.6,
+          "profitability": 9.5,
           "growth": 10.0,
           "soundness": 5.3,
           "cash_power": 17.0,
@@ -257073,12 +256292,12 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 58.8,
+        "total": 58.9,
         "data_complete": true,
         "breakdown": {
           "profitability": 7.8,
           "growth": 20.0,
-          "soundness": 11.8,
+          "soundness": 11.9,
           "cash_power": 2.2,
           "dividend_safety": 17.0
         }
@@ -257514,12 +256733,12 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 54.7,
+        "total": 54.8,
         "data_complete": true,
         "breakdown": {
           "profitability": 4.5,
           "growth": 10.0,
-          "soundness": 13.8,
+          "soundness": 13.9,
           "cash_power": 16.4,
           "dividend_safety": 10.0
         }
@@ -259897,8 +259116,8 @@
         "payout_ratio_pass": "配当性向 50%以下"
       },
       "split_warnings": [
-        "Prior1Year→CurrentYear で発行済株式数が約3倍(比率3.00)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。",
-        "Prior3Year→Prior2Year で発行済株式数が約2倍(比率2.00)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。"
+        "Prior3Year→Prior2Year で発行済株式数が約2倍(比率2.00)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。",
+        "Prior1Year→CurrentYear で発行済株式数が約3倍(比率3.00)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。"
       ],
       "split_warning_message": "過去の有価証券報告書から、株式分割の影響が確認されています。表示されている年間配当は、現在の1株配当と異なる可能性があります。",
       "preset_tier": null,
@@ -261128,12 +260347,12 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 56.8,
+        "total": 56.9,
         "data_complete": true,
         "breakdown": {
           "profitability": 11.5,
           "growth": 20.0,
-          "soundness": 6.3,
+          "soundness": 6.4,
           "cash_power": 19.0,
           "dividend_safety": 0.0
         }
@@ -261395,10 +260614,10 @@
       "split_warning_message": "過去の有価証券報告書から、株式分割の影響が確認されています。表示されている年間配当は、現在の1株配当と異なる可能性があります。",
       "preset_tier": null,
       "quality_score": {
-        "total": 53.8,
+        "total": 53.7,
         "data_complete": true,
         "breakdown": {
-          "profitability": 10.9,
+          "profitability": 10.8,
           "growth": 10.0,
           "soundness": 10.7,
           "cash_power": 12.2,
@@ -262274,10 +261493,10 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 63.4,
+        "total": 63.3,
         "data_complete": true,
         "breakdown": {
-          "profitability": 8.2,
+          "profitability": 8.1,
           "growth": 20.0,
           "soundness": 16.8,
           "cash_power": 18.4,
@@ -263160,12 +262379,12 @@
       "split_warning_message": "過去の有価証券報告書から、株式分割の影響が確認されています。表示されている年間配当は、現在の1株配当と異なる可能性があります。",
       "preset_tier": null,
       "quality_score": {
-        "total": 60.9,
+        "total": 61.0,
         "data_complete": true,
         "breakdown": {
           "profitability": 13.1,
           "growth": 10.0,
-          "soundness": 11.1,
+          "soundness": 11.2,
           "cash_power": 16.7,
           "dividend_safety": 10.0
         }
@@ -266236,12 +265455,12 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 22.8,
+        "total": 22.9,
         "data_complete": true,
         "breakdown": {
           "profitability": 1.6,
           "growth": 0.0,
-          "soundness": 1.6,
+          "soundness": 1.7,
           "cash_power": 19.6,
           "dividend_safety": 0.0
         }
@@ -268612,12 +267831,12 @@
       "split_warning_message": "過去の有価証券報告書から、株式分割の影響が確認されています。表示されている年間配当は、現在の1株配当と異なる可能性があります。",
       "preset_tier": null,
       "quality_score": {
-        "total": 20.3,
+        "total": 20.4,
         "data_complete": true,
         "breakdown": {
           "profitability": 3.8,
           "growth": 10.0,
-          "soundness": 4.1,
+          "soundness": 4.2,
           "cash_power": 2.4,
           "dividend_safety": 0.0
         }
@@ -269309,12 +268528,12 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 66.6,
+        "total": 66.7,
         "data_complete": true,
         "breakdown": {
           "profitability": 8.2,
           "growth": 10.0,
-          "soundness": 13.9,
+          "soundness": 14.0,
           "cash_power": 14.5,
           "dividend_safety": 20.0
         }
@@ -269489,12 +268708,12 @@
       "split_warning_message": "過去の有価証券報告書から、株式分割の影響が確認されています。表示されている年間配当は、現在の1株配当と異なる可能性があります。",
       "preset_tier": null,
       "quality_score": {
-        "total": 41.0,
+        "total": 41.1,
         "data_complete": true,
         "breakdown": {
           "profitability": 16.3,
           "growth": 0.0,
-          "soundness": 3.8,
+          "soundness": 3.9,
           "cash_power": 10.9,
           "dividend_safety": 10.0
         }
@@ -269576,10 +268795,10 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 52.2,
+        "total": 52.1,
         "data_complete": true,
         "breakdown": {
-          "profitability": 9.1,
+          "profitability": 9.0,
           "growth": 0.0,
           "soundness": 14.9,
           "cash_power": 14.2,
@@ -272619,13 +271838,13 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 61.1,
+        "total": 61.0,
         "data_complete": true,
         "breakdown": {
           "profitability": 6.1,
           "growth": 10.0,
           "soundness": 17.6,
-          "cash_power": 17.4,
+          "cash_power": 17.3,
           "dividend_safety": 10.0
         }
       },
@@ -274895,10 +274114,10 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 50.0,
+        "total": 49.9,
         "data_complete": true,
         "breakdown": {
-          "profitability": 9.1,
+          "profitability": 9.0,
           "growth": 0.0,
           "soundness": 9.4,
           "cash_power": 11.5,
@@ -275680,13 +274899,13 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 52.5,
+        "total": 52.6,
         "data_complete": true,
         "breakdown": {
           "profitability": 7.9,
           "growth": 20.0,
           "soundness": 3.4,
-          "cash_power": 4.2,
+          "cash_power": 4.3,
           "dividend_safety": 17.0
         }
       },
@@ -281536,10 +280755,10 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 61.3,
+        "total": 61.2,
         "data_complete": true,
         "breakdown": {
-          "profitability": 7.1,
+          "profitability": 7.0,
           "growth": 20.0,
           "soundness": 12.1,
           "cash_power": 5.1,
@@ -281710,8 +280929,8 @@
         "payout_ratio_pass": "配当性向 50%以下"
       },
       "split_warnings": [
-        "Prior3Year→Prior2Year で発行済株式数が約2倍(比率2.00)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。",
-        "Prior2Year→Prior1Year で発行済株式数が約5倍(比率4.83)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。"
+        "Prior2Year→Prior1Year で発行済株式数が約5倍(比率4.83)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。",
+        "Prior3Year→Prior2Year で発行済株式数が約2倍(比率2.00)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。"
       ],
       "split_warning_message": "過去の有価証券報告書から、株式分割の影響が確認されています。表示されている年間配当は、現在の1株配当と異なる可能性があります。",
       "preset_tier": null,
@@ -283747,12 +282966,12 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 29.6,
+        "total": 29.7,
         "data_complete": true,
         "breakdown": {
           "profitability": 0.9,
           "growth": 20.0,
-          "soundness": 5.2,
+          "soundness": 5.3,
           "cash_power": 3.5,
           "dividend_safety": 0.0
         }
@@ -284891,12 +284110,12 @@
       "split_warning_message": "過去の有価証券報告書から、株式分割の影響が確認されています。表示されている年間配当は、現在の1株配当と異なる可能性があります。",
       "preset_tier": null,
       "quality_score": {
-        "total": 63.1,
+        "total": 63.2,
         "data_complete": true,
         "breakdown": {
           "profitability": 18.0,
           "growth": 10.0,
-          "soundness": 13.9,
+          "soundness": 14.0,
           "cash_power": 17.2,
           "dividend_safety": 4.0
         }
@@ -287150,12 +286369,12 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 50.6,
+        "total": 50.7,
         "data_complete": true,
         "breakdown": {
           "profitability": 7.9,
           "growth": 10.0,
-          "soundness": 11.1,
+          "soundness": 11.2,
           "cash_power": 4.6,
           "dividend_safety": 17.0
         }
@@ -290212,13 +289431,13 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 76.2,
+        "total": 76.3,
         "data_complete": true,
         "breakdown": {
           "profitability": 5.2,
           "growth": 20.0,
           "soundness": 15.2,
-          "cash_power": 15.8,
+          "cash_power": 15.9,
           "dividend_safety": 20.0
         }
       },
@@ -292521,9 +291740,9 @@
         "total": 44.6,
         "data_complete": true,
         "breakdown": {
-          "profitability": 13.0,
+          "profitability": 12.9,
           "growth": 10.0,
-          "soundness": 5.9,
+          "soundness": 6.0,
           "cash_power": 1.7,
           "dividend_safety": 14.0
         }
@@ -294176,12 +293395,12 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 55.7,
+        "total": 55.8,
         "data_complete": true,
         "breakdown": {
           "profitability": 4.1,
           "growth": 20.0,
-          "soundness": 9.9,
+          "soundness": 10.0,
           "cash_power": 4.7,
           "dividend_safety": 17.0
         }
@@ -294351,8 +293570,8 @@
         "payout_ratio_pass": "配当性向 50%以下"
       },
       "split_warnings": [
-        "Prior1Year→CurrentYear で発行済株式数が約3倍(比率3.00)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。",
-        "Prior2Year→Prior1Year で発行済株式数が約2倍(比率2.10)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。"
+        "Prior2Year→Prior1Year で発行済株式数が約2倍(比率2.10)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。",
+        "Prior1Year→CurrentYear で発行済株式数が約3倍(比率3.00)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。"
       ],
       "split_warning_message": "過去の有価証券報告書から、株式分割の影響が確認されています。表示されている年間配当は、現在の1株配当と異なる可能性があります。",
       "preset_tier": null,
@@ -294618,12 +293837,12 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 48.8,
+        "total": 48.9,
         "data_complete": true,
         "breakdown": {
           "profitability": 2.8,
           "growth": 20.0,
-          "soundness": 5.4,
+          "soundness": 5.5,
           "cash_power": 0.6,
           "dividend_safety": 20.0
         }
@@ -296997,10 +296216,10 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 59.2,
+        "total": 59.1,
         "data_complete": true,
         "breakdown": {
-          "profitability": 6.4,
+          "profitability": 6.3,
           "growth": 20.0,
           "soundness": 12.2,
           "cash_power": 0.6,
@@ -299261,12 +298480,12 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 61.5,
+        "total": 61.6,
         "data_complete": true,
         "breakdown": {
           "profitability": 9.5,
           "growth": 10.0,
-          "soundness": 5.4,
+          "soundness": 5.5,
           "cash_power": 16.6,
           "dividend_safety": 20.0
         }
@@ -299348,12 +298567,12 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 31.0,
+        "total": 31.1,
         "data_complete": true,
         "breakdown": {
           "profitability": 8.2,
           "growth": 10.0,
-          "soundness": 1.5,
+          "soundness": 1.6,
           "cash_power": 11.3,
           "dividend_safety": 0.0
         }
@@ -299609,12 +298828,12 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 61.8,
+        "total": 61.9,
         "data_complete": true,
         "breakdown": {
           "profitability": 15.8,
           "growth": 20.0,
-          "soundness": 9.3,
+          "soundness": 9.4,
           "cash_power": 2.7,
           "dividend_safety": 14.0
         }
@@ -300665,12 +299884,12 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 51.7,
+        "total": 51.8,
         "data_complete": true,
         "breakdown": {
           "profitability": 4.3,
           "growth": 20.0,
-          "soundness": 4.4,
+          "soundness": 4.5,
           "cash_power": 6.0,
           "dividend_safety": 17.0
         }
@@ -301013,12 +300232,12 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 65.9,
+        "total": 66.0,
         "data_complete": true,
         "breakdown": {
           "profitability": 10.8,
           "growth": 20.0,
-          "soundness": 3.9,
+          "soundness": 4.0,
           "cash_power": 11.2,
           "dividend_safety": 20.0
         }
@@ -301453,13 +300672,13 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 73.9,
+        "total": 74.0,
         "data_complete": true,
         "breakdown": {
           "profitability": 13.2,
           "growth": 10.0,
           "soundness": 16.0,
-          "cash_power": 14.7,
+          "cash_power": 14.8,
           "dividend_safety": 20.0
         }
       },
@@ -302335,12 +301554,12 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 64.5,
+        "total": 64.6,
         "data_complete": true,
         "breakdown": {
           "profitability": 13.6,
           "growth": 20.0,
-          "soundness": 13.8,
+          "soundness": 13.9,
           "cash_power": 0.1,
           "dividend_safety": 17.0
         }
@@ -305771,12 +304990,12 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 34.4,
+        "total": 34.5,
         "data_complete": true,
         "breakdown": {
           "profitability": 1.8,
           "growth": 0.0,
-          "soundness": 13.8,
+          "soundness": 13.9,
           "cash_power": 8.8,
           "dividend_safety": 10.0
         }
@@ -306032,10 +305251,10 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 65.3,
+        "total": 65.2,
         "data_complete": true,
         "breakdown": {
-          "profitability": 5.4,
+          "profitability": 5.3,
           "growth": 20.0,
           "soundness": 6.9,
           "cash_power": 13.0,
@@ -306471,12 +305690,12 @@
       "split_warning_message": "過去の有価証券報告書から、株式分割の影響が確認されています。表示されている年間配当は、現在の1株配当と異なる可能性があります。",
       "preset_tier": null,
       "quality_score": {
-        "total": 41.2,
+        "total": 41.3,
         "data_complete": true,
         "breakdown": {
           "profitability": 12.7,
           "growth": 10.0,
-          "soundness": 5.9,
+          "soundness": 6.0,
           "cash_power": 12.6,
           "dividend_safety": 0.0
         }
@@ -306819,10 +306038,10 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 61.4,
+        "total": 61.3,
         "data_complete": true,
         "breakdown": {
-          "profitability": 14.6,
+          "profitability": 14.5,
           "growth": 0.0,
           "soundness": 11.6,
           "cash_power": 15.2,
@@ -307971,93 +307190,6 @@
       },
       "size_bracket": "〜100億円",
       "business_summary": "患者自身の脂肪組織から抽出した幹細胞を用いた再生医療製品・治療サービスを提供する医療機器メーカー。"
-    },
-    {
-      "stock_code": "7255",
-      "edinet_code": "E01644",
-      "company_name": "株式会社　桜井製作所",
-      "industry": "輸送用機器",
-      "doc_id": "S100YI1Y",
-      "doc_description": "有価証券報告書－第78期(2025/04/01－2026/03/31)",
-      "period_end": "2026-03-31",
-      "recent_history": [
-        {
-          "period_label": "Prior2Year",
-          "sales": 5539000000,
-          "operating_income": null,
-          "operating_margin": null
-        },
-        {
-          "period_label": "Prior1Year",
-          "sales": 4964000000,
-          "operating_income": 163562000,
-          "operating_margin": 0.03294963738920226
-        },
-        {
-          "period_label": "CurrentYear",
-          "sales": 4928000000,
-          "operating_income": 141715000,
-          "operating_margin": 0.028757102272727274
-        }
-      ],
-      "is_candidate": false,
-      "has_uncertain": false,
-      "is_unsupported_industry": false,
-      "post_report_split_check": "unsupported",
-      "trailing_annual_dividend": 15.0,
-      "raw": {
-        "sales": 4928000000,
-        "eps": 70.25,
-        "operating_income": 141715000,
-        "operating_margin": 0.028757102272727274,
-        "equity_ratio": 0.677,
-        "roe": 0.047,
-        "cfo": 1065000000,
-        "cash_eq": 1583000000,
-        "cash_margin": 0.32122564935064934,
-        "shares_issued": 4000000,
-        "payout_ratio": 0.21352313167259787,
-        "target_price": 797.8643
-      },
-      "criteria": {
-        "sales_uptrend": false,
-        "eps_uptrend": true,
-        "operating_margin_pass": false,
-        "equity_ratio_pass": true,
-        "roe_pass": false,
-        "cfo_all_positive": false,
-        "cash_margin_pass": true,
-        "dps_uptrend": true,
-        "payout_ratio_pass": true
-      },
-      "criteria_reasons": {},
-      "criteria_labels": {
-        "sales_uptrend": "売上高 右肩上がり",
-        "eps_uptrend": "EPS 右肩上がり",
-        "operating_margin_pass": "営業利益率 10%以上",
-        "equity_ratio_pass": "自己資本比率 50%以上",
-        "roe_pass": "ROE 8%以上",
-        "cfo_all_positive": "営業CF 毎期黒字",
-        "cash_margin_pass": "現金等マージン 10%以上",
-        "dps_uptrend": "1株配当 右肩上がり",
-        "payout_ratio_pass": "配当性向 50%以下"
-      },
-      "split_warnings": [],
-      "split_warning_message": null,
-      "preset_tier": null,
-      "quality_score": {
-        "total": 55.3,
-        "data_complete": true,
-        "breakdown": {
-          "profitability": 4.7,
-          "growth": 10.0,
-          "soundness": 14.0,
-          "cash_power": 6.6,
-          "dividend_safety": 20.0
-        }
-      },
-      "size_bracket": "〜100億円",
-      "business_summary": "自動車部品や工作機械などの製造・販売を行う機械メーカー。"
     },
     {
       "stock_code": "1921",
@@ -309449,12 +308581,12 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 21.9,
+        "total": 22.0,
         "data_complete": true,
         "breakdown": {
           "profitability": 1.1,
           "growth": 0.0,
-          "soundness": 2.7,
+          "soundness": 2.8,
           "cash_power": 18.1,
           "dividend_safety": 0.0
         }
@@ -310679,12 +309811,12 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 65.2,
+        "total": 65.3,
         "data_complete": true,
         "breakdown": {
           "profitability": 12.8,
           "growth": 10.0,
-          "soundness": 10.1,
+          "soundness": 10.2,
           "cash_power": 15.3,
           "dividend_safety": 17.0
         }
@@ -310943,9 +310075,9 @@
         "total": 41.2,
         "data_complete": true,
         "breakdown": {
-          "profitability": 7.3,
+          "profitability": 7.2,
           "growth": 10.0,
-          "soundness": 10.1,
+          "soundness": 10.2,
           "cash_power": 13.8,
           "dividend_safety": 0.0
         }
@@ -312169,10 +311301,10 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 83.0,
+        "total": 82.9,
         "data_complete": true,
         "breakdown": {
-          "profitability": 14.2,
+          "profitability": 14.1,
           "growth": 10.0,
           "soundness": 19.8,
           "cash_power": 19.0,
@@ -314197,12 +313329,12 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 50.4,
+        "total": 50.5,
         "data_complete": true,
         "breakdown": {
           "profitability": 7.5,
           "growth": 20.0,
-          "soundness": 2.6,
+          "soundness": 2.7,
           "cash_power": 0.3,
           "dividend_safety": 20.0
         }
@@ -318256,12 +317388,12 @@
       "split_warning_message": "過去の有価証券報告書から、株式分割の影響が確認されています。表示されている年間配当は、現在の1株配当と異なる可能性があります。",
       "preset_tier": null,
       "quality_score": {
-        "total": 47.5,
+        "total": 47.6,
         "data_complete": true,
         "breakdown": {
           "profitability": 7.9,
           "growth": 10.0,
-          "soundness": 9.3,
+          "soundness": 9.4,
           "cash_power": 16.3,
           "dividend_safety": 4.0
         }
@@ -319044,13 +318176,13 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 67.5,
+        "total": 67.6,
         "data_complete": true,
         "breakdown": {
           "profitability": 11.8,
           "growth": 20.0,
           "soundness": 5.4,
-          "cash_power": 13.3,
+          "cash_power": 13.4,
           "dividend_safety": 17.0
         }
       },
@@ -322899,13 +322031,13 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 52.4,
+        "total": 52.6,
         "data_complete": true,
         "breakdown": {
           "profitability": 13.4,
           "growth": 20.0,
-          "soundness": 4.1,
-          "cash_power": 14.9,
+          "soundness": 4.2,
+          "cash_power": 15.0,
           "dividend_safety": 0.0
         }
       },
@@ -323600,13 +322732,13 @@
       "split_warning_message": "過去の有価証券報告書から、株式分割の影響が確認されています。表示されている年間配当は、現在の1株配当と異なる可能性があります。",
       "preset_tier": null,
       "quality_score": {
-        "total": 21.6,
+        "total": 21.7,
         "data_complete": true,
         "breakdown": {
           "profitability": 1.3,
           "growth": 0.0,
           "soundness": 15.7,
-          "cash_power": 4.6,
+          "cash_power": 4.7,
           "dividend_safety": 0.0
         }
       },
@@ -326950,10 +326082,10 @@
       "split_warning_message": null,
       "preset_tier": "upper",
       "quality_score": {
-        "total": 87.0,
+        "total": 86.9,
         "data_complete": true,
         "breakdown": {
-          "profitability": 18.0,
+          "profitability": 17.9,
           "growth": 20.0,
           "soundness": 14.8,
           "cash_power": 17.2,
@@ -328891,12 +328023,12 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 44.6,
+        "total": 44.7,
         "data_complete": true,
         "breakdown": {
           "profitability": 1.4,
           "growth": 10.0,
-          "soundness": 9.3,
+          "soundness": 9.4,
           "cash_power": 13.9,
           "dividend_safety": 10.0
         }
@@ -329152,12 +328284,12 @@
       "split_warning_message": null,
       "preset_tier": null,
       "quality_score": {
-        "total": 71.7,
+        "total": 71.8,
         "data_complete": true,
         "breakdown": {
           "profitability": 18.4,
           "growth": 20.0,
-          "soundness": 4.2,
+          "soundness": 4.3,
           "cash_power": 19.1,
           "dividend_safety": 10.0
         }
@@ -329430,6 +328562,100 @@
       },
       "size_bracket": "〜100億円",
       "business_summary": "不動産会社向けにマーケティング自動化クラウドサービス「KASIKA」を提供し、営業活動の効率化を支援する会社。"
+    },
+    {
+      "stock_code": "4825",
+      "edinet_code": "E05162",
+      "company_name": "株式会社ウェザーニューズ",
+      "industry": "情報・通信業",
+      "doc_id": "S100YXMM",
+      "doc_description": "有価証券報告書－第40期(2025/06/01－2026/05/31)",
+      "period_end": "2026-05-31",
+      "recent_history": [
+        {
+          "period_label": "Prior2Year",
+          "sales": 22242915000,
+          "operating_income": null,
+          "operating_margin": null
+        },
+        {
+          "period_label": "Prior1Year",
+          "sales": 23505624000,
+          "operating_income": 4517299000,
+          "operating_margin": 0.19217949712800647
+        },
+        {
+          "period_label": "CurrentYear",
+          "sales": 24479267000,
+          "operating_income": 5244702000,
+          "operating_margin": 0.21425077801553452
+        }
+      ],
+      "is_candidate": true,
+      "has_uncertain": true,
+      "is_unsupported_industry": false,
+      "post_report_split_check": "unsupported",
+      "trailing_annual_dividend": 107.5,
+      "raw": {
+        "sales": 24479267000,
+        "eps": 85.76,
+        "operating_income": 5244702000,
+        "operating_margin": 0.21425077801553452,
+        "equity_ratio": 0.845,
+        "roe": 0.168,
+        "cfo": 3638364000,
+        "cash_eq": 18825836000,
+        "cash_margin": 0.7690522759525439,
+        "shares_issued": 47376000,
+        "payout_ratio": null,
+        "target_price": 1558.6955167173253
+      },
+      "criteria": {
+        "sales_uptrend": true,
+        "eps_uptrend": null,
+        "operating_margin_pass": true,
+        "equity_ratio_pass": true,
+        "roe_pass": true,
+        "cfo_all_positive": true,
+        "cash_margin_pass": true,
+        "dps_uptrend": null,
+        "payout_ratio_pass": null
+      },
+      "criteria_reasons": {
+        "eps_uptrend_reason": "split_suspected",
+        "dps_uptrend_reason": "split_suspected",
+        "payout_ratio_reason": "split_suspected"
+      },
+      "criteria_labels": {
+        "sales_uptrend": "売上高 右肩上がり",
+        "eps_uptrend": "EPS 右肩上がり",
+        "operating_margin_pass": "営業利益率 10%以上",
+        "equity_ratio_pass": "自己資本比率 50%以上",
+        "roe_pass": "ROE 8%以上",
+        "cfo_all_positive": "営業CF 毎期黒字",
+        "cash_margin_pass": "現金等マージン 10%以上",
+        "dps_uptrend": "1株配当 右肩上がり",
+        "payout_ratio_pass": "配当性向 50%以下"
+      },
+      "split_warnings": [
+        "Prior2Year→Prior1Year で発行済株式数が約2倍(比率2.00)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。",
+        "Prior1Year→CurrentYear で発行済株式数が約2倍(比率2.00)。株式分割の可能性があり、この期間をまたぐ「右肩上がり」判定は保留(要確認)にしています。"
+      ],
+      "split_warning_message": "過去の有価証券報告書から、株式分割の影響が確認されています。表示されている年間配当は、現在の1株配当と異なる可能性があります。",
+      "preset_tier": null,
+      "quality_score": {
+        "total": 65.7,
+        "data_complete": true,
+        "breakdown": {
+          "profitability": 17.6,
+          "growth": 10.0,
+          "soundness": 18.9,
+          "cash_power": 19.2,
+          "dividend_safety": 0.0
+        }
+      },
+      "size_bracket": "100億〜300億円",
+      "business_summary": "気象・海象・地象・水象・宙象データを収集し、高精度な予測値をもとに法人向けおよび個人向けの気象サービスを提供している会社。"
     },
     {
       "stock_code": "2796",
@@ -330573,6 +329799,93 @@
       "business_summary": "食品を中心としたスーパーマーケット事業を主力とし、食品製造や農業などの関連事業を展開する企業グループ。"
     },
     {
+      "stock_code": "9812",
+      "edinet_code": "E03169",
+      "company_name": "株式会社テーオーホールディングス",
+      "industry": "小売業",
+      "doc_id": "S100YYIN",
+      "doc_description": "有価証券報告書－第72期(2025/06/01－2026/05/31)",
+      "period_end": "2026-05-31",
+      "recent_history": [
+        {
+          "period_label": "Prior2Year",
+          "sales": 25605236000,
+          "operating_income": null,
+          "operating_margin": null
+        },
+        {
+          "period_label": "Prior1Year",
+          "sales": 24188270000,
+          "operating_income": 222183000,
+          "operating_margin": 0.009185568045999156
+        },
+        {
+          "period_label": "CurrentYear",
+          "sales": 23543532000,
+          "operating_income": 207044000,
+          "operating_margin": 0.008794092577103554
+        }
+      ],
+      "is_candidate": false,
+      "has_uncertain": false,
+      "is_unsupported_industry": false,
+      "post_report_split_check": "unsupported",
+      "trailing_annual_dividend": 0.0,
+      "raw": {
+        "sales": 23543532000,
+        "eps": -8.24,
+        "operating_income": 207044000,
+        "operating_margin": 0.008794092577103554,
+        "equity_ratio": 0.021,
+        "roe": -0.126,
+        "cfo": 1798594000,
+        "cash_eq": 1363538000,
+        "cash_margin": 0.05791560926372474,
+        "shares_issued": 8926896,
+        "payout_ratio": -0.0,
+        "target_price": -869.5489227162499
+      },
+      "criteria": {
+        "sales_uptrend": false,
+        "eps_uptrend": false,
+        "operating_margin_pass": false,
+        "equity_ratio_pass": false,
+        "roe_pass": false,
+        "cfo_all_positive": true,
+        "cash_margin_pass": false,
+        "dps_uptrend": false,
+        "payout_ratio_pass": false
+      },
+      "criteria_reasons": {},
+      "criteria_labels": {
+        "sales_uptrend": "売上高 右肩上がり",
+        "eps_uptrend": "EPS 右肩上がり",
+        "operating_margin_pass": "営業利益率 10%以上",
+        "equity_ratio_pass": "自己資本比率 50%以上",
+        "roe_pass": "ROE 8%以上",
+        "cfo_all_positive": "営業CF 毎期黒字",
+        "cash_margin_pass": "現金等マージン 10%以上",
+        "dps_uptrend": "1株配当 右肩上がり",
+        "payout_ratio_pass": "配当性向 50%以下"
+      },
+      "split_warnings": [],
+      "split_warning_message": null,
+      "preset_tier": null,
+      "quality_score": {
+        "total": 12.2,
+        "data_complete": true,
+        "breakdown": {
+          "profitability": 1.5,
+          "growth": 0.0,
+          "soundness": 0.0,
+          "cash_power": 10.7,
+          "dividend_safety": 0.0
+        }
+      },
+      "size_bracket": "100億〜300億円",
+      "business_summary": "木材・流通・建設・不動産賃貸・自動車販売など多角的事業を展開する総合商社グループ。"
+    },
+    {
       "stock_code": "3892",
       "edinet_code": "E00687",
       "company_name": "株式会社岡山製紙",
@@ -330658,6 +329971,95 @@
       },
       "size_bracket": "100億〜300億円",
       "business_summary": "段ボール原紙と紙管原紙の製造販売、および青果物や食品などの包装用段ボール箱の製造販売を行う会社。"
+    },
+    {
+      "stock_code": "2934",
+      "edinet_code": "E33800",
+      "company_name": "ジェイフロンティア株式会社",
+      "industry": "情報・通信業",
+      "doc_id": "S100YYK8",
+      "doc_description": "有価証券報告書－第18期(2025/06/01－2026/05/31)",
+      "period_end": "2026-05-31",
+      "recent_history": [
+        {
+          "period_label": "Prior2Year",
+          "sales": 17714904000,
+          "operating_income": null,
+          "operating_margin": null
+        },
+        {
+          "period_label": "Prior1Year",
+          "sales": 21504496000,
+          "operating_income": 293746000,
+          "operating_margin": 0.01365974817545131
+        },
+        {
+          "period_label": "CurrentYear",
+          "sales": 22235985000,
+          "operating_income": 312270000,
+          "operating_margin": 0.014043452538756435
+        }
+      ],
+      "is_candidate": false,
+      "has_uncertain": false,
+      "is_unsupported_industry": false,
+      "post_report_split_check": "unsupported",
+      "trailing_annual_dividend": 0.0,
+      "raw": {
+        "sales": 22235985000,
+        "eps": -60.64,
+        "operating_income": 312270000,
+        "operating_margin": 0.014043452538756435,
+        "equity_ratio": 0.128,
+        "roe": null,
+        "cfo": 454324000,
+        "cash_eq": 2131293000,
+        "cash_margin": 0.09584882342743081,
+        "shares_issued": 5336369,
+        "payout_ratio": -0.0,
+        "target_price": 142.14155730235296
+      },
+      "criteria": {
+        "sales_uptrend": true,
+        "eps_uptrend": false,
+        "operating_margin_pass": false,
+        "equity_ratio_pass": false,
+        "roe_pass": null,
+        "cfo_all_positive": false,
+        "cash_margin_pass": false,
+        "dps_uptrend": false,
+        "payout_ratio_pass": false
+      },
+      "criteria_reasons": {
+        "roe_reason": "no_data"
+      },
+      "criteria_labels": {
+        "sales_uptrend": "売上高 右肩上がり",
+        "eps_uptrend": "EPS 右肩上がり",
+        "operating_margin_pass": "営業利益率 10%以上",
+        "equity_ratio_pass": "自己資本比率 50%以上",
+        "roe_pass": "ROE 8%以上",
+        "cfo_all_positive": "営業CF 毎期黒字",
+        "cash_margin_pass": "現金等マージン 10%以上",
+        "dps_uptrend": "1株配当 右肩上がり",
+        "payout_ratio_pass": "配当性向 50%以下"
+      },
+      "split_warnings": [],
+      "split_warning_message": null,
+      "preset_tier": null,
+      "quality_score": {
+        "total": 15.4,
+        "data_complete": true,
+        "breakdown": {
+          "profitability": 2.9,
+          "growth": 10.0,
+          "soundness": 0.9,
+          "cash_power": 1.6,
+          "dividend_safety": 0.0
+        }
+      },
+      "size_bracket": "100億〜300億円",
+      "business_summary": "健康食品・医薬品の通販事業とオンライン診療・服薬指導を含む医療プラットフォームサービスを提供する会社。"
     },
     {
       "stock_code": "9765",
@@ -330834,6 +330236,93 @@
       "business_summary": "小津産業は不織布製品の加工・販売を主とし、農業資材や過酢酸製剤の販売、不動産賃貸事業も行っている企業グループである。"
     },
     {
+      "stock_code": "4885",
+      "edinet_code": "E36350",
+      "company_name": "室町ケミカル株式会社",
+      "industry": "医薬品",
+      "doc_id": "S100YYBG",
+      "doc_description": "有価証券報告書－第80期(2025/06/01－2026/05/31)",
+      "period_end": "2026-05-31",
+      "recent_history": [
+        {
+          "period_label": "Prior2Year",
+          "sales": 6369097000,
+          "operating_income": null,
+          "operating_margin": null
+        },
+        {
+          "period_label": "Prior1Year",
+          "sales": 6653028000,
+          "operating_income": 432188000,
+          "operating_margin": 0.0649610974130877
+        },
+        {
+          "period_label": "CurrentYear",
+          "sales": 7840931000,
+          "operating_income": 742930000,
+          "operating_margin": 0.09475022800226146
+        }
+      ],
+      "is_candidate": false,
+      "has_uncertain": false,
+      "is_unsupported_industry": false,
+      "post_report_split_check": "unsupported",
+      "trailing_annual_dividend": 26,
+      "raw": {
+        "sales": 7840931000,
+        "eps": 40.58,
+        "operating_income": 742930000,
+        "operating_margin": 0.09475022800226146,
+        "equity_ratio": 0.406,
+        "roe": 0.065,
+        "cfo": 808089000,
+        "cash_eq": 1917059000,
+        "cash_margin": 0.24449379799414125,
+        "shares_issued": 4095500,
+        "payout_ratio": 0.6407097092163627,
+        "target_price": 2130.2016359418876
+      },
+      "criteria": {
+        "sales_uptrend": true,
+        "eps_uptrend": false,
+        "operating_margin_pass": false,
+        "equity_ratio_pass": false,
+        "roe_pass": false,
+        "cfo_all_positive": true,
+        "cash_margin_pass": true,
+        "dps_uptrend": true,
+        "payout_ratio_pass": false
+      },
+      "criteria_reasons": {},
+      "criteria_labels": {
+        "sales_uptrend": "売上高 右肩上がり",
+        "eps_uptrend": "EPS 右肩上がり",
+        "operating_margin_pass": "営業利益率 10%以上",
+        "equity_ratio_pass": "自己資本比率 50%以上",
+        "roe_pass": "ROE 8%以上",
+        "cfo_all_positive": "営業CF 毎期黒字",
+        "cash_margin_pass": "現金等マージン 10%以上",
+        "dps_uptrend": "1株配当 右肩上がり",
+        "payout_ratio_pass": "配当性向 50%以下"
+      },
+      "split_warnings": [],
+      "split_warning_message": null,
+      "preset_tier": null,
+      "quality_score": {
+        "total": 55.3,
+        "data_complete": true,
+        "breakdown": {
+          "profitability": 10.4,
+          "growth": 10.0,
+          "soundness": 5.5,
+          "cash_power": 15.4,
+          "dividend_safety": 14.0
+        }
+      },
+      "size_bracket": "〜100億円",
+      "business_summary": "医薬品原薬の製造販売、健康食品の受託製造、イオン交換樹脂と分離膜などの水処理関連製品の販売・加工を行う化学技術企業。"
+    },
+    {
       "stock_code": "5575",
       "edinet_code": "E38662",
       "company_name": "株式会社Ｇｌｏｂｅｅ",
@@ -330919,6 +330408,93 @@
       },
       "size_bracket": "〜100億円",
       "business_summary": "AI技術を活用して1200以上の豊富な教材を融合させた英語学習プラットフォーム「abceed」の企画・開発・運営を行う企業。"
+    },
+    {
+      "stock_code": "6552",
+      "edinet_code": "E33254",
+      "company_name": "株式会社ＧａｍｅＷｉｔｈ",
+      "industry": "情報・通信業",
+      "doc_id": "S100YYH7",
+      "doc_description": "有価証券報告書－第13期(2025/06/01－2026/05/31)",
+      "period_end": "2026-05-31",
+      "recent_history": [
+        {
+          "period_label": "Prior2Year",
+          "sales": 3497000000,
+          "operating_income": null,
+          "operating_margin": null
+        },
+        {
+          "period_label": "Prior1Year",
+          "sales": 3451000000,
+          "operating_income": -196885000,
+          "operating_margin": -0.05705157925239061
+        },
+        {
+          "period_label": "CurrentYear",
+          "sales": 4047000000,
+          "operating_income": 101734000,
+          "operating_margin": 0.025138127007659994
+        }
+      ],
+      "is_candidate": false,
+      "has_uncertain": false,
+      "is_unsupported_industry": false,
+      "post_report_split_check": "unsupported",
+      "trailing_annual_dividend": 0.0,
+      "raw": {
+        "sales": 4047000000,
+        "eps": 1.43,
+        "operating_income": 101734000,
+        "operating_margin": 0.025138127007659994,
+        "equity_ratio": 0.76,
+        "roe": 0.009,
+        "cfo": 302000000,
+        "cash_eq": 2320000000,
+        "cash_margin": 0.5732641462811959,
+        "shares_issued": 18348200,
+        "payout_ratio": 0.0,
+        "target_price": 184.06079070426526
+      },
+      "criteria": {
+        "sales_uptrend": false,
+        "eps_uptrend": true,
+        "operating_margin_pass": false,
+        "equity_ratio_pass": true,
+        "roe_pass": false,
+        "cfo_all_positive": false,
+        "cash_margin_pass": true,
+        "dps_uptrend": false,
+        "payout_ratio_pass": false
+      },
+      "criteria_reasons": {},
+      "criteria_labels": {
+        "sales_uptrend": "売上高 右肩上がり",
+        "eps_uptrend": "EPS 右肩上がり",
+        "operating_margin_pass": "営業利益率 10%以上",
+        "equity_ratio_pass": "自己資本比率 50%以上",
+        "roe_pass": "ROE 8%以上",
+        "cfo_all_positive": "営業CF 毎期黒字",
+        "cash_margin_pass": "現金等マージン 10%以上",
+        "dps_uptrend": "1株配当 右肩上がり",
+        "payout_ratio_pass": "配当性向 50%以下"
+      },
+      "split_warnings": [],
+      "split_warning_message": null,
+      "preset_tier": null,
+      "quality_score": {
+        "total": 38.4,
+        "data_complete": true,
+        "breakdown": {
+          "profitability": 2.9,
+          "growth": 10.0,
+          "soundness": 16.8,
+          "cash_power": 8.7,
+          "dividend_safety": 0.0
+        }
+      },
+      "size_bracket": "〜100億円",
+      "business_summary": "ゲーム攻略情報メディア「GameWith」の運営を中心に、eスポーツ・エンタメ事業やNFT事業など、ゲーム関連の多角的事業を展開する企業。"
     },
     {
       "stock_code": "523A",
@@ -331008,6 +330584,180 @@
       "business_summary": "製造業の中小企業をM&Aで事業承継し、プラットフォームを通じてグループ全体でバリューアップを行う持株会社。"
     },
     {
+      "stock_code": "4465",
+      "edinet_code": "E00890",
+      "company_name": "株式会社ニイタカ",
+      "industry": "化学",
+      "doc_id": "S100YYMP",
+      "doc_description": "有価証券報告書－第64期(2025/06/01－2026/05/31)",
+      "period_end": "2026-05-31",
+      "recent_history": [
+        {
+          "period_label": "Prior2Year",
+          "sales": 22739125000,
+          "operating_income": null,
+          "operating_margin": null
+        },
+        {
+          "period_label": "Prior1Year",
+          "sales": 23714867000,
+          "operating_income": 1925108000,
+          "operating_margin": 0.0811772631910607
+        },
+        {
+          "period_label": "CurrentYear",
+          "sales": 24619486000,
+          "operating_income": 2118608000,
+          "operating_margin": 0.08605411177146428
+        }
+      ],
+      "is_candidate": false,
+      "has_uncertain": false,
+      "is_unsupported_industry": false,
+      "post_report_split_check": "unsupported",
+      "trailing_annual_dividend": 77.0,
+      "raw": {
+        "sales": 24619486000,
+        "eps": 321.01,
+        "operating_income": 2118608000,
+        "operating_margin": 0.08605411177146428,
+        "equity_ratio": 0.682,
+        "roe": 0.123,
+        "cfo": 2704979000,
+        "cash_eq": 7888434000,
+        "cash_margin": 0.32041424422914433,
+        "shares_issued": 5943000,
+        "payout_ratio": 0.2398679168873244,
+        "target_price": 4875.870031970386
+      },
+      "criteria": {
+        "sales_uptrend": true,
+        "eps_uptrend": true,
+        "operating_margin_pass": false,
+        "equity_ratio_pass": true,
+        "roe_pass": true,
+        "cfo_all_positive": true,
+        "cash_margin_pass": true,
+        "dps_uptrend": true,
+        "payout_ratio_pass": true
+      },
+      "criteria_reasons": {},
+      "criteria_labels": {
+        "sales_uptrend": "売上高 右肩上がり",
+        "eps_uptrend": "EPS 右肩上がり",
+        "operating_margin_pass": "営業利益率 10%以上",
+        "equity_ratio_pass": "自己資本比率 50%以上",
+        "roe_pass": "ROE 8%以上",
+        "cfo_all_positive": "営業CF 毎期黒字",
+        "cash_margin_pass": "現金等マージン 10%以上",
+        "dps_uptrend": "1株配当 右肩上がり",
+        "payout_ratio_pass": "配当性向 50%以下"
+      },
+      "split_warnings": [],
+      "split_warning_message": null,
+      "preset_tier": null,
+      "quality_score": {
+        "total": 84.1,
+        "data_complete": true,
+        "breakdown": {
+          "profitability": 13.3,
+          "growth": 20.0,
+          "soundness": 14.2,
+          "cash_power": 16.6,
+          "dividend_safety": 20.0
+        }
+      },
+      "size_bracket": "100億〜300億円",
+      "business_summary": "業務用洗剤・除菌剤などの化学薬品とケミカルサービスを提供するケミカル事業と、健康食品製造販売のヘルスケア事業を展開している企業。"
+    },
+    {
+      "stock_code": "6505",
+      "edinet_code": "E01742",
+      "company_name": "東洋電機製造株式会社",
+      "industry": "電気機器",
+      "doc_id": "S100YYOS",
+      "doc_description": "有価証券報告書－第165期(2025/06/01－2026/05/31)",
+      "period_end": "2026-05-31",
+      "recent_history": [
+        {
+          "period_label": "Prior2Year",
+          "sales": 32140000000,
+          "operating_income": null,
+          "operating_margin": null
+        },
+        {
+          "period_label": "Prior1Year",
+          "sales": 40539000000,
+          "operating_income": 2384000000,
+          "operating_margin": 0.058807568020918126
+        },
+        {
+          "period_label": "CurrentYear",
+          "sales": 40480000000,
+          "operating_income": 3111000000,
+          "operating_margin": 0.07685276679841897
+        }
+      ],
+      "is_candidate": false,
+      "has_uncertain": false,
+      "is_unsupported_industry": false,
+      "post_report_split_check": "unsupported",
+      "trailing_annual_dividend": 100.0,
+      "raw": {
+        "sales": 40480000000,
+        "eps": 329.76,
+        "operating_income": 3111000000,
+        "operating_margin": 0.07685276679841897,
+        "equity_ratio": 0.569,
+        "roe": 0.103,
+        "cfo": -826000000,
+        "cash_eq": 4172000000,
+        "cash_margin": 0.10306324110671937,
+        "shares_issued": 9735000,
+        "payout_ratio": 0.3032508491023775,
+        "target_price": 5543.1535695942475
+      },
+      "criteria": {
+        "sales_uptrend": true,
+        "eps_uptrend": true,
+        "operating_margin_pass": false,
+        "equity_ratio_pass": true,
+        "roe_pass": true,
+        "cfo_all_positive": false,
+        "cash_margin_pass": true,
+        "dps_uptrend": true,
+        "payout_ratio_pass": true
+      },
+      "criteria_reasons": {},
+      "criteria_labels": {
+        "sales_uptrend": "売上高 右肩上がり",
+        "eps_uptrend": "EPS 右肩上がり",
+        "operating_margin_pass": "営業利益率 10%以上",
+        "equity_ratio_pass": "自己資本比率 50%以上",
+        "roe_pass": "ROE 8%以上",
+        "cfo_all_positive": "営業CF 毎期黒字",
+        "cash_margin_pass": "現金等マージン 10%以上",
+        "dps_uptrend": "1株配当 右肩上がり",
+        "payout_ratio_pass": "配当性向 50%以下"
+      },
+      "split_warnings": [],
+      "split_warning_message": null,
+      "preset_tier": null,
+      "quality_score": {
+        "total": 64.0,
+        "data_complete": true,
+        "breakdown": {
+          "profitability": 11.9,
+          "growth": 20.0,
+          "soundness": 10.3,
+          "cash_power": 1.8,
+          "dividend_safety": 20.0
+        }
+      },
+      "size_bracket": "300億〜1000億円",
+      "business_summary": "鉄道・産業・ICT分野向けの電気機械器具の製造販売と工事を行う企業グループ。"
+    },
+    {
       "stock_code": "7921",
       "edinet_code": "E00710",
       "company_name": "株式会社ＴＡＫＡＲＡ　＆　ＣＯＭＰＡＮＹ",
@@ -331093,6 +330843,93 @@
       },
       "size_bracket": "300億〜1000億円",
       "business_summary": "上場企業向けディスクロージャー関連サービスと国内外での通訳・翻訳サービスを提供する企業グループ。"
+    },
+    {
+      "stock_code": "1376",
+      "edinet_code": "E00004",
+      "company_name": "カネコ種苗株式会社",
+      "industry": "水産・農林業",
+      "doc_id": "S100YYEO",
+      "doc_description": "有価証券報告書－第79期(2025/06/01－2026/05/31)",
+      "period_end": "2026-05-31",
+      "recent_history": [
+        {
+          "period_label": "Prior2Year",
+          "sales": 61598847000,
+          "operating_income": null,
+          "operating_margin": null
+        },
+        {
+          "period_label": "Prior1Year",
+          "sales": 64508666000,
+          "operating_income": 1511650000,
+          "operating_margin": 0.023433285692189016
+        },
+        {
+          "period_label": "CurrentYear",
+          "sales": 67733605000,
+          "operating_income": 1749488000,
+          "operating_margin": 0.025828951522659984
+        }
+      ],
+      "is_candidate": false,
+      "has_uncertain": false,
+      "is_unsupported_industry": false,
+      "post_report_split_check": "unsupported",
+      "trailing_annual_dividend": 48.0,
+      "raw": {
+        "sales": 67733605000,
+        "eps": 120.07,
+        "operating_income": 1749488000,
+        "operating_margin": 0.025828951522659984,
+        "equity_ratio": 0.494,
+        "roe": 0.051,
+        "cfo": 1924227000,
+        "cash_eq": 1583128000,
+        "cash_margin": 0.02337285901141686,
+        "shares_issued": 11772000,
+        "payout_ratio": 0.39976680269842596,
+        "target_price": 2485.5854740061163
+      },
+      "criteria": {
+        "sales_uptrend": true,
+        "eps_uptrend": true,
+        "operating_margin_pass": false,
+        "equity_ratio_pass": false,
+        "roe_pass": false,
+        "cfo_all_positive": false,
+        "cash_margin_pass": false,
+        "dps_uptrend": true,
+        "payout_ratio_pass": true
+      },
+      "criteria_reasons": {},
+      "criteria_labels": {
+        "sales_uptrend": "売上高 右肩上がり",
+        "eps_uptrend": "EPS 右肩上がり",
+        "operating_margin_pass": "営業利益率 10%以上",
+        "equity_ratio_pass": "自己資本比率 50%以上",
+        "roe_pass": "ROE 8%以上",
+        "cfo_all_positive": "営業CF 毎期黒字",
+        "cash_margin_pass": "現金等マージン 10%以上",
+        "dps_uptrend": "1株配当 右肩上がり",
+        "payout_ratio_pass": "配当性向 50%以下"
+      },
+      "split_warnings": [],
+      "split_warning_message": null,
+      "preset_tier": null,
+      "quality_score": {
+        "total": 52.8,
+        "data_complete": true,
+        "breakdown": {
+          "profitability": 4.7,
+          "growth": 20.0,
+          "soundness": 8.0,
+          "cash_power": 0.1,
+          "dividend_safety": 20.0
+        }
+      },
+      "size_bracket": "300億〜1000億円",
+      "business_summary": "種苗・花き・農薬・農業資材の販売及び養液栽培プラント・温室の設計施工を行う農業関連企業です。"
     },
     {
       "stock_code": "5869",
@@ -331267,6 +331104,93 @@
       },
       "size_bracket": "100億〜300億円",
       "business_summary": "雑貨類・食品類・化粧品類をテレビショッピング・インターネット・店舗で小売販売し、卸売も行う会社。"
+    },
+    {
+      "stock_code": "5932",
+      "edinet_code": "E26831",
+      "company_name": "三協立山株式会社",
+      "industry": "金属製品",
+      "doc_id": "S100YYN7",
+      "doc_description": "有価証券報告書－第81期(2025/06/01－2026/05/31)",
+      "period_end": "2026-05-31",
+      "recent_history": [
+        {
+          "period_label": "Prior2Year",
+          "sales": 353027000000,
+          "operating_income": null,
+          "operating_margin": null
+        },
+        {
+          "period_label": "Prior1Year",
+          "sales": 359424000000,
+          "operating_income": 1545000000,
+          "operating_margin": 0.004298544337606838
+        },
+        {
+          "period_label": "CurrentYear",
+          "sales": 357533000000,
+          "operating_income": 1546000000,
+          "operating_margin": 0.0043240763789636205
+        }
+      ],
+      "is_candidate": false,
+      "has_uncertain": false,
+      "is_unsupported_industry": false,
+      "post_report_split_check": "unsupported",
+      "trailing_annual_dividend": 25.0,
+      "raw": {
+        "sales": 357533000000,
+        "eps": -430.74,
+        "operating_income": 1546000000,
+        "operating_margin": 0.0043240763789636205,
+        "equity_ratio": 0.296,
+        "roe": -0.149,
+        "cfo": 5404000000,
+        "cash_eq": 27937000000,
+        "cash_margin": 0.07813824178467442,
+        "shares_issued": 31554629,
+        "payout_ratio": -0.0580396526907183,
+        "target_price": -580.6628244623
+      },
+      "criteria": {
+        "sales_uptrend": true,
+        "eps_uptrend": false,
+        "operating_margin_pass": false,
+        "equity_ratio_pass": false,
+        "roe_pass": false,
+        "cfo_all_positive": false,
+        "cash_margin_pass": false,
+        "dps_uptrend": true,
+        "payout_ratio_pass": false
+      },
+      "criteria_reasons": {},
+      "criteria_labels": {
+        "sales_uptrend": "売上高 右肩上がり",
+        "eps_uptrend": "EPS 右肩上がり",
+        "operating_margin_pass": "営業利益率 10%以上",
+        "equity_ratio_pass": "自己資本比率 50%以上",
+        "roe_pass": "ROE 8%以上",
+        "cfo_all_positive": "営業CF 毎期黒字",
+        "cash_margin_pass": "現金等マージン 10%以上",
+        "dps_uptrend": "1株配当 右肩上がり",
+        "payout_ratio_pass": "配当性向 50%以下"
+      },
+      "split_warnings": [],
+      "split_warning_message": null,
+      "preset_tier": null,
+      "quality_score": {
+        "total": 25.1,
+        "data_complete": true,
+        "breakdown": {
+          "profitability": 1.3,
+          "growth": 10.0,
+          "soundness": 2.7,
+          "cash_power": 1.1,
+          "dividend_safety": 10.0
+        }
+      },
+      "size_bracket": "1000億〜5000億円",
+      "business_summary": "アルミニウム・マグネシウムの鋳造加工と建材製品の製造販売、および商業施設向け什器製造販売を行う企業グループ。"
     },
     {
       "stock_code": "463A",
@@ -332032,7 +331956,7 @@
         }
       },
       "size_bracket": null,
-      "business_summary": null
+      "business_summary": "ナフサを熱分解してエチレンなどの石油化学基礎製品を製造し、これを原料に有機化学品や合成樹脂を生産・販売する企業。"
     },
     {
       "stock_code": "9227",
@@ -332472,7 +332396,7 @@
         }
       },
       "size_bracket": "〜100億円",
-      "business_summary": null
+      "business_summary": "クラウドネイティブとAI技術を活用し、金融機関の基幹システムのモダン化を支援するシステム開発会社。"
     },
     {
       "stock_code": "3111",
@@ -332559,7 +332483,7 @@
         }
       },
       "size_bracket": "〜100億円",
-      "business_summary": null
+      "business_summary": "繊維製品の加工販売、不動産賃貸、食品製造、電子機器やソフトウェアの販売を行う総合企業。"
     },
     {
       "stock_code": "634A",
@@ -332646,7 +332570,7 @@
         }
       },
       "size_bracket": "〜100億円",
-      "business_summary": null
+      "business_summary": "医療機関向けにWEB問診、予約、患者管理などのSaaSプロダクトを提供し、患者と医療の接点をデジタル化する企業。"
     },
     {
       "stock_code": "624A",
@@ -332736,7 +332660,7 @@
         }
       },
       "size_bracket": "〜100億円",
-      "business_summary": null
+      "business_summary": "中堅・中小企業の経営課題をコンサルティング、BPO、M&A支援、人材派遣により総合的にサポートする企業。"
     },
     {
       "stock_code": "607A",
@@ -332828,7 +332752,7 @@
         }
       },
       "size_bracket": "〜100億円",
-      "business_summary": null
+      "business_summary": "レシピ動画メディア「デリッシュキッチン」の運営とオンラインオフラインデータを活用した広告・小売支援事業を展開する企業。"
     },
     {
       "stock_code": "6908",
@@ -332915,7 +332839,7 @@
         }
       },
       "size_bracket": "300億〜1000億円",
-      "business_summary": null
+      "business_summary": "車載・デジタル・産業機器向けの基板接続用コネクタの製造・開発・販売を行う企業グループ。"
     },
     {
       "stock_code": "4069",
@@ -333002,7 +332926,100 @@
         }
       },
       "size_bracket": "〜100億円",
-      "business_summary": null
+      "business_summary": "ローコード・AI技術とアジャイル手法を組み合わせた独自開発方法論により、中堅・大手企業向けに業務システム開発サービスを提供する会社。"
+    },
+    {
+      "stock_code": "642A",
+      "edinet_code": "E04506",
+      "company_name": "キューデンホールディングス株式会社",
+      "industry": "電気・ガス業",
+      "doc_id": "S100YHHO",
+      "doc_description": "有価証券報告書－第102期(2025/04/01－2026/03/31)",
+      "period_end": "2026-03-31",
+      "recent_history": [
+        {
+          "period_label": "Prior1Year",
+          "sales": null,
+          "operating_income": 199564000000,
+          "operating_margin": null
+        },
+        {
+          "period_label": "CurrentYear",
+          "sales": null,
+          "operating_income": 224853000000,
+          "operating_margin": null
+        }
+      ],
+      "is_candidate": false,
+      "has_uncertain": false,
+      "is_unsupported_industry": false,
+      "post_report_split_check": "unsupported",
+      "trailing_annual_dividend": 50.0,
+      "raw": {
+        "sales": null,
+        "eps": 314.65,
+        "operating_income": 224853000000,
+        "operating_margin": null,
+        "equity_ratio": 0.199,
+        "roe": 0.141,
+        "cfo": 438745000000,
+        "cash_eq": 351182000000,
+        "cash_margin": null,
+        "shares_issued": 474184000,
+        "payout_ratio": 0.1589067217543302,
+        "target_price": -2255.366693098038
+      },
+      "criteria": {
+        "sales_uptrend": null,
+        "eps_uptrend": true,
+        "operating_margin_pass": null,
+        "equity_ratio_pass": false,
+        "roe_pass": true,
+        "cfo_all_positive": true,
+        "cash_margin_pass": null,
+        "dps_uptrend": true,
+        "payout_ratio_pass": true
+      },
+      "criteria_reasons": {
+        "sales_uptrend_reason": "no_data",
+        "operating_margin_reason": "no_data",
+        "cash_margin_reason": "no_data"
+      },
+      "criteria_labels": {
+        "sales_uptrend": "売上高 右肩上がり",
+        "eps_uptrend": "EPS 右肩上がり",
+        "operating_margin_pass": "営業利益率 10%以上",
+        "equity_ratio_pass": "自己資本比率 50%以上",
+        "roe_pass": "ROE 8%以上",
+        "cfo_all_positive": "営業CF 毎期黒字",
+        "cash_margin_pass": "現金等マージン 10%以上",
+        "dps_uptrend": "1株配当 右肩上がり",
+        "payout_ratio_pass": "配当性向 50%以下"
+      },
+      "split_warnings": [],
+      "split_warning_message": null,
+      "preset_tier": null,
+      "data_status": "predecessor",
+      "predecessor": {
+        "stock_code": "9508",
+        "company_name": "九州電力株式会社",
+        "effective_date": "2026-10-01",
+        "ratio": 1,
+        "reason": "持株会社への移行(単独株式移転)"
+      },
+      "quality_score": {
+        "total": null,
+        "data_complete": false,
+        "breakdown": {
+          "profitability": null,
+          "growth": null,
+          "soundness": null,
+          "cash_power": null,
+          "dividend_safety": null
+        }
+      },
+      "size_bracket": null,
+      "business_summary": "国内の発電・小売電気事業と九州の送配電事業を中心に、海外事業、ガス・LNG販売、ICTサービス、都市開発など多角的に展開する電力グループ。"
     }
   ]
 }

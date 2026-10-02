@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-10-01T18:33:07.279787",
-  "previous_generated_at": "2026-09-30T06:19:28.515727",
+  "generated_at": "2026-10-02T01:51:46.028356",
+  "previous_generated_at": "2026-10-01T18:33:06.756505",
   "retention_days": 90,
-  "count": 183,
+  "count": 184,
   "changes": [
+    {
+      "stock_code": "7255",
+      "company_name": "株式会社　桜井製作所",
+      "change_type": "no_longer_covered",
+      "old_value": null,
+      "new_value": null,
+      "detected_at": "2026-10-02"
+    },
     {
       "stock_code": "9223",
       "company_name": "株式会社ＡＳＮＯＶＡ",
@@ -55,10 +63,13 @@
     {
       "stock_code": "9508",
       "company_name": "九州電力株式会社",
-      "change_type": "no_longer_covered",
-      "old_value": null,
-      "new_value": null,
-      "detected_at": "2026-09-29"
+      "change_type": "succeeded",
+      "old_value": "9508",
+      "new_value": "642A",
+      "detected_at": "2026-09-29",
+      "successor_name": "キューデンホールディングス株式会社",
+      "ratio": 1,
+      "effective_date": "2026-10-01"
     },
     {
       "stock_code": "9417",
