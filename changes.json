@@ -1,9 +1,49 @@
 {
-  "generated_at": "2026-10-02T01:51:46.028356",
-  "previous_generated_at": "2026-10-01T18:33:06.756505",
+  "generated_at": "2026-10-04T08:13:11.280638",
+  "previous_generated_at": "2026-10-02T01:51:45.549787",
   "retention_days": 90,
-  "count": 184,
+  "count": 189,
   "changes": [
+    {
+      "stock_code": "9068",
+      "company_name": "丸全昭和運輸株式会社",
+      "change_type": "tier_newly_qualified",
+      "old_value": null,
+      "new_value": "standard",
+      "detected_at": "2026-10-04"
+    },
+    {
+      "stock_code": "9049",
+      "company_name": "京福電気鉄道株式会社",
+      "change_type": "tier_newly_qualified",
+      "old_value": null,
+      "new_value": "standard",
+      "detected_at": "2026-10-04"
+    },
+    {
+      "stock_code": "7434",
+      "company_name": "株式会社オータケ",
+      "change_type": "no_longer_covered",
+      "old_value": null,
+      "new_value": null,
+      "detected_at": "2026-10-04"
+    },
+    {
+      "stock_code": "4380",
+      "company_name": "株式会社Ｍマート",
+      "change_type": "tier_newly_qualified",
+      "old_value": null,
+      "new_value": "upper",
+      "detected_at": "2026-10-04"
+    },
+    {
+      "stock_code": "3991",
+      "company_name": "ウォンテッドリー株式会社",
+      "change_type": "tier_newly_qualified",
+      "old_value": null,
+      "new_value": "upper",
+      "detected_at": "2026-10-04"
+    },
     {
       "stock_code": "7255",
       "company_name": "株式会社　桜井製作所",
