@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-10-05T02:01:35.128543",
-  "previous_generated_at": "2026-10-05T01:01:09.862324",
+  "generated_at": "2026-10-05T11:41:28.773355",
+  "previous_generated_at": "2026-10-05T02:01:34.762757",
   "retention_days": 90,
-  "count": 189,
+  "count": 190,
   "changes": [
+    {
+      "stock_code": "3787",
+      "company_name": "株式会社テクノマセマティカル",
+      "change_type": "no_longer_covered",
+      "old_value": null,
+      "new_value": null,
+      "detected_at": "2026-10-05"
+    },
     {
       "stock_code": "9068",
       "company_name": "丸全昭和運輸株式会社",
